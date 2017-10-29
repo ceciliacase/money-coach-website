@@ -1,0 +1,1 @@
+Cecilia is a Money Coach. She works with individuals and couples in creating a healthy relationship with money. Please contact her at cecilia@bountifulmoneycoach.com to for more information or to set up an initial consultation.
