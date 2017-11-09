@@ -321,6 +321,8 @@ a:hover { text-decoration: underline; }
 .button:hover { color: rgba(255, 255, 255, 0.9); text-decoration: none; background-color: #159957; border-color: rgba(255, 255, 255, 0.3); }
 .button + .button { margin-left: 1rem; }
 
+.byline { font-size: 0.9rem; color: #8899a0; }
+
 .page-header { color: #fff; text-align: center; background-color: #159957; background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../images/GrowingMoney.jpg"); background-repeat: no-repeat; background-attachment: fixed; background-position: center center; background-size: cover; }
 @media screen and (min-width: 64em) { .page-header { padding: 3rem 4rem; } }
 @media screen and (min-width: 42em) and (max-width: 64em) { .page-header { padding: 2rem 1rem; } }
