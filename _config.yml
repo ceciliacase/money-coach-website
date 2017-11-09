@@ -1,6 +1,36 @@
 theme: jekyll-theme-cayman
-title: Bountiful Money Coaching
-description: [Create a loving relationship with your money!]
+github: [metadata]
+exclude: ['README.md', 'CNAME', 'Gemfile.lock', 'Gemfile', 'moneycoachwebsite.sublime-project', 'moneycoachwebsite.sublime-workspace', 'testposts']
 
-show_downloads: ["false"]
+title: Bountiful Money Coaching
+description: "Save money, budget according to your values, and experience financial bliss"
+name: Cecilia Case
+email: cecilia@ceciliacase.com
+
+excerpt_separator: <!--more-->
+#permalink: /:title/
+
+show_downloads: false
 google_analytics: []
+
+# Don't show posts written in the future
+future: false
+
+# Front matter defaults
+defaults:
+  -
+    scope:
+      path: "" # an empty string here means all files in the project
+      type: "posts" # previously `post` in Jekyll 2.2.
+    values:
+      layout: "post"
+      author: "Cecilia Case"
+      email: cecilia@ceciliacase.com
+
+
+## TODO:
+## Add suggested posts to end of post
+## Add a way to get back to the main page w/in posts
+## Add email gathering section
+## Add google google analytics 
+## Add photo to description?

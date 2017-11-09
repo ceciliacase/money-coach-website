@@ -1,0 +1,25 @@
+---
+layout: default
+---
+
+<div class="post">
+
+  <header class="post-header">
+    <h1 class="post-title">{{ page.title }}</h1>
+  </header>
+
+  <summary>
+    {{ page.author }} - 
+    {{ page.date | date: "%-m/%-d/%y"}}
+  </summary>
+
+  <article class="post-content">
+    {{ content }}
+  </article>
+
+
+  <footer class="article-footer">
+  	<h3>About the author</h3>
+  	{% include bio-marketing.md %}
+  </footer>
+</div>

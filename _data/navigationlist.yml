@@ -1,0 +1,11 @@
+docs_list_title: Site Navigation
+docs:
+
+- title: Home
+  url: index.html
+
+- title: About
+  url: about.html
+
+- title: Articles
+  url: articles.html
