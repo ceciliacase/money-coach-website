@@ -13,7 +13,7 @@ excerpt_separator: <!--more-->
 #permalink: /:title/
 
 show_downloads: false
-google_analytics: []
+google_analytics: [UA-68706789-4]
 
 # Don't show posts written in the future
 future: false
