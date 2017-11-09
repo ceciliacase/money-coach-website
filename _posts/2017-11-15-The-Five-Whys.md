@@ -6,6 +6,7 @@ categories: post techniques
 ---
 
 Sometimes the hardest part of repairing your relationship with money is understanding what the issue is in the first place. Is it something to do with your family history? Do you have a misalignment between your expenses and your values? Do you have different goals and ideas then your partner does, leading to friction and even fighting?
+<!--more-->
 
 Even if you trace your problems to an issue like the above, it can be really hard to dig into what's really going on, and how to fix it. When I get stuck trying to figure out why I'm resistant to something I know would be good for me, I sit down with a blank sheet of paper and use the "Five Whys" technique. I write down the problem, then below write down "Why?". When I write the answer, I write down "Why?" below that. Do that five times, and you may be getting close to the root cause. Here's an example that I'm having trouble with right now:
 

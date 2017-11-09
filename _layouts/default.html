@@ -26,7 +26,7 @@
     <nav>
       <ul>
        {% for item in site.data.navigationlist.docs %}
-          <li><a href="{{ item.url }}" alt="{{ item.title }}">{{ item.title }}</a></li>
+          <li><a href="{{ site.url }}/{{ item.url }}" alt="{{ item.title }}">{{ item.title }}</a></li>
        {% endfor %}
       </ul>
     </nav>

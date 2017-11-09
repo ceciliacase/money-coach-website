@@ -8,6 +8,7 @@ categories: post giving
 When we explore our money life, we dig deep into our bills, essentials like groceries, debt payments, and discretionary spending. But today I'd like to focus on one kind of spending that can cause a wide range of emotional reactions: Giving.
 
 Giving needs to be explored at a personal finance level because generosity is an important aspect of most people's lives. I have found in my time as a Money Coach, there are clients that are willing to reduce expenses in a wide variety of areas in their lives, but will flat out refuse to eliminate or reduce their giving. And I understand that! Giving can be tied into who we are as people. We identify with the causes we give to, and it can feel miserly to stop or reduce giving. So let's examine how giving can fit into our life, now and in the future.
+<!--more-->
 
 # My personal history with giving
 I recently took a class from Luna Jaffe called [Wild Money](http://lunajaffe.com/wild-money/). In this class she talked about six different aspects of personal finance: Receiving, Spending, Nurturing, Growing, Protecting, and Giving. I struggled more with the Giving section then I did with the other five sections **combined**. I had some angry reactions to talking about generosity and giving. That in turn made me feel guilty and like I was a bad person. It turns out I'm and under-giver (more on under- and over-giving later) which means I don't give as much as my life situation could allow, and I don't give as much as I would like to.
