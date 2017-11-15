@@ -323,7 +323,7 @@ a:hover { text-decoration: underline; }
 
 .byline { font-size: 0.9rem; color: #8899a0; }
 
-.page-header { color: #fff; text-align: center; background-color: #159957; background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../images/GrowingMoney.jpg"); background-repeat: no-repeat; background-attachment: fixed; background-position: center center; background-size: cover; }
+.page-header { color: #fff; text-align: center; background-color: #159957; background-image: url("../images/GrowingMoneyDark.jpg"); background-repeat: no-repeat; background-attachment: fixed; background-position: center center; background-size: cover; }
 @media screen and (min-width: 64em) { .page-header { padding: 3rem 4rem; } }
 @media screen and (min-width: 42em) and (max-width: 64em) { .page-header { padding: 2rem 1rem; } }
 @media screen and (max-width: 42em) { .page-header { padding: 1rem 0.5rem; } }
