@@ -7,6 +7,8 @@ tags: feelings expenses income values
 
 So you've [Calculated your Squeak-By Number]() and you know that your expenses are larger then your income. What do you do now? The first thing is, pause and honor yourself taking an open-eyed look at your situation. You can't fix an issue if you don't even know it exists, so congratulate yourself for understanding where you stand right now.
 
+<!--more-->
+
 Next, how much is the difference between your income and your squeak-by expenses? Is it a few dollars, is it hundreds, or even thousands of dollars more per month? Knowing how drastic the delta is will tell you how drastic your action will need to be. 
 
 How have you previously been dealing with this discrepancy? Remember, you probably already had this issue before you figured it out. So how have you been dealing with it? Racking up debt, draining your savings, living off of others? Whatever it is, it's important to understand how it has been affecting your life so far.
