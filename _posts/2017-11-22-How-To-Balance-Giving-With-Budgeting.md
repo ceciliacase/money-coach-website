@@ -2,7 +2,8 @@
 layout: post
 title:  How to Balance Giving with Budgeting
 date:   2017-11-22 08:00:00 -0700
-categories: post giving
+categories: post
+tags: giving
 ---
 
 When we explore our money life, we dig deep into our bills, essentials like groceries, debt payments, and discretionary spending. But today I'd like to focus on one kind of spending that can cause a wide range of emotional reactions: Giving.
@@ -70,4 +71,4 @@ For one week, commit to giving an amount of money every day. Give it to someone 
 Getting into the habit of money, can open up a world of gratitude. You can start seeing the world in terms of how you can help. You have value that can help others! What a powerful feeling!
 
 # What's next?
-The most important thing the woman in the earlier example could do is plan for her giving in her budget. Budgeting (especially Zero-based budgeting) will allow her to find a balance that will allow for sustained giving over the rest of her life. It can help you understand whether your are giving within your means and in balance with your life, and can help you understand whether your are giving according to your values. It can also help you see how your increasing financial stability can help you be a more generous and giving person, while also taking care of yourself.
+The most important thing the woman in the earlier example could do is plan for her giving in her budget. Budgeting (especially Zero-Sum budgeting, which I will talk about a later article) will allow her to find a balance that will allow for sustained giving over the rest of her life. It can help you understand whether your are giving within your means and in balance with your life, and can help you understand whether your are giving according to your values. It can also help you see how your increasing financial stability can help you be a more generous and giving person, while also taking care of yourself.

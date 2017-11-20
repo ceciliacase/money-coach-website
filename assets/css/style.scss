@@ -12,29 +12,45 @@ $header-bg-color-secondary: #159957;
 .button {
   display: inline-block;
   margin-bottom: 1rem;
-  color: rgba(255, 255, 255, 0.7);
-  background-color: fade-out($section-headings-color, 0.1);
-  border-color: rgba(255, 255, 255, 0.2);
+  padding: 0.3rem 0.6rem 0.3rem 0.6rem;
   border-style: solid;
   border-width: 1px;
-  border-radius: 0.3rem;
+  border-radius: 0.2rem;
   transition: color 0.2s, background-color 0.2s, border-color 0.2s;
+}
+
+.primary {
+  color: rgba(255, 255, 255, 1);
+  background-color: fade-out($section-headings-color, 0.1);
+  border-color: rgba(255, 255, 255, 0.2);
 
   &:hover {
-    color: rgba(255, 255, 255, 0.9);
     text-decoration: none;
     background-color: $section-headings-color;
     border-color: rgba(255, 255, 255, 0.3);
   }
+}
 
-  + .button {
-    margin-left: 1rem;
+.reversed {
+  color: $section-headings-color;
+  border-color: fade-out($section-headings-color, 0.1);
+  background-color: white;
+
+  &:hover {
+    text-decoration: none;
+    background-color: fade-out($section-headings-color, 0.95);
+    border-color: $section-headings-color;
   }
 }
 
 .byline {
   font-size: 0.9rem;
   color: #8899a0;
+}
+
+.readmore {
+  atext-transform: uppercase;
+  font-size: .9rem;
 }
 
 .page-header {
@@ -95,7 +111,7 @@ $header-bg-color-secondary: #159957;
   h5,
   h6 {
     margin-top: 2rem;
-    margin-bottom: 1rem;
+    margin-bottom: 0.5rem;
     font-weight: normal;
     color: $section-headings-color;
   }
@@ -235,10 +251,18 @@ $header-bg-color-secondary: #159957;
     background-color: $hr-border-color;
     border: 0;
   }
+
 }
 
 .aside-content{
   padding-left: 0rem;
+  ul {
+    list-style: none;
+    padding: 0;
+  }
+  li {
+    padding-bottom: 1.2rem;
+  }
 }
 
 /* MailChimp Form styling */
@@ -254,6 +278,13 @@ $header-bg-color-secondary: #159957;
 
   .asterisk {
     color: red;
+  }
+  form {
+  overflow: hidden;
+  }
+  input {
+    float: right;
+    clear: both;
   }
 
 }

@@ -1,1 +1,1 @@
-Cecilia works with individuals and couples to create a healthy relationship with money. She can work with you in person or online. Please contact her at <a href="mailto:{{ site.email }}" target="">{{ site.email }}</a> for more information and to set up an initial consultation.
+I work with individuals and couples to create a healthy relationship with money. I can work with you in person or online. Please contact me at <a href="mailto:{{ site.email }}" target="">{{ site.email }}</a> for more information and to set up an initial consultation.

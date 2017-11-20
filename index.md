@@ -13,8 +13,7 @@ layout: default
         {{ post.date | date: "%-m/%-d/%y"}}
       </summary>
       {{ post.excerpt }}
-
-      <a href="{{ post.url }}">read more...</a>
+      <a class="button reversed readmore" href="{{ post.url }}/#read-more">more...</a>
     {% endif %}
   {% endfor %}
 </article>
@@ -23,4 +22,4 @@ layout: default
 
 {% include bio-marketing.md %}
 
-[read more...](about.html)
+<a class=" button reversed readmore" href="about.html">more...</a>

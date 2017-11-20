@@ -11,10 +11,11 @@ layout: default
   <summary class="byline">
     {{ page.author }} - 
     {{ page.date | date: "%-m/%-d/%y"}}
+    <br>
   </summary>
 
   <article class="post-content">
-    {{ content }}
+    {{ content | replace: '<!--more-->', '<a class="anchor" id="read-more"></a>' }}
   </article>
 
 
