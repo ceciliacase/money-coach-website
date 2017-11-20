@@ -13,7 +13,7 @@ layout: default
         {{ post.date | date: "%-m/%-d/%y"}}
       </summary>
       {{ post.excerpt }}
-      <a class="button reversed readmore" href="{{ post.url }}/#read-more">more...</a>
+      <a class="button reversed readmore" href="{{ post.url }}#read-more">more...</a>
     {% endif %}
   {% endfor %}
 </article>
