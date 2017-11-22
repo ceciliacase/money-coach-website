@@ -5,7 +5,7 @@ categories: post
 tags: budgeting technique
 ---
 
-I have a theory why people have trouble keeping a budget going, and it starts with two words -- Forecasting and Rigidity. Think about how you probably budget (if you budget at all). Maybe you take a piece of paper (or a spreadsheet, or Mint. It doesn't matter the tool, just the method) and write something like this
+Why do people have trouble starting and using a budget? I think it starts with two words -- Forecasting and Rigidity. Think about how you probably budget (if you budget). Maybe you take a piece of paper (or a spreadsheet, or Mint. It doesn't matter the tool, just the method) and write something like this
 
 <!--more-->
 
