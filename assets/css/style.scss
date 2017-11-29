@@ -3,8 +3,7 @@
 
 // Headers
 $header-heading-color: #fff;
-$header-bg-color: #137F89;
-$header-bg-color-secondary: #159957;
+$header-bg-color: #11221E;
 
 
 @import "{{ site.theme }}";
@@ -56,7 +55,7 @@ $header-bg-color-secondary: #159957;
 .page-header {
   color: $header-heading-color;
   text-align: center;
-  background-color: $header-bg-color-secondary;
+  background-color: $header-bg-color;
   background-image:url('../images/GrowingMoneyDark.jpg');
   background-repeat: no-repeat;
   background-attachment: fixed;
@@ -114,6 +113,9 @@ $header-bg-color-secondary: #159957;
     margin-bottom: 0.5rem;
     font-weight: normal;
     color: $section-headings-color;
+    a {
+      color: $section-headings-color;
+    }
   }
 
   p {
@@ -255,7 +257,6 @@ $header-bg-color-secondary: #159957;
 }
 
 .aside-content{
-  padding-left: 0rem;
   ul {
     list-style: none;
     padding: 0;
@@ -263,9 +264,27 @@ $header-bg-color-secondary: #159957;
   li {
     padding-bottom: 1.2rem;
   }
+
+  @include large {
+    padding-left: 0rem;
+    flex: 0 0 400px;
+  }
+
+  @include medium {
+    padding-left: 0rem;
+    flex: 0 0 200px;
+  }
+
+  @include small {
+    display: none;
+  }
 }
 
 /* MailChimp Form styling */
+#mc_wrap {
+  border: 1px solid $section-headings-color;
+  padding: 1rem;
+}
 #mc_embed_signup {
 
   .mc-field-group, .indicates-required {
@@ -287,6 +306,21 @@ $header-bg-color-secondary: #159957;
     clear: both;
   }
 
+}
+
+.site-footer {
+  @include large {
+    padding-top: 2rem;
+    margin: 2rem 6rem;
+  }
+  @include medium {
+    padding-top: 1rem;
+    margin: 1rem 3rem;
+  }
+  @include small {
+    padding-top: 1rem;
+    margin: 1rem 1rem;
+  }
 }
 
 nav {
@@ -315,12 +349,4 @@ nav {
 
 main {
   flex: 2;
-}
-
-aside {
-  flex: 0 0 400px;
-
-  @include medium {
-    flex: 0 0 200px;
-  }
 }

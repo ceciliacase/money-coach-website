@@ -7,6 +7,8 @@ tags: feelings values
 
 Why do we feel guilt and shame surrounding money issues?
 
+Do you feel guilty about your money past? Perhaps you've made a bad investment, or haven't invested at all. Maybe you trusted someone that abused your trust, or you've never been able to save any money. Whatever it is, we all have times that we have made bad decisions involving money.
+
 What should we do about it?
 Guilt is an indicator that your finances are not in balance with your values
 

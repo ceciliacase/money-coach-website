@@ -35,7 +35,7 @@ Increasing income may be slower, but it can have a much bigger impact on that de
 
 |  | Decrease Expenses | Increase Income |
 |:--|:--|:--|
-| Pros | Can be much faster | Can be bigger bang for your buck |
-| Cons | You may not be able to reduce very much | Can take a really long time |
+| Pros | Can be much faster | Can have a larger effect on your budget |
+| Cons | May not be able to reduce very much | Can take a really long time |
 
 Even if you don't have a discrepancy between your income and your Squeak-By Expenses, you may have one between your income and your average spending. You may want to go through this process in that situation too, because the same risks exist, like getting yourself into more debt, creating instability in your life, and so on. The only difference is, while you are figuring it out, you should be able to reduce your expenses to the Bare Bones level while you work through how you want to solve it.
