@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  How to Balance Giving with Budgeting
-date:   2017-11-22 08:00:00 -0700
 categories: post
 tags: giving
 ---
