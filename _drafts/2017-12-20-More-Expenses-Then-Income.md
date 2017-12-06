@@ -9,13 +9,13 @@ So you've [Calculated your Bare Bones Number]({{ site.baseurl }}{% post_url 2017
 
 <!--more-->
 
-Next, how much is the difference between your income and your squeak-by expenses? Is it a few dollars, is it hundreds, or even thousands of dollars more per month? Knowing how drastic the delta is will tell you how drastic your action will need to be. 
+Next, how much is the difference between your income and your squeak-by expenses? Is it a few dollars, is it hundreds, or even thousands of dollars more per month? Knowing how drastic the difference is will tell you how drastic your action will need to be. 
 
-How have you been dealing with this discrepancy in your life? Racking up debt, draining your savings, living off of others? Whatever it is, it's important to understand how it has been affecting your life so far, and how you cope.
+How have you been dealing with this discrepancy in your life up until now? Are you racking up debt, draining your savings, living off of others? Whatever it is, it's important to understand how it has been affecting your life so far, and how you cope.
 
-When you are asking yourself these questions, remember to pay attention to your emotions. Dealing with a situation like this can be distressing, and you want to make sure that you don't become so distraught that you abandon this exploration, and go bury your head in the sand again. Any time you start feeling angry, guilty or ashamed, do something calming. Make yourself a cup of tea, stand up and stretch, call a supportive friend, whatever you need to do to get your stress levels down.
+When you are asking yourself these questions, remember to pay attention to your emotions. Dealing with a situation like this can be distressing, and you want to make sure that you don't become so distraught that you abandon this exploration, and go bury your head in the sand. Any time you start feeling angry, guilty or ashamed, do something calming. Make yourself a cup of tea, stand up and stretch, call a supportive friend, whatever you need to do to get your stress levels down.
 
-Once you have an idea of how big the delta is, you can start strategizing on how you will solve it. Here is the basic rule -- If your expenses are bigger than your income, you will be doing one of the following:
+Once you have an idea of how big the difference between your income and expenses is, you can start strategizing on how you will solve it. Here is the basic rule -- If your expenses are bigger than your income, you will be doing one of the following:
 
 - Decrease your expenses
 - Increase your income
