@@ -3,6 +3,7 @@ layout: post
 title:  The Five Whys
 categories: post
 tags: techniques
+img: Why.jpg
 ---
 
 Sometimes the hardest part of repairing your relationship with money is understanding what the issue is in the first place. Is it something to do with your family history? Do you have a misalignment between your expenses and your values? Do you have different goals and ideas then your partner does, leading to friction and even fighting?

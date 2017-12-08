@@ -3,9 +3,10 @@ layout: post
 title: Credit Card Float
 categories: post
 tags: credit debt
+img: CreditCardJeans.jpg
 ---
 
-There's a hidden debt trap that you could be falling into. Sorry to sound like one of those terrible commercials trying to persuade you to give them money to get your debt cancelled. But there **is** a way to get into debt without knowing you are in debt, and it is called "Credit Card Float."
+There's a hidden debt trap that you could be falling into. I know I sound like one of those terrible commercials trying to persuade you to give them money to get your debt cancelled. But there **is** a way to get into debt without knowing you are in debt, and it is called "Credit Card Float."
 
 <!--more-->
 

@@ -1,9 +1,9 @@
 ---
 layout: post
 title:  Welcome to Financial Freedom!
-date:   2017-11-08 08:00:00 -0700
 categories: post
 tags: welcome
+img: CoinSprout.png
 ---
 
 I am a money coach. I help people understand their personal finances, align their financial situation with their values, and help create financial peace for themselves and their families.

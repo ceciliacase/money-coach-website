@@ -12,6 +12,8 @@ layout: default
         {{ post.author }} - 
         {{ post.date | date: "%-m/%-d/%y"}}
       </summary>
+      <img class="featured-image" src="{{ site.url }}/assets/images/{{ post.img }}" />
+
       {{ post.excerpt }}
       <a class="button reversed readmore" href="{{ post.url }}#read-more">more...</a>
     {% endif %}
