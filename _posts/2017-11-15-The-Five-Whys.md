@@ -2,7 +2,7 @@
 layout: post
 title:  The Five Whys
 categories: post
-tags: techniques
+tags: technique
 img: Why.jpg
 ---
 

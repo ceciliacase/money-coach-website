@@ -2,7 +2,8 @@
 layout: post
 title:  What are True Expenses?
 categories: post
-tags: 
+tags: YNAB budgeting expenses 
 img: 
 ---
 
+<!--more-->
