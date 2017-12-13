@@ -10,7 +10,7 @@ Do you know what financial level you are living at? Are you living close to the 
 
 When clients come to me to get their finances under control, one of the first things I do is help them to understand their "Bare Bones Number." My mentor [Luna Jaffe](http://www.lunajaffe.com) likes to call it the "Squeak-By Number," because it's the number that you would be just squeaking by on. It is the minimum amount of money you could spend every month, to just barely get by.
 
-<!-- more -->
+<!--more-->
 
 It is helpful to know your Bare Bones Number, because then you are aware of how much you could cut from your life in an emergency, if absolutely everything went wrong, what would you be left paying? And it is very useful to have this as a calculated number, because it gives a sense of peace and control to know what you could cut down to, and still live. It also shows you whether you are already living Bare-Bones or not. A lot of folks think they are living at the absolute edge of their expenses, but we often find that there are still places that you can cut expenses, sometimes with little to no effect on your  quality of life. We get so used to the amenities and experiences in our lives, sometimes it ends up feeling like those are necessities, when in reality, they don't really belong below the Bare-Bones line.
 
