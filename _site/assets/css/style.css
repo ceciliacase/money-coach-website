@@ -381,6 +381,10 @@ a:hover { text-decoration: underline; }
 
 .article-list h3 { margin-top: 0.5rem; }
 
+@media screen and (min-width: 64em) { .patreon-button { padding-bottom: 1rem; } }
+@media screen and (min-width: 42em) and (max-width: 64em) { .patreon-button { padding-bottom: 0.5rem; } }
+@media screen and (max-width: 42em) { .patreon-button { padding-bottom: 1rem; } }
+
 /* MailChimp Form styling */
 #mc_wrap { border: 1px solid #159957; padding: 1rem; }
 

@@ -7,3 +7,6 @@ img:
 ---
 
 <!--more-->
+
+{% include YNAB-article-series.md %}
+

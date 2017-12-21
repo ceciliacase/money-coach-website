@@ -317,6 +317,20 @@ $header-bg-color: #11221E;
   }
 }
 
+.patreon-button {
+  @include large {
+    padding-bottom: 1rem;
+  }
+
+  @include medium {
+    padding-bottom: 0.5rem;
+  }
+
+  @include small {
+    padding-bottom: 1rem;
+  }
+}
+
 /* MailChimp Form styling */
 #mc_wrap {
   border: 1px solid $section-headings-color;

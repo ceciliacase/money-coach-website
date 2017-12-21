@@ -6,7 +6,7 @@ tags: feelings expenses income values
 img: Budget.jpg
 ---
 
-So you've [Calculated your Bare Bones Number]({{ site.baseurl }}{% post_url 2017-xx-xx-Bare-Bones-Number %}) and you know that your expenses are larger than your income. What do you do now? The first thing is, pause and honor yourself taking an open-eyed look at your situation. You can't fix an issue if you don't even know it exists, so congratulate yourself for understanding where you stand right now.
+So you've [Calculated your Bare Bones Number]({{ site.baseurl }}{% post_url 2017-12-13-Bare-Bones-Number %}) and you know that your expenses are larger than your income. What do you do now? The first thing is, pause and honor yourself taking an open-eyed look at your situation. You can't fix an issue if you don't even know it exists, so congratulate yourself for understanding where you stand right now.
 
 <!--more-->
 

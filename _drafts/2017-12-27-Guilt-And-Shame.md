@@ -8,7 +8,7 @@ img: GuiltyDog.jpg
 
 Do you feel guilty about your money past? Perhaps you've made a bad investment, or haven't invested at all. Maybe you trusted someone stole money from you, or you have a spending addiction. Whatever it is, we all have times that we have made bad decisions involving money, and that can lead to all sorts of negative emotions -- guilt, anger, betrayal, shame, and more. What's worse, over time it can leave you feeling in doubt of your own ability to manage money.
 
-<!-- more -->
+<!--more-->
 
 # My family history with money
 You are not alone! Most people have a bad story involving money. My personal story is actually rather average. My father made pretty good money all throughout my childhood, but neither of my parents were really good at managing money, so all through my childhood, even though we were middle class, it always felt like we were one disaster away from total financial devastation. That fostered a lasting feeling of insecurity that I have spent most of my adult life trying to create a perfectly secure environment around me. In the small things, I'm spontaneous (friends might call me "random"), but in the large things I am **very** conservative. I started saving for retirement early by saving into my very first 401(k) and starting a Roth IRA as soon as I had my first job. Investing may seem very risky to many people, but I saw it as a way to make sure that I never ended up depending on a by-no-means guaranteed social security check in my old age. I knew that if I invested early in relatively risky stocks, I would have time to recover from market downturns, and reap the rewards of time spent invested.
