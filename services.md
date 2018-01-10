@@ -3,7 +3,7 @@ layout: page
 title: Services and Pricing
 ---
 
-I offer a one month package and a three month package with weekly meetings, and daily work to help you develop your financial practice. I also offer additional individual sessions for brush-ups, semi-yearly check-ups, or more advanced questions and topics.
+I offer a one month package and a three month package with weekly meetings, and daily work to help you develop your financial practice. I also offer additional individual sessions for brush-ups, semi-yearly check-ups, or more advanced questions and topics, and a Sustainable Membership, which will help you continue your money practice and provide ongoing accountability.
 
 Here is the general outline of what we will work on, which will be customized as we go to address your specific financial situation, education, and values:
 
@@ -34,7 +34,7 @@ If you have a partner that you combine money with, I highly encourage you to inv
 The content for the couples sessions are similar, and you will work with one unified budget for the duration of the class. Some of the content will expand on concepts like the pros and cons of maintaining separate accounts, how to honor each other's goals and values, and how to work together to increase communication and reduce friction in the relationship due to money worries.
 
 # Pricing
-For the individualized coaching help I provide, I have to following pricing packages. If you a customized program or specific issue you would like to work on, please mention it in your initial phone consulation, and I will make sure to include it.
+For the individualized coaching help I provide, I have to following pricing packages. If you want a customized program or specific issue you would like to work on, please mention it in your initial phone consulation, and I will make sure to include it.
 
 ## Individual pricing
 - Per session - $80/hour
@@ -45,6 +45,9 @@ For the individualized coaching help I provide, I have to following pricing pack
 - Per session - $100/hour
 - One month (four sessions, first session is two hours) package - $450, which is half off one session (normally $500)
 - Three months (twelve sessions, first session is two hours) package - $1100, which is two sessions free (normally $1300)
+
+# Sustainable membership
+Once you have completed your one or three month package, you can choose to sign up for a sustainable membership, which is $60 per month, and includes one half hour session every month, and weekly checkup emails. This service can help you cement your money practice, and provide ongoing accountability.
 
 # Refunds
 I absolutely will issue full refunds to anyone who is not satisfied with their services. I do ask two things - That you take all of the classes, and that you participate fully in all the at-home activities and exercises that we work on. I believe that I provide value to those that are willing to work hard, so I want to make sure that you have fully committed to my coaching, and to your improvement of your financial situation. If you have completed one of my packages, and worked hard at the activities I have assigned, and you still feel you have not received the value you thought you were going to get, I will give a full refund for your package.
