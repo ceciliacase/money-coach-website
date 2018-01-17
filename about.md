@@ -5,7 +5,7 @@ title: About Cecilia Case
 
 ### Saving the world one budget at a time!
 
-I can help you create a positive and freeing relationship with money. Together, we will examine past behaviors, history, and patterns related to your money relationship, not to create self-recriminations, but instead to find a path towards healing, and a more healthy relationship with money today and in the future.
+A positive and empowered relationship with money is possible! Together, we will examine past behaviors, history, and patterns related to your money relationship, to find a path towards healing and a more healthy relationship with money today and in the future.
 
 <!--more-->
 
