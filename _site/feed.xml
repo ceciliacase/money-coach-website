@@ -7,6 +7,40 @@
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
+        <title>What is the Purpose of Your Money?</title>
+        <description>&lt;p&gt;What do you want your money to do for you? Do you want to travel the world with it, or buy a house for your family? What about taking art classes, or donating to causes you believe in? Is there something stopping you from achieving those goals? I know that for years, I never felt like I could save for those things, because I didn’t know if I had enough money. I didn’t know where my money was going, so I was afraid to use it for anything more then bills. If you are worried about covering your bills, then how can you set money aside for the bigger goals?&lt;/p&gt;
+
+&lt;p&gt;This is the second article in the YNAB Series, and I’m going to talk about YNAB’s first rule – Give Every Dollar a Job.&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;p&gt;You can read the rest of the series here:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;&lt;a href=&quot;/post/2018/01/17/YNAB.html&quot;&gt;What is YNAB&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;(Coming next) What is the Purpose of Your Money?&lt;/li&gt;
+  &lt;li&gt;(Coming up) What Are True Expenses&lt;/li&gt;
+  &lt;li&gt;(Coming up) Make Your Budget Fit Your Life (not the other way around)&lt;/li&gt;
+  &lt;li&gt;(Coming up) Living on Last Month’s Income&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;One of the main ways that budgeting helps us manage our money is by illuminating our money situation and our money habits. If we don’t know where we stand right now, and we don’t know our goals, we’ll never be able to plan how to get from the starting point to the end point. So the start of our budgeting practice is “Give Every Dollar a Job”. But what does that really mean?&lt;/p&gt;
+
+&lt;p&gt;First, “Give Every Dollar a Job” implies that we are giving the money we have &lt;strong&gt;right now&lt;/strong&gt; jobs. By only working with money we currently have in our possession, we avoid “projecting” our budget. In many traditional budgeting systems, you start with the month by asking “OK, what money do I think I will get this month?” Even if you have a steady salary, that is a risky thing to do, because it roots your budget in a somewhat imaginary number. I think most of us know that in the back of our minds, and it undermines our confidence in our budget. Even more, when we budget money we don’t yet have, we can’t guarantee that when we spend from a category, that that money actually exists.&lt;/p&gt;
+
+&lt;p&gt;Second, giving every dollar a job means we are very intentional with our spending planning. We think through what we need to spend until the next time we get paid. When we put money into those categories, we can rest easy, knowing that the money will be ready when we need it.&lt;/p&gt;
+
+&lt;p&gt;Third, by giving every dollar a job we can trust our category balances. In other words, if I have all of my bill categories funded, if I go to the clothing store and look at my clothing category, and it says I have $100, that means I can spend up to $100 without having to worry if I’m somehow cutting into my rent money, or utilities, or anything else. All those categories are funded with real money, too, so spending money on clothing will have nothing to do with what you can spend later in those other categories. Again, the same as if I’m projecting my income, if I budget more dollars then I have, I can no longer trust my category balances.&lt;/p&gt;
+
+&lt;h1 id=&quot;why-is-this-rule-so-important&quot;&gt;Why is this rule so important?&lt;/h1&gt;
+&lt;p&gt;Giving Every Dollar A Job is the most fundamental method of &lt;a href=&quot;/post/2017/11/22/Envelope-Budgeting.html&quot;&gt;envelope budgeting&lt;/a&gt; – When you get money, you take all of that money and put it in envelopes. When you need that money, you take that envelope with you, and spend it. This is the same thing, but instead we’re using software, because it’s more flexible and fits into modern life.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 24 Jan 2018 00:00:00 -0800</pubDate>
+        <link>http://localhost:4000//post/2018/01/24/Give-Every-Dollar-A-Job.html</link>
+        <guid isPermaLink="true">http://localhost:4000//post/2018/01/24/Give-Every-Dollar-A-Job.html</guid>
+      </item>
+    
+      <item>
         <title>YNAB - My budgeting software of choice</title>
         <description>&lt;p&gt;Budgeting is the foundation of building a wonderful and stable financial life. But I don’t like the way budgeting is usually taught, when it is taught at all. Forecasting and rigidity are common problems that you may have encountered in trying to budget. &lt;a href=&quot;/post/2017/11/22/Envelope-Budgeting.html&quot;&gt;Envelope Budgeting&lt;/a&gt; is something I have recommended before, and I mentioned &lt;a href=&quot;http://www.ynab.com&quot;&gt;YNAB (You Need A Budget)&lt;/a&gt; as my software of choice to implement envelope budgeting. Let’s dig into YNAB, see what it can give us.&lt;/p&gt;
 
@@ -448,55 +482,6 @@ Remember, giving to yourself is giving too! Taking care of yourself helps those 
         <pubDate>Wed, 22 Nov 2017 00:00:00 -0800</pubDate>
         <link>http://localhost:4000//post/2017/11/22/Envelope-Budgeting.html</link>
         <guid isPermaLink="true">http://localhost:4000//post/2017/11/22/Envelope-Budgeting.html</guid>
-      </item>
-    
-      <item>
-        <title>The Five Whys</title>
-        <description>&lt;p&gt;Sometimes the hardest part of repairing your relationship with money is understanding what the issue is in the first place. Is it something to do with your family history? Do you have a misalignment between your expenses and your values? Do you have different goals and ideas then your partner does, leading to friction and even fighting?&lt;/p&gt;
-
-&lt;!--more--&gt;
-
-&lt;p&gt;Even if you trace your problems to an issue like the above, it can be really hard to dig into what’s really going on, and how to fix it. When I get stuck trying to figure out why I’m resistant to something I know would be good for me, I sit down with a blank sheet of paper and use the “Five Whys” technique. I write down the problem, then below write down “Why?”. When I write the answer, I write down “Why?” below that. Do that five times, and you may be getting close to the root cause. Here’s an example that I’m having trouble with right now:&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;I keep “stealing” from my savings account to pay for silly things like coffee.&lt;/p&gt;
-
-  &lt;p&gt;Why?&lt;/p&gt;
-
-  &lt;p&gt;Because I like going to get coffee.&lt;/p&gt;
-
-  &lt;p&gt;Why?&lt;/p&gt;
-
-  &lt;p&gt;Because I work alone, and it’s nice to be around people sometimes.&lt;/p&gt;
-
-  &lt;p&gt;Why?&lt;/p&gt;
-
-  &lt;p&gt;Because I’m an introvert, so I find it easier to go to a public place where I don’t really have to interact with people.&lt;/p&gt;
-
-  &lt;p&gt;Why?&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Oh boy, it’s starting to get hard now. Why don’t I want to work harder on being out with people?&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Well… it’s so hard to connect with my old friends when they work a regular J.O.B. Also, I feel like I’m not able to work when I’m alone.&lt;/p&gt;
-
-  &lt;p&gt;Why?&lt;/p&gt;
-
-  &lt;p&gt;I’m afraid I’m not getting enough done with starting my new business. I feel guilty that I don’t have more to tell my friends about how I’m doing. I don’t want to confront failure, so it’s easier to be alone among people.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Ahhhh, now I’m starting to get somewhere. And it’s not at all where I expected this to go! In the fourth why I gave two different answers, so I chose to go with the first one for now. It’s worth it to go back and do this again with the second answer, because I may uncover some more interesting tidbits. Bt right now, I wanted to explore my first answer. I’m basically spending money on coffee because I’m afraid of failure. This is something that is way more addressable then my original frustration. How do I confront this fear of failure, instead of drowning it in coffee? That’s a post for another time.&lt;/p&gt;
-
-&lt;h1 id=&quot;final-thoughts&quot;&gt;Final thoughts&lt;/h1&gt;
-
-&lt;p&gt;I hope this simple technique helps you dig further into your personal issues with money. Remember, personal finance is mostly  about the personal, less about the finance. When you are emotionally equipped to deal with your finances, they tend to start falling into line.&lt;/p&gt;
-
-&lt;p&gt;Note: you can find out more about the history of this technique on &lt;a href=&quot;https://en.wikipedia.org/wiki/5_Whys&quot;&gt;Wikipedia&lt;/a&gt;&lt;/p&gt;
-</description>
-        <pubDate>Wed, 15 Nov 2017 00:00:00 -0800</pubDate>
-        <link>http://localhost:4000//post/2017/11/15/The-Five-Whys.html</link>
-        <guid isPermaLink="true">http://localhost:4000//post/2017/11/15/The-Five-Whys.html</guid>
       </item>
     
   </channel>
