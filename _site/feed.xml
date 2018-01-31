@@ -7,6 +7,62 @@
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
+        <title>What are True Expenses?</title>
+        <description>&lt;p&gt;If you’ve read the &lt;a href=&quot;/post/2018/01/24/Give-Every-Dollar-A-Job.html&quot;&gt;article last week&lt;/a&gt;, you know that you need to give your dollars jobs, but how do you decide what jobs are necessary in your life?&lt;/p&gt;
+
+&lt;p&gt;You use the second YNAB rule to figure that out. “Embrace Your True Expenses” tells us that we need to fully understand our expenses, and not just the regular bills.&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;p&gt;You can read the rest of the series here:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;&lt;a href=&quot;/post/2018/01/17/YNAB.html&quot;&gt;What is YNAB&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;(Coming next) What is the Purpose of Your Money?&lt;/li&gt;
+  &lt;li&gt;(Coming up) What Are True Expenses&lt;/li&gt;
+  &lt;li&gt;(Coming up) Make Your Budget Fit Your Life (not the other way around)&lt;/li&gt;
+  &lt;li&gt;(Coming up) Living on Last Month’s Income&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h1 id=&quot;what-are-true-expenses&quot;&gt;What are “true” expenses&lt;/h1&gt;
+
+&lt;p&gt;I think most folks have a pretty good idea of what their regular monthly expenses are. Keeping track of things like rent and utilities is usually pretty easy. But to budget fully, we really need to make sure we have a plan for everything we are going to spend money on. So what other kinds of expenses do we have that we need to give categories?&lt;/p&gt;
+
+&lt;p&gt;I like to think of expenses as four different kinds of expenses:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Regular and Frequent&lt;/li&gt;
+  &lt;li&gt;Regular and Infrequent&lt;/li&gt;
+  &lt;li&gt;Irregular and Frequent&lt;/li&gt;
+  &lt;li&gt;Irregular and Infrequent&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;A “Regular” expense is one where you always know how much you are going to spend. “Irregular” means the amount can vary. “Frequent” means monthly, and “Infrequent” is less often then that. What are some examples of these expenses?&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Regular and Frequent - Your bills like rent, cell phone, and cable&lt;/li&gt;
+  &lt;li&gt;Regular and Infrequent - Bills that happen every six months or a year, like car insurance premiums, or annual subscriptions&lt;/li&gt;
+  &lt;li&gt;Irregular and Frequent - Your bills like electricity (the amount varies from month to month) or expenses like groceries&lt;/li&gt;
+  &lt;li&gt;Irregular and Infrequent - Emergencies. If you own a car, I can guarantee you are going to have a car emergency, but I can’t predict when it will happen, or how much it will cost, so it belongs in this category.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;When you have accounted for your expenses in all four of these categories, you can say that you have “embraced your true expenses.”&lt;/p&gt;
+
+&lt;h1 id=&quot;why-do-we-follow-this-rule&quot;&gt;Why do we follow this rule?&lt;/h1&gt;
+&lt;p&gt;It is helpful to follow this rule, because it allows us to smooth out our budget. If we know we have a car insurance premium payment coming up in five months for $300, we can start saving in that category now, so when the expense comes up we already have the money budgeted. Saving $60 per month is way easier then trying to come up with the full $300 in the moment, don’t you think?&lt;/p&gt;
+
+&lt;p&gt;It helps with our variable categories too, like groceries. We can start getting an idea of how much we really spend on groceries over time, and therefore we’ll get better at making guesses at how much we need to budget for it. That also helps us smooth out our budget over time.&lt;/p&gt;
+
+&lt;p&gt;And lastly, we can start saving for our emergencies. We know they are going to happen, so how much do we need to save into that category to feel secure? Making that decision depends entirely on how secure you want to feel in your situation. For your car emergency category, think about what makes sense. Do you have a brand new Toyota with a three year full warranty on it? Maybe you don’t need much in the category. Or do you have a twenty-year old jolopy? Maybe you would feel more comfortable with a large fund for that.&lt;/p&gt;
+
+&lt;p&gt;Again, one reason to have a budget is to reduce the surprises, and to smooth out your budget. Embracing Your True Expenses is the rule that helps us make that happen!&lt;/p&gt;
+</description>
+        <pubDate>Wed, 31 Jan 2018 00:00:00 -0800</pubDate>
+        <link>http://localhost:4000//post/2018/01/31/What-Are-True-Expenses.html</link>
+        <guid isPermaLink="true">http://localhost:4000//post/2018/01/31/What-Are-True-Expenses.html</guid>
+      </item>
+    
+      <item>
         <title>What is the Purpose of Your Money?</title>
         <description>&lt;p&gt;What do you want your money to do for you? Do you want to travel the world with it, or buy a house for your family? What about taking art classes, or donating to causes you believe in? Is there something stopping you from achieving those goals? I know that for years, I never felt like I could save for those things, because I didn’t know if I had enough money. I didn’t know where my money was going, so I was afraid to use it for anything more then bills. If you are worried about covering your bills, then how can you set money aside for the bigger goals?&lt;/p&gt;
 
@@ -433,55 +489,6 @@ Remember, giving to yourself is giving too! Taking care of yourself helps those 
         <pubDate>Wed, 29 Nov 2017 00:00:00 -0800</pubDate>
         <link>http://localhost:4000//post/2017/11/29/How-To-Balance-Giving-With-Budgeting.html</link>
         <guid isPermaLink="true">http://localhost:4000//post/2017/11/29/How-To-Balance-Giving-With-Budgeting.html</guid>
-      </item>
-    
-      <item>
-        <title>Envelope Budgeting</title>
-        <description>&lt;p&gt;Why do people have trouble starting and using a budget? I think it starts with two words – Forecasting and Rigidity. Think about how you probably budget (if you budget). Maybe you take a piece of paper (or a spreadsheet, or Mint. It doesn’t matter the tool, just the method) and write something like this&lt;/p&gt;
-
-&lt;!--more--&gt;
-
-&lt;p&gt;This months income: &lt;strong&gt;$3000&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;This months expenses:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Groceries: $300&lt;/li&gt;
-  &lt;li&gt;Rent: $1000&lt;/li&gt;
-  &lt;li&gt;Utilities: $40&lt;/li&gt;
-  &lt;li&gt;Entertainment: $100&lt;/li&gt;
-  &lt;li&gt;…&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Total: 2400&lt;/strong&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;The first problem with budgeting like that is you are forecasting your income. In other words you wrote down money you don’t have, so you are starting the whole operation with a guess! Even if you have a reliable government job, you’re working with dollars that don’t yet belong to you. And that means that your budget is already starting off as a sort of theoretical document. What if instead you budgeted for all of your expenses using the money you already have? That shifts the conversation to something concrete. If I currently have $4000 in my bank accounts, then I can allocate that money to my expenses, and I know that right now, today, I could pay all of those bills and expenses.&lt;/p&gt;
-
-&lt;p&gt;Budgeting in the traditional way also is very rigid. At the end of the month how often did you actually hit those estimates for your expenses? I know I usually managed to blow at least one or two of them out of the water, which makes the whole rest of the budget suspect. If I overspent, where does that money come from? Do I take it from next month? I know that didn’t work, because I never would adjust my next months budget downward to compensate for it, if I even made it to a second month.&lt;/p&gt;
-
-&lt;p&gt;Before envelope budgeting, I would make a budget in a flurry of optimism, then by the middle of the month, I’d already have abandoned it. It was too theoretical and too rigid, and it made me feel bad that my life didn’t march to the perfect beat of my budget’s drum, rather then my budget flexing with my vibrant, dynamic life and changing priorities. And so I would just… give up.&lt;/p&gt;
-
-&lt;h1 id=&quot;how-does-envelope-budgeting-work&quot;&gt;How does envelope budgeting work?&lt;/h1&gt;
-&lt;p&gt;Envelope budgeting asks you to gather all the money you have &lt;strong&gt;right now&lt;/strong&gt;. Then you take a pile of envelopes and label them with of all your bills, obligations, and nice-to-haves. Then you put money into each envelope, as much as you think you will need for that category until the next time you get more money. When you run out of money, you’re done budgeting. This method is also called “Zero-sum budgeting,” which means you budget every dollar you have, until you have zero money left to assign to an envelope.&lt;/p&gt;
-
-&lt;p&gt;When you then go to the grocery store, you would just grab your groceries envelope and take it with you. Whatever money you have in the envelope is the maximum you can spend. You still have to think ahead (“How many grocery trips do I need to take before the next time I get more money?”), but it keeps you from accidentally spending, say, your utility money on groceries, and vice versa.&lt;/p&gt;
-
-&lt;h1 id=&quot;living-in-the-now-and-flexibility&quot;&gt;Living in the now, and flexibility&lt;/h1&gt;
-&lt;p&gt;So how does this method solve the forecasting and rigidity problems? Well, we aren’t forecasting, because we are only using money we currently have to plan our budget. And the flexibility comes in from the simplicity of the system. Lets say your brother calls you, and says he would like to stop by for dinner tomorrow night. You want to cook him a nice dinner, so you make a list of ingredients you will need to buy at the store. You estimate you’ll need $25 more than you’ve budgeted for groceries. What should you do? Maybe you would normally put it on a credit card, and promise yourself you’ll sort it out later. But since you’re working with envelopes and only the money you have right now, you decide to take the $25 out of your entertainment envelope. There, now you don’t have to remember that you need to scrimp a bit, it will be obvious, because your entertainment envelope has less money in it! Easy peasy, no shame, and no slowly and sneakily putting yourself into debt.&lt;/p&gt;
-
-&lt;h1 id=&quot;doesnt-it-sound-like-a-lot-of-work&quot;&gt;Doesn’t it sound like a lot of work!?&lt;/h1&gt;
-&lt;p&gt;Well, yes it does. Envelope budgeting as a method was invented a while back, so using envelopes with cash was the easiest way to keep track. But now, most people use debit (or credit) cards for most of their transactions, so how can we implement the method in the modern world?&lt;/p&gt;
-
-&lt;p&gt;I have found one program that implements envelope budgeting very well – &lt;a href=&quot;http://www.ynab.com&quot;&gt;You Need A Budget&lt;/a&gt; (YNAB). It is an amazing program that is online, and has a mobile app, so when you are at the grocery store, you can pop open the app to see how much you have allocated to your groceries category (analogous to the envelope). They have a 34 day trial, and I highly encourage you to try it out. Their online tutorials and classes are amazing, and their support is top-notch, too.&lt;/p&gt;
-
-&lt;h1 id=&quot;projecting-and-planning&quot;&gt;Projecting and planning&lt;/h1&gt;
-&lt;p&gt;Another thing people ask me is, “Well, if we’re not supposed to forecast, how are we supposed to plan for the future?” When I use the word “forecasting,” I just mean planning our month using money we haven’t yet received. We can plan by using categories for our goals. Just like you will have a &lt;em&gt;Groceries&lt;/em&gt; category, you can have savings categories, like &lt;em&gt;New Car&lt;/em&gt; or &lt;em&gt;Emergency Fund&lt;/em&gt;. As you get money in, you can chose to add money to those categories. They will get bigger and bigger until you reach your goal, then you can spend it for its purpose, or, if like your &lt;em&gt;Emergency Fund&lt;/em&gt; its purpose is to sit there an act as a cushion, that’s fine, too. You don’t have to spend it, just like you don’t have to spend the money you have in an envelope.&lt;/p&gt;
-
-&lt;h1 id=&quot;final-thoughts&quot;&gt;Final thoughts&lt;/h1&gt;
-&lt;p&gt;I’ve skipped over a few other issues I have with traditional budgeting. For example, we tend to be &lt;strong&gt;far&lt;/strong&gt; too optimistic about our expenses. But for now, this gets you started on a whole new way of thinking about your budget. Remember, you don’t need to feel bad if your life isn’t fitting your budget. Your budget is supposed to be flexible enough to change with your life, instead of making you feel bad for your priorities changing over time.&lt;/p&gt;
-</description>
-        <pubDate>Wed, 22 Nov 2017 00:00:00 -0800</pubDate>
-        <link>http://localhost:4000//post/2017/11/22/Envelope-Budgeting.html</link>
-        <guid isPermaLink="true">http://localhost:4000//post/2017/11/22/Envelope-Budgeting.html</guid>
       </item>
     
   </channel>
