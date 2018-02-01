@@ -3,7 +3,7 @@ layout: post
 title:  What are True Expenses?
 categories: post
 tags: YNAB budgeting expenses 
-img: CoinSprout.png
+img: Diamond.jpg
 ---
 
 If you've read the [article last week]({{ site.baseurl }}{% post_url 2018-01-24-Give-Every-Dollar-A-Job %}), you know that you need to give your dollars jobs, but how do you decide what jobs are necessary in your life?
