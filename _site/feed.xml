@@ -7,6 +7,50 @@
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
+        <title>Aging Your Money</title>
+        <description>&lt;p&gt;It has been so long since I have written on here! I’m glad to say, I’m back, and this will be the final post for the YNAB Series. So let’s get started on the last YNAB Rule!&lt;/p&gt;
+
+&lt;p&gt;If you read the &lt;a href=&quot;/post/2018/02/07/Make-Your-Budget-Fit-Your-Life.html&quot;&gt;article “Make Your Budget Fit Your Life”&lt;/a&gt;, you’re beginning to see that the best budget is one that flexes with your life. We want a budget that works with us, rather then making us feel bad for not fitting into a rigid box. So what is the last rule? And what does it mean?&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;p&gt;You can read the rest of the series here:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;&lt;a href=&quot;/post/2018/01/17/YNAB.html&quot;&gt;What is YNAB&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/post/2018/01/24/Give-Every-Dollar-A-Job.html&quot;&gt;What is the Purpose of Your Money?&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/post/2018/01/31/What-Are-True-Expenses.html&quot;&gt;What Are True Expenses?&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/post/2018/02/07/Make-Your-Budget-Fit-Your-Life.html&quot;&gt;Make Your Budget Fit Your Life (not the other way around)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/post/2018/04/26/Aging-Your-Money.html&quot;&gt;Aging Your Money&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;OK, we’ve covered the three most fundamental rules:&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;&lt;strong&gt;Give Every Dollar A Job&lt;/strong&gt;, which reminds us that we need to work with the reality of the dollars we have right now.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Embrace Your True Expenses&lt;/strong&gt;, which tells us that we need to account for every type of expense we have, not just your bills, and including your savings goals.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Roll With The Punches&lt;/strong&gt;, which gives you permission to change your budget when you need to, and gives you a safe way to do so.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h1 id=&quot;age-your-money&quot;&gt;Age Your Money&lt;/h1&gt;
+&lt;p&gt;The last rule is “Age Your Money.” You can find the age of your money in the upper-right hand corner of the screen in YNAB:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/images/AgeOfMoney.png&quot; alt=&quot;Age Of Money Screenshot&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Aging Your Money means that we want to hold onto money for longer and longer periods of time. If you are living paycheck to paycheck, when you spend a dollar the day you got paid, that dollar is considered one day old. But if you hold onto that dollar until the next day, it will be two days old, and so on. So when we talk about aging your money, we are saying that we are living on dollars that we earned some time ago. And old money is good, because it means that we have savings, and are breaking out of the paycheck-to-paycheck cycle.&lt;/p&gt;
+
+&lt;p&gt;The fourth rule, incidentally, used to be “Live on Last Month’s Income”. With that rule, the goal was to age your money to at least 30 days old. So when you spent your money, it would have been money you earned last month. That was a pretty binary and rigid rule though, and it make it hard to see your progress, so now you can take it day by day, and increase the age of your money gradually, celebrating your progress as your money gets older. I still recommend setting 30 days as a good goal, though, because if you have 30 days, you’ve officially broken the paycheck-to-paycheck cycle, which is really an amazing accomplishment.&lt;/p&gt;
+
+&lt;p&gt;I think that Aging Your Money is a fantastic goal. But I also think it is OK not to concentrate on it. You may put a high priority on paying down debt, or contributing to savings goals. By all means, feel free to ignore the number in the upper-right hand corner of your screen. If you are working the first three rules, the fourth rule will start to come to you naturally.&lt;/p&gt;
+
+&lt;h1 id=&quot;final-thoughts&quot;&gt;Final Thoughts&lt;/h1&gt;
+&lt;p&gt;So there you have it! The four YNAB rules, all there in black and white! All that is left is to &lt;a href=&quot;www.ynab.com&quot;&gt;Sign up for the one month YNAB Trial&lt;/a&gt;, or contact me at &lt;a href=&quot;mailto:cecilia@ceciliacase.com&quot; target=&quot;&quot;&gt;cecilia@ceciliacase.com&lt;/a&gt; for more information and to set up an initial strategy session.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 26 Apr 2018 00:00:00 -0700</pubDate>
+        <link>http://localhost:4000//post/2018/04/26/Aging-Your-Money.html</link>
+        <guid isPermaLink="true">http://localhost:4000//post/2018/04/26/Aging-Your-Money.html</guid>
+      </item>
+    
+      <item>
         <title>Make Your Budget Fit Your Life</title>
         <description>&lt;p&gt;If you’ve read the &lt;a href=&quot;/post/2018/01/31/What-Are-True-Expenses.html&quot;&gt;article last week&lt;/a&gt;, you know how to why it is important to embrace your true expenses, and what they are.&lt;/p&gt;
 
@@ -21,7 +65,7 @@
   &lt;li&gt;&lt;a href=&quot;/post/2018/01/24/Give-Every-Dollar-A-Job.html&quot;&gt;What is the Purpose of Your Money?&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;/post/2018/01/31/What-Are-True-Expenses.html&quot;&gt;What Are True Expenses?&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;/post/2018/02/07/Make-Your-Budget-Fit-Your-Life.html&quot;&gt;Make Your Budget Fit Your Life (not the other way around)&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;(Coming up) Living on Last Month’s Income&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/post/2018/04/26/Aging-Your-Money.html&quot;&gt;Aging Your Money&lt;/a&gt;&lt;/li&gt;
 &lt;/ol&gt;
 
 &lt;p&gt;How does it do that? Well, with the first two rules, we are creating our budget plan. We know we need to plan for every dollar (Rule 1) and we need to plan for every expenses (Rule 2). But what do we do when life doesn’t go according to plan? Do we throw out the plan? Or do we adjust the plan to work with our new situation?&lt;/p&gt;
@@ -55,7 +99,7 @@
   &lt;li&gt;&lt;a href=&quot;/post/2018/01/24/Give-Every-Dollar-A-Job.html&quot;&gt;What is the Purpose of Your Money?&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;/post/2018/01/31/What-Are-True-Expenses.html&quot;&gt;What Are True Expenses?&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;/post/2018/02/07/Make-Your-Budget-Fit-Your-Life.html&quot;&gt;Make Your Budget Fit Your Life (not the other way around)&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;(Coming up) Living on Last Month’s Income&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/post/2018/04/26/Aging-Your-Money.html&quot;&gt;Aging Your Money&lt;/a&gt;&lt;/li&gt;
 &lt;/ol&gt;
 
 &lt;h1 id=&quot;what-are-true-expenses&quot;&gt;What are “true” expenses&lt;/h1&gt;
@@ -111,7 +155,7 @@
   &lt;li&gt;&lt;a href=&quot;/post/2018/01/24/Give-Every-Dollar-A-Job.html&quot;&gt;What is the Purpose of Your Money?&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;/post/2018/01/31/What-Are-True-Expenses.html&quot;&gt;What Are True Expenses?&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;/post/2018/02/07/Make-Your-Budget-Fit-Your-Life.html&quot;&gt;Make Your Budget Fit Your Life (not the other way around)&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;(Coming up) Living on Last Month’s Income&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/post/2018/04/26/Aging-Your-Money.html&quot;&gt;Aging Your Money&lt;/a&gt;&lt;/li&gt;
 &lt;/ol&gt;
 
 &lt;p&gt;One of the main ways that budgeting helps us manage our money is by illuminating our money situation and our money habits. If we don’t know where we stand right now, and we don’t know our goals, we’ll never be able to plan how to get from the starting point to the end point. So the start of our budgeting practice is “Give Every Dollar a Job”. But what does that really mean?&lt;/p&gt;
@@ -143,7 +187,7 @@
   &lt;li&gt;&lt;a href=&quot;/post/2018/01/24/Give-Every-Dollar-A-Job.html&quot;&gt;What is the Purpose of Your Money?&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;/post/2018/01/31/What-Are-True-Expenses.html&quot;&gt;What Are True Expenses?&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;/post/2018/02/07/Make-Your-Budget-Fit-Your-Life.html&quot;&gt;Make Your Budget Fit Your Life (not the other way around)&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;(Coming up) Living on Last Month’s Income&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/post/2018/04/26/Aging-Your-Money.html&quot;&gt;Aging Your Money&lt;/a&gt;&lt;/li&gt;
 &lt;/ol&gt;
 
 &lt;h1 id=&quot;why-ynab&quot;&gt;Why YNAB?&lt;/h1&gt;
@@ -401,47 +445,6 @@ Decreasing expenses can be much faster than increasing your income. Increasing i
         <pubDate>Wed, 13 Dec 2017 00:00:00 -0800</pubDate>
         <link>http://localhost:4000//post/2017/12/13/Bare-Bones-Number.html</link>
         <guid isPermaLink="true">http://localhost:4000//post/2017/12/13/Bare-Bones-Number.html</guid>
-      </item>
-    
-      <item>
-        <title>Credit Card Float</title>
-        <description>&lt;p&gt;There’s a hidden debt trap that you could be falling into. I know I sound like one of those terrible commercials trying to persuade you to give them money to get your debt cancelled. But there &lt;strong&gt;is&lt;/strong&gt; a way to get into debt without knowing you are in debt, and it is called “Credit Card Float.”&lt;/p&gt;
-
-&lt;!--more--&gt;
-
-&lt;p&gt;Credit Card Float is where you charge your everyday expenses to your credit card over the period of the month, then when you get paid, you pay off the credit card in full, thus never incurring any interest payments. The trouble is, you don’t have enough money to pay for your upcoming expenses, so you have to turn right around and start using the credit card again.&lt;/p&gt;
-
-&lt;p&gt;Here’s the simple way to tell if you are Floating. Ask yourself “If I paid off my credit card today, would I have enough money to cover my expenses until the next time I get paid?” If you answer no, then you are Floating.&lt;/p&gt;
-
-&lt;p&gt;You are in debt because you are paying for expenses first, then getting your income to cover those expenses later. It means that if for some reason you became unemployed, or stopped making money, you would already be one month of expenses in debt, with no way to pay it off. What a scary place to be! Just when you need full reserves, you’ll find yourself in debt before you can even think about how to get out of your current income crunch.&lt;/p&gt;
-
-&lt;p&gt;In &lt;a href=&quot;https://www.ynab.com&quot;&gt;YNAB&lt;/a&gt;, my favorite budgeting program, one of the four rules used to be “Live on Last Month’s Income”. I will write about that rule sometime in the future, but basically the idea is you are always running one month ahead of your expenses. When you are Floating, you are doing the opposite, you are paying for today’s expenses with &lt;strong&gt;next&lt;/strong&gt; month’s income.&lt;/p&gt;
-
-&lt;h1 id=&quot;how-do-you-get-out-of-credit-card-float&quot;&gt;How do you get out of Credit Card Float?&lt;/h1&gt;
-&lt;p&gt;There are many ways to get out of the Credit Card Float. But here are a few ideas:&lt;/p&gt;
-
-&lt;h2 id=&quot;stop&quot;&gt;Stop!&lt;/h2&gt;
-&lt;p&gt;Above all, stop using your credit card, and start using your debit card. This separates your ongoing spending from your Float (debt), which makes it easier to use any one of the following methods to pay off the Float. Note that when you switch to the debit card, you will not be able to pay off your credit card in full next month, because you were using that money to pay this month’s expenses, which will mean you will start incurring interest charges. Usually Float isn’t a huge amount, as it is equal to one month’s expenses, so if you prioritize paying of your Float, you’ll be able to get rid of it quickly, and probably have spent very little on interest in the meantime.&lt;/p&gt;
-
-&lt;p&gt;Remember to keep paying at least the minimum payment, though! You don’t want to harm your credit while you’re paying down this debt.&lt;/p&gt;
-
-&lt;h2 id=&quot;use-your-savings&quot;&gt;Use your savings&lt;/h2&gt;
-&lt;p&gt;If you are lucky enough to have some savings, you can pull some of those savings out, and pay off your credit card bill with that, instead of next month’s paycheck. This is probably the quickest and cheapest way to get current with your credit card. It can hurt emotionally to use your savings to pay the Float, but remember, your savings is already a bit illusory, because you are also in debt.&lt;/p&gt;
-
-&lt;h2 id=&quot;throw-your-extra-cash-into-it&quot;&gt;Throw your extra cash into it&lt;/h2&gt;
-&lt;p&gt;When you have a windfall, sell something, or get a gift, throw that money at your credit card. Every little bit helps, and eventually, you will pay off your Float.&lt;/p&gt;
-
-&lt;h2 id=&quot;use-your-extra-paycheck&quot;&gt;Use your extra paycheck.&lt;/h2&gt;
-&lt;p&gt;Do you get paid every two weeks? If so, every year you have two months where you get paid three times a month, instead of two. If one of those months is coming up, consider using the “extra” paycheck to throw at your Float. It can bring your balance down by at least half, which is a huge morale boost, then you can work on the rest of the balance using other methods.&lt;/p&gt;
-
-&lt;p&gt;These are just a few ideas for paying it down. Like all debt payment strategies, the most important thing is to get creative! Make it a game – how quickly can you pay down your Float?&lt;/p&gt;
-
-&lt;h1 id=&quot;what-next&quot;&gt;What next?&lt;/h1&gt;
-&lt;p&gt;Once you’ve paid off your Float, you can consider starting to use your credit card again. Because you already have a proven track record of paying your credit card off every month, you’ll probably continue to do well with it. But now when you use it, every dollar you spend on your credit card, you know you have a dollar in your bank account that backs that debt. It’s an amazing feeling to know that you can pay your credit card at any time, and still have enough money in your account to pay for all your expenses!&lt;/p&gt;
-</description>
-        <pubDate>Wed, 06 Dec 2017 00:00:00 -0800</pubDate>
-        <link>http://localhost:4000//post/2017/12/06/Credit-Card-Float.html</link>
-        <guid isPermaLink="true">http://localhost:4000//post/2017/12/06/Credit-Card-Float.html</guid>
       </item>
     
   </channel>
