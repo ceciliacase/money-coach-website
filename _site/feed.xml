@@ -1,10 +1,48 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Bountiful Money Coaching</title>
+    <title>Bountiful Money, LLC</title>
     <description>Save money, budget according to your values, and experience financial bliss</description>
     <link>http://localhost:4000</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
+    
+      <item>
+        <title>Receiving Money Into Your Life</title>
+        <description>&lt;p&gt;There once was a girl who got her first job out of high school. She had applied for a job as a sales clerk at the local department store, and she was so proud of herself when she was hired. She had put in the work to have a good resume, and did very well on the interview. She was nervous about her new job, but she knew she could do a good job. But… &lt;!--more--&gt; when she came home, her parents were angry. “Why do you need a job? You’re going to get a husband, and he’s going to take care of you. All you should be concerned about is finding that man.” She was crushed. She called the store and declined the job. Because of this incident, and many others like it, she decided she must not be worthy of receiving money. This feeling has plagued her her entire adult life.&lt;/p&gt;
+
+&lt;p&gt;We all have money stories in our lives and in our past. Sometimes we have stories that encourage excessive spending habits. Sometimes they encourage miserly behavior. And sometimes, like the girl in our story, they tell us that we shouldn’t receive money into our lives.&lt;/p&gt;
+
+&lt;p&gt;Think back on your childhood and early adulthood. Do you have any stories that have made you feel like you aren’t worthy of receiving money into your life? What are the elements of the story that made you feel this way. Did someone put down your labors or work you did? Did you develop a feeling that money is evil or tainted? Or did you somehow get the feeling that YOU don’t deserve money?&lt;/p&gt;
+
+&lt;p&gt;Money is such a taboo subject, and we all lay so much emotion on top of the concept of money, and receiving money can create such overwhelming emotions in us all. But we can overcome these feelings, and find a new, positive, relationship with money. 
+First, it is important to remember, money in and of itself, is not positive OR negative. What we do with money can be of course. But the dollar in your hand is neutral. Also, money is not the goal. Money is a tool for making your life, and the lives of others better and more fulfilling.&lt;/p&gt;
+
+&lt;h1 id=&quot;things-to-do&quot;&gt;Things to do&lt;/h1&gt;
+&lt;p&gt;What can you do to counteract these old stories and patterns, and build a healthier relationship with receiving money? Here are some ideas. You don’t have to do all of them, and please feel free to modify these in a way that suits you and your life.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Become comfortable with talking about money. Talking about taboo subjects lessen their hold on us, and shine a light on what we’re really afraid of. Find someone safe, perhaps that has similar struggles with money, and become “Money Confidantes”. Make a regular coffee date, and take turns sharing your fears and concerns, then share your successes.&lt;/li&gt;
+  &lt;li&gt;Create a receiving ritual - Every time money comes into your hands, your bank account, or your PayPal account, ring a bell, light a candle, or say a prayer of thanks, or do all three. Or create another ritual that has meaning for you. Another fun way can be to say out loud: “Thank you &lt;person who=&quot;&quot; gave=&quot;&quot; you=&quot;&quot; the=&quot;&quot; money=&quot;&quot;&gt; for honoring me with this money. I honor you and the universe in return. I also honor myself, and I am grateful for the opportunity to receive this money”.&lt;/person&gt;&lt;/li&gt;
+  &lt;li&gt;Spend about five minutes a day visualizing what it will feel like to be wealthy and prosperous. Will you feel content for not having to worry daily about money? Do you feel joy for having the money you need to give back to people and causes you believe in? Do you feel grateful that you are protected in retirement, and will not need to depend on others as you age? When you imagine feeling wealthy, it helps you rewire your brain, and you will be more receptive to the money coming into your life right now.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;affirmations&quot;&gt;Affirmations&lt;/h1&gt;
+&lt;p&gt;And you can always work with affirmations. Here are some things to try saying to yourself every day:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;“Money is not positive or negative. Money is a neutral. What I do with it is what brings value to it.”&lt;/li&gt;
+  &lt;li&gt;“Having money, or not having money does not change my character. I am me, I am a beautiful sacred person, no matter how much money I have.”&lt;/li&gt;
+  &lt;li&gt;“Money is not the goal. Money is a tool for making my life, and the lives of others, better and more fulfilling.”&lt;/li&gt;
+  &lt;li&gt;“I am worthy of an abundant life. I do good works that are worth the reward of a fair payment”&lt;/li&gt;
+  &lt;li&gt;“I am so happy and grateful now that money comes to me in increasing quantities through multiple sources on a continuous basis.”&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;When you choose your affirmations, choose phrases that you can deeply believe. If you are not ready for an affirmation, or it is too “out there”, your subconscious will reject it. So if you need to modify any of these so they are believable to you, do that, and once you are comfortable with them, try expanding them.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 02 May 2018 00:00:00 -0700</pubDate>
+        <link>http://localhost:4000//post/2018/05/02/Receiving-Money-Into-Your-Life.html</link>
+        <guid isPermaLink="true">http://localhost:4000//post/2018/05/02/Receiving-Money-Into-Your-Life.html</guid>
+      </item>
     
       <item>
         <title>Aging Your Money</title>
@@ -402,49 +440,6 @@ Decreasing expenses can be much faster than increasing your income. Increasing i
         <pubDate>Wed, 20 Dec 2017 00:00:00 -0800</pubDate>
         <link>http://localhost:4000//post/2017/12/20/More-Expenses-Then-Income.html</link>
         <guid isPermaLink="true">http://localhost:4000//post/2017/12/20/More-Expenses-Then-Income.html</guid>
-      </item>
-    
-      <item>
-        <title>What Is Your Bare Bones Number?</title>
-        <description>&lt;p&gt;Do you know what financial level you are living at? Are you living close to the bone, or are you living freely, with all of your needs &lt;strong&gt;and&lt;/strong&gt; your wants being met? And how do you know?&lt;/p&gt;
-
-&lt;p&gt;When clients come to me to get their finances under control, one of the first things I do is help them to understand their “Bare Bones Number.” My mentor &lt;a href=&quot;http://www.lunajaffe.com&quot;&gt;Luna Jaffe&lt;/a&gt; likes to call it the “Squeak-By Number,” because it’s the number that you would be just squeaking by on. It is the minimum amount of money you could spend every month, to just barely get by.&lt;/p&gt;
-
-&lt;!--more--&gt;
-
-&lt;p&gt;It is helpful to know your Bare Bones Number, because then you are aware of how much you could cut from your life in an emergency, if absolutely everything went wrong, what would you be left paying? And it is very useful to have this as a calculated number, because it gives a sense of peace and control to know what you could cut down to, and still live. It also shows you whether you are already living Bare-Bones or not. A lot of folks think they are living at the absolute edge of their expenses, but we often find that there are still places that you can cut expenses, sometimes with little to no effect on your  quality of life. We get so used to the amenities and experiences in our lives, sometimes it ends up feeling like those are necessities, when in reality, they don’t really belong below the Bare-Bones line.&lt;/p&gt;
-
-&lt;h1 id=&quot;the-exercise&quot;&gt;The exercise&lt;/h1&gt;
-&lt;p&gt;Take out a piece of paper (or a spreadsheet, if that’s what you like), then go through all of your bank statements for ALL of your personal accounts including your credit cards, for the last two months. For every charge decide, ask yourself:&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Was this necessary for my most basic living?&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Some things are easy. Your utility bills are one that is obviously Bare-Bones. Also minimum debt payments are another. You &lt;strong&gt;must&lt;/strong&gt; keep up with your debt payments, because the consequences of not doing so can be dire. Things like rent, though, are deceptive. It seems Bare Bones, but is it really? Are you living in the smallest house or apartment you could be? Would it be possible for you to move somewhere cheaper, and still be happy and comfortable? We Americans live in &lt;strong&gt;huge&lt;/strong&gt; houses, maybe a smaller apartment wouldn’t be as much fun, but it may serve your Bare Bones Number little better. The same goes with groceries. Bare Bones doesn’t mean organic. It means the cheapest you can get away with and still be relatively healthy.&lt;/p&gt;
-
-&lt;p&gt;As you go through your statements, write down the items that you decide are Bare Bones on your paper, and write down how much you spent in one month for that item. When you are done, you should have a list of items that you can total up. That total is your Bare Bones Number. Now ask yourself:&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;How does this number make me feel?&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Does it seem too high? Is it too low? How close is your current living situation to your Bare Bones number? This exercise can bring up all sorts of emotions. Perhaps you are distressed at how high the number is, or how close it is to your current living situation. Or maybe you have realized that you can live on even less than you ever thought you could. What a feeling of freedom, knowing you can cut way back, and still survive!&lt;/p&gt;
-
-&lt;p&gt;No one will have the same Bare Bones number. We all live different lives. Perhaps you have medical issues that others don’t, or you have kids. Or you live in an expensive city. All these things can effect that number, so it’s not helpful to compare your number with other people’s. But what can be helpful is revisiting this number over time, every six months or so. Our own lives change all the time, so your number will probably change, too.&lt;/p&gt;
-
-&lt;h1 id=&quot;how-can-you-use-this-number&quot;&gt;How can you use this number?&lt;/h1&gt;
-&lt;p&gt;I’m not advocating you make it a goal to live at your Bare Bones Number. It is actually the opposite. Once you know what your Bare Bones Number is, and if your income is significantly over that, then of course you can add in the things that make our lives full and rewarding.&lt;/p&gt;
-
-&lt;p&gt;If you are living well, and have a good job, just knowing your number can help you understand how much you need to save for an emergency fund. Many people advise having at least 6 months of expenses saved. Now you can take your Bare Bones Number, multiply by six, and know how much is a fairly good Emergency Fund goal.&lt;/p&gt;
-
-&lt;p&gt;If you are already living close to your Bare Bones Number, this exercises often brings up areas where you can cut even further. If you cut just a bit more, you might be able to buy yourself some breathing room, while you use other methods to also improve your financial situation.&lt;/p&gt;
-
-&lt;p&gt;Sometimes you may find in calculating your Bare Bones Number that your expenses are larger than your income. My next article will be about what to do if you find yourself in that situation.&lt;/p&gt;
-</description>
-        <pubDate>Wed, 13 Dec 2017 00:00:00 -0800</pubDate>
-        <link>http://localhost:4000//post/2017/12/13/Bare-Bones-Number.html</link>
-        <guid isPermaLink="true">http://localhost:4000//post/2017/12/13/Bare-Bones-Number.html</guid>
       </item>
     
   </channel>
