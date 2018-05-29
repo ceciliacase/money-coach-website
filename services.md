@@ -25,7 +25,6 @@ For the individualized coaching help I provide, I have to following pricing pack
 |:--|:--|:--|
 | $360 | $360/mo <br>OR 5% off if paid up front ($1020 total) | $360/mo <br>OR 10% off if paid up front ($1940 total) |
 | One month (four sessions) | Three months (12 sessions) | Six months (24 sessions) |
-Two months Sustainable Membership* included | Six months Sustainable Membership* included | One year Sustainable Membership* included |
 
 ## Couples pricing
 
@@ -33,11 +32,9 @@ Two months Sustainable Membership* included | Six months Sustainable Membership*
 |:--|:--|:--|
 | $520 | $520/mo <br>OR 5% off if paid up front ($1480 total) | $520/mo <br>OR 10% off if paid up front ($2800 total) |
 | One month (four sessions) | Three months (12 sessions) | Six months (24 sessions) |
-Two months Sustainable Membership* included | Six months Sustainable Membership* included | One year Sustainable Membership* included |
 
-# * Sustainable membership
-Once you have completed your package, you can choose to sign up for an additional sustainable membership, which is $60 per month, and includes one half hour session every month, and weekly checkup emails. This service can help you cement your money practice, and provide ongoing accountability.
-
+# Sustainable membership
+Once you have completed your package, you can choose to sign up for an additional sustainable membership, which is $60 per month, and includes one half hour phone session every month, and weekly accountability emails. This service can help you cement your money practice, and provides ongoing accountability.
 
 
 Please feel free to [email](mailto:{{ site.email }}) or call me to set up a initial consultation, or ask any further questions you may have. 
