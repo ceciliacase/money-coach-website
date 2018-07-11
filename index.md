@@ -16,7 +16,12 @@ I used to be mystified by personal finances and budgeting, getting myself into a
 
 About four years ago, I ran across a budgeting technique called Envelope Budgeting. It clicked, and since then I have worked hard, made mistakes, and learned techniques for paying off debt, saving for my goals, and even saving for retirement. But that isn’t the most important thing I’ve learned. The most important thing is that I have discovered how to find peace and joy in my financial life. I now have serenity when I look at my bank accounts, and feel joy when I look at my budget. And I can help you find the same peace and joy in your finances!
 
-You deserve to have a good relationship with money! Get started with [this article]({% post_url 2017-11-08-Welcome-To-Financial-Freedom %}).
+You deserve to have a good relationship with money! Get started by
+    <!-- Calendly link widget begin -->
+      <link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
+      <script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript"></script>
+      <a class="" href="" onclick="Calendly.showPopupWidget('https://calendly.com/ceciliacase/initialconsult');return false;">scheduling a <b>free</b> strategy session!</a>
+      <!-- Calendly link widget end -->.
 
 <h1>Featured Article</h1>
 <article id="featured-post">

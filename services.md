@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Services and Pricing
+title: Services
 ---
 
 ## Save Money
@@ -16,25 +16,10 @@ We will work with old money patterns, understanding them and replacing patterns 
 If you have a partner that you combine money with, I highly encourage you to invest in the couples sessions. It is very advantageous for both members of a partnership to learn budgeting at the same time, and have the opportunity to ask questions and get their needs met within the sessions. Those couples I have taught together seem to feel more in tune and comfortable with the process.
 The content for the couples sessions are similar, and you will together on your budget for the duration of the class. Some of the content will expand on concepts like the pros and cons of maintaining separate accounts, how to honor each other's goals and values, and how to work together to increase communication and reduce friction in the relationship due to money worries.
 
-# Pricing
-For the individualized coaching help I provide, I have to following pricing packages. If you want a customized program or specific issue you would like to work on, please mention it in your initial phone consulation, and I will make sure to include it.
 
-## Individual pricing
-
-| Basic | Standard | Ultimate |
-|:--|:--|:--|
-| $360 | $360/mo <br>OR 5% off if paid up front ($1020 total) | $360/mo <br>OR 10% off if paid up front ($1940 total) |
-| One month (four sessions) | Three months (12 sessions) | Six months (24 sessions) |
-
-## Couples pricing
-
-| Basic | Standard | Ultimate |
-|:--|:--|:--|
-| $520 | $520/mo <br>OR 5% off if paid up front ($1480 total) | $520/mo <br>OR 10% off if paid up front ($2800 total) |
-| One month (four sessions) | Three months (12 sessions) | Six months (24 sessions) |
-
-# Sustainable membership
-Once you have completed your package, you can choose to sign up for an additional sustainable membership, which is $60 per month, and includes one half hour phone session every month, and weekly accountability emails. This service can help you cement your money practice, and provides ongoing accountability.
-
-
-Please feel free to [email](mailto:{{ site.email }}) or call me to set up a initial consultation, or ask any further questions you may have. 
+Please feel free to [email](mailto:{{ site.email }}) or call me for more information or
+      <!-- Calendly link widget begin -->
+      <link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
+      <script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript"></script>
+      <a class="" href="" onclick="Calendly.showPopupWidget('https://calendly.com/ceciliacase/initialconsult');return false;">schedule a <b>free</b> strategy session!</a>
+      <!-- Calendly link widget end -->. 
