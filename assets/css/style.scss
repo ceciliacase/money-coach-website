@@ -54,6 +54,13 @@ $header-bg-color: #11221E;
   border-radius: 0.3rem;
 }
 
+.bio-pic {
+  float: right;
+  margin-left: 20px;
+  margin-top: 1.5rem;
+  border-radius: 0.3rem;
+}
+
 .head-image {
   @include small {
     width: 100px;

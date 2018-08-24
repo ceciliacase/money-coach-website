@@ -330,6 +330,8 @@ a:hover { text-decoration: underline; }
 
 .head-image, .featured-image { float: left; margin-right: 20px; margin-top: 1.5rem; border-radius: 0.3rem; }
 
+.bio-pic { float: right; margin-left: 20px; margin-top: 1.5rem; border-radius: 0.3rem; }
+
 @media screen and (max-width: 42em) { .head-image { width: 100px; } }
 @media screen and (min-width: 42em) and (max-width: 64em) { .head-image { width: 150px; } }
 @media screen and (min-width: 64em) { .head-image { width: 200px; } }
