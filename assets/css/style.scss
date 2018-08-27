@@ -8,6 +8,10 @@ $header-bg-color: #11221E;
 
 @import "{{ site.theme }}";
 
+.bold {
+  font-weight: bold;
+}
+
 .button {
   display: inline-block;
   margin-bottom: 1rem;
@@ -228,6 +232,7 @@ $header-bg-color: #11221E;
       content: normal;
     }
   }
+
 
   ul,
   ol {
