@@ -3,24 +3,25 @@ layout: default
 ---
 
 <!-- Main ask -->
-<h1>How is <b>your</b> relationship with money?</h1>
+<h1>How is your relationship with money?</h1>
 <ul>
   <li>Does money affect your relationships with your partner, friends, and family?</li>
   <li>Do you avoid looking at your bank account balance? Do you say a little prayer when you hand over your credit card to the cashier?</li>
-  <li>Does money affect your relationship with yourself?</li>
+  <li>Does your money situation get in the way of having a successful business?</li>
 </ul>
 
 If you said yes to any of these questions, I can help you!
 
-I used to be mystified by personal finances and budgeting, getting myself into and out of debt for most of my young adult life. I hated the uncertainty, and I was so stressed all the time! I felt guilty that I couldn’t harness my money to do what <b>I</b> wanted. I was capable in so many areas, why couldn’t I work responsibly with money?
+Knowing how to budget is only a small part of financial health. It is just as important to address the emotional aspect of money. Understanding your money story and your money past is what will help you heal your relationship with money, and help the most with putting in places the systems and techniques for good financial health.
 
-About four years ago, I ran across a budgeting technique called Envelope Budgeting. It clicked, and since then I have worked hard, made mistakes, and learned techniques for paying off debt, saving for my goals, and even saving for retirement. But that isn’t the most important thing I’ve learned. The most important thing is that I have discovered how to find peace and joy in my financial life. I now have serenity when I look at my bank accounts, and feel joy when I look at my budget. And I can help you find the same peace and joy in your finances!
+Learning how to heal your relationship with money will transform budgeting into one of joy and alignment with your values. You can learn how to transform your chaotic financial situation into one of peace and joy, learn techniques to get out of the paycheck-to-paycheck cycle, and become debt-free, and establish lifelong habits and patterns that help your money stay in sync with your life and values!
 
-You deserve to have a good relationship with money! Get started by
+
+You deserve to have a good relationship with money! Get started by scheduling a 
     <!-- Calendly link widget begin -->
       <link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
       <script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript"></script>
-      <a class="" href="" onclick="Calendly.showPopupWidget('https://calendly.com/ceciliacase/initialconsult');return false;">scheduling a <b>free</b> strategy session!</a>
+      <a class="" href="" onclick="Calendly.showPopupWidget('https://calendly.com/ceciliacase/initialconsult');return false;"><b>free</b> strategy session!</a>
       <!-- Calendly link widget end -->.
 
 <h1>Featured Article</h1>
@@ -40,7 +41,7 @@ You deserve to have a good relationship with money! Get started by
   {% endfor %}
 </article>
 
-<h2>About the author</h2>
+<h2>About the Coach</h2>
 
 {% include bio-marketing.md %}
 

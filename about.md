@@ -9,12 +9,12 @@ A positive and empowered relationship with money is possible! Together, we will 
 
 <!--more-->
 
-I have wide-ranging interests and experiences, including working as an Electrical Engineer, User Experience Designer, and now as a Money Coach and Potter. I have spent most of my working life getting into and out of debt in a never-ending cycle. That is until I found a simple and dynamic budgeting method almost four years ago. Budgeting helped me get out of debt and stay out, while also helping me align how I earn and spend money in line with my values.
+I used to be mystified by personal finances and budgeting, getting myself into and out of debt for most of my young adult life. I hated the uncertainty, and I was so stressed all the time! I felt guilty that I couldn’t harness my money to do what <b>I</b> wanted. I was capable in so many areas, why couldn’t I work responsibly with money?
 
-I love working with people in all walks of life, but specialize in:
-- Creatives and others with low-income situations
-- Those with highly variable incomes and situations
-- Couples and the complex interaction between personal relationships and money relationships
-- Uncoupling your money from another person, such as in divorce or separations
+About four years ago, I ran across a budgeting technique called Envelope Budgeting. It clicked, and since then I have worked hard, made mistakes, and learned techniques for paying off debt, saving for my goals, and even saving for retirement. But that isn’t the most important thing I’ve learned. The most important thing is that I have discovered how to find peace and joy in my financial life. I now have serenity when I look at my bank accounts, and feel joy when I look at my budget. And I can help you find the same peace and joy in your finances!
+
+I love working with people in all walks of life, but specialize in people in transition, especially:
+- People starting a new small business or entreprenurship venture.
+- People who are in relationship transition - either joining their lives and finances with their partners, or uncoupling their lives and finances from their partners.
 
 {% include bio-marketing.md %}
