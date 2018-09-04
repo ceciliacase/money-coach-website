@@ -13,7 +13,7 @@ I know what it's like to constantly fall into a debt cycle, or worry about payin
 We will work with old money patterns, understanding them and replacing patterns that no longer serve you. We will work to create a new, healthy relationship with money, where you are in control, and you are living your life according to your values!
 
 # How to work with me
-My 6 month <b>Heal Your Relationship With Money</b> program will include four 60-minute coaching sessions by phone each month for six months. We will use that time to explore your money past, your unique money challenges, and to get feedback or a sounding board on developing your new strategies and relationship with money.
+My 6 month <b>Heal Your Relationship With Money</b> program includes four 60-minute coaching sessions by phone each month for six months. We will use that time to explore your money past, your unique money challenges, and to get feedback or a sounding board on developing your new strategies and relationship with money.
 
 Our work together in the Program will focus on helping you 
 - Heal your relationship with money
