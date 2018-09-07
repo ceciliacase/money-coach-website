@@ -25,9 +25,4 @@ You will also get access to a comprehensive program of video lessons, worksheets
 This is a truely transformative program at the end of the six months, you will have a new perspective on your money life, and control over your financial destiny!
 
 
-Please feel free to [email](mailto:{{ site.email }}) or call me for more information or schedule a 
-      <!-- Calendly link widget begin -->
-      <link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
-      <script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript"></script>
-      <a class="" href="" onclick="Calendly.showPopupWidget('https://calendly.com/ceciliacase/initialconsult');return false;"><b>free</b> strategy session!</a>
-      <!-- Calendly link widget end -->. 
+Please feel free to [email](mailto:{{ site.email }}) or call me for more information or schedule a {% include calendly.md %}
