@@ -1,1 +1,1 @@
-<a class="{{ include.class }}" href="" onclick="Calendly.showPopupWidget('https://calendly.com/ceciliacase/initialconsult');return false;">{{ include.preline }}<b>Free</b> Strategy Session!</a>
+<a class="{{ include.class }}" href="" onclick="Calendly.showPopupWidget('https://calendly.com/ceciliacase/initialconsult');return false;">{{ include.preline }}<b>Free</b> Money Empowerment Session!</a>

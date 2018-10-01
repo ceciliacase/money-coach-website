@@ -6,7 +6,7 @@ title: Bountiful Money, LLC
 name: Bountiful Money, LLC
 description: "Save money, budget according to your values, and experience financial bliss"
 author: Cecilia Case
-email: cecilia@ceciliacase.com
+email: cecilia@bountifulmoneyllc.com
 url: http://www.bountifulmoneycoach.com
 
 excerpt_separator: <!--more-->
@@ -27,7 +27,7 @@ defaults:
     values:
       layout: "post"
       author: "Cecilia Case"
-      email: cecilia@ceciliacase.com
+      email: cecilia@bountifulmoneyllc.com
 
 
 ## TODO:
