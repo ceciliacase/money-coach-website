@@ -17,7 +17,7 @@ Knowing how to budget is only a small part of financial health. It is just as im
 Learning how to heal your relationship with money will transform budgeting into one of joy and alignment with your values. You can learn how to transform your chaotic financial situation into one of peace and joy, learn techniques to get out of the paycheck-to-paycheck cycle, and become debt-free, and establish lifelong habits and patterns that help your money stay in sync with your life and values!
 
 
-You deserve to have a good relationship with money! Get started by scheduling your {% include calendly.md %}
+You deserve to have a good relationship with money! Get started by scheduling your free session! {% include calendly.md class="button primary" %}
 
 <h1>Featured Article</h1>
 <article id="featured-post">
