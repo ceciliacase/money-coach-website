@@ -255,7 +255,7 @@ td, th { padding: 0; }
 
 body { padding: 0; margin: 0; font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif; font-size: 16px; line-height: 1.5; color: #606c71; }
 
-a { color: #1e6bb8; text-decoration: none; }
+a { color: #033c82; text-decoration: none; }
 a:hover { text-decoration: underline; }
 
 .btn { display: inline-block; margin-bottom: 1rem; color: rgba(255, 255, 255, 0.7); background-color: rgba(255, 255, 255, 0.08); border-color: rgba(255, 255, 255, 0.2); border-style: solid; border-width: 1px; border-radius: 0.3rem; transition: color 0.2s, background-color 0.2s, border-color 0.2s; }
@@ -266,7 +266,7 @@ a:hover { text-decoration: underline; }
 @media screen and (max-width: 42em) { .btn { display: block; width: 100%; padding: 0.75rem; font-size: 0.9rem; }
   .btn + .btn { margin-top: 1rem; margin-left: 0; } }
 
-.page-header { color: #fff; text-align: center; background-color: #11221E; background-image: linear-gradient(120deg, #155799, #11221E); }
+.page-header { color: #fff; text-align: center; background-color: black; background-image: linear-gradient(120deg, #022550, black); }
 @media screen and (min-width: 64em) { .page-header { padding: 5rem 6rem; } }
 @media screen and (min-width: 42em) and (max-width: 64em) { .page-header { padding: 3rem 4rem; } }
 @media screen and (max-width: 42em) { .page-header { padding: 2rem 1rem; } }
@@ -287,10 +287,10 @@ a:hover { text-decoration: underline; }
 @media screen and (min-width: 42em) and (max-width: 64em) { .main-content { padding: 2rem 4rem; font-size: 1.1rem; } }
 @media screen and (max-width: 42em) { .main-content { padding: 2rem 1rem; font-size: 1rem; } }
 .main-content img { max-width: 100%; }
-.main-content h1, .main-content h2, .main-content h3, .main-content h4, .main-content h5, .main-content h6 { margin-top: 2rem; margin-bottom: 1rem; font-weight: normal; color: #159957; }
+.main-content h1, .main-content h2, .main-content h3, .main-content h4, .main-content h5, .main-content h6 { margin-top: 2rem; margin-bottom: 1rem; font-weight: normal; color: #118730; }
 .main-content p { margin-bottom: 1em; }
 .main-content code { padding: 2px 4px; font-family: Consolas, "Liberation Mono", Menlo, Courier, monospace; font-size: 0.9rem; color: #567482; background-color: #f3f6fa; border-radius: 0.3rem; }
-.main-content pre { padding: 0.8rem; margin-top: 0; margin-bottom: 1rem; font: 1rem Consolas, "Liberation Mono", Menlo, Courier, monospace; color: #567482; word-wrap: normal; background-color: #f3f6fa; border: solid 1px #dce6f0; border-radius: 0.3rem; }
+.main-content pre { padding: 0.8rem; margin-top: 0; margin-bottom: 1rem; font: 1rem Consolas, "Liberation Mono", Menlo, Courier, monospace; color: #567482; word-wrap: normal; background-color: #f3f6fa; border: solid 1px #022550; border-radius: 0.3rem; }
 .main-content pre > code { padding: 0; margin: 0; font-size: 0.9rem; color: #567482; word-break: normal; white-space: pre; background: transparent; border: 0; }
 .main-content .highlight { margin-bottom: 1rem; }
 .main-content .highlight pre { margin-bottom: 0; word-break: normal; }
@@ -298,7 +298,7 @@ a:hover { text-decoration: underline; }
 .main-content pre code, .main-content pre tt { display: inline; max-width: initial; padding: 0; margin: 0; overflow: initial; line-height: inherit; word-wrap: normal; background-color: transparent; border: 0; }
 .main-content pre code:before, .main-content pre code:after, .main-content pre tt:before, .main-content pre tt:after { content: normal; }
 .main-content ul, .main-content ol { margin-top: 0; }
-.main-content blockquote { padding: 0 1rem; margin-left: 0; color: #819198; border-left: 0.3rem solid #dce6f0; }
+.main-content blockquote { padding: 0 1rem; margin-left: 0; color: #819198; border-left: 0.3rem solid #022550; }
 .main-content blockquote > :first-child { margin-top: 0; }
 .main-content blockquote > :last-child { margin-bottom: 0; }
 .main-content table { display: block; width: 100%; overflow: auto; word-break: normal; word-break: keep-all; -webkit-overflow-scrolling: touch; }
@@ -322,11 +322,11 @@ a:hover { text-decoration: underline; }
 
 .button { display: inline-block; margin-bottom: 1rem; padding: 0.3rem 0.6rem 0.3rem 0.6rem; border-style: solid; border-width: 1px; border-radius: 0.3rem; transition: color 0.2s, background-color 0.2s, border-color 0.2s; }
 
-.primary { color: white; background-color: rgba(21, 153, 87, 0.9); border-color: rgba(255, 255, 255, 0.2); }
-.primary:hover { text-decoration: none; background-color: #159957; border-color: rgba(255, 255, 255, 0.3); }
+.primary { color: white; background-color: rgba(17, 135, 48, 0.9); border-color: rgba(255, 255, 255, 0.2); }
+.primary:hover { text-decoration: none; background-color: #118730; border-color: rgba(255, 255, 255, 0.3); }
 
-.reversed { color: #159957; border-color: rgba(21, 153, 87, 0.9); background-color: white; }
-.reversed:hover { text-decoration: none; background-color: rgba(21, 153, 87, 0.05); border-color: #159957; }
+.reversed { color: #118730; border-color: rgba(17, 135, 48, 0.9); background-color: white; }
+.reversed:hover { text-decoration: none; background-color: rgba(17, 135, 48, 0.05); border-color: #118730; }
 
 .byline { font-size: 0.9rem; color: #8899a0; }
 
@@ -344,7 +344,7 @@ a:hover { text-decoration: underline; }
 
 .readmore { atext-transform: uppercase; font-size: .9rem; }
 
-.page-header { color: #fff; text-align: center; background-color: #11221E; background-image: url("../images/GrowingMoneyDark.jpg"); background-repeat: no-repeat; background-attachment: fixed; background-position: center center; background-size: cover; }
+.page-header { color: #fff; text-align: center; background-color: black; background-image: url("../images/GrowingMoneyDark.jpg"); background-repeat: no-repeat; background-attachment: fixed; background-position: center center; background-size: cover; border-top: 5px solid #022550; border-bottom: 10px solid #022550; }
 @media screen and (min-width: 64em) { .page-header { padding: 3rem 4rem; } }
 @media screen and (min-width: 42em) and (max-width: 64em) { .page-header { padding: 2rem 1rem; } }
 @media screen and (max-width: 42em) { .page-header { padding: 1rem 0.5rem; } }
@@ -355,11 +355,11 @@ a:hover { text-decoration: underline; }
 @media screen and (min-width: 42em) and (max-width: 64em) { .main-content, .aside-content { padding: 2rem 3rem; font-size: 1.1rem; } }
 @media screen and (max-width: 42em) { .main-content, .aside-content { padding: 2rem 1rem; font-size: 1rem; } }
 .main-content img, .aside-content img { max-width: 100%; }
-.main-content h1, .main-content h2, .main-content h3, .main-content h4, .main-content h5, .main-content h6, .aside-content h1, .aside-content h2, .aside-content h3, .aside-content h4, .aside-content h5, .aside-content h6 { margin-top: 2rem; margin-bottom: 0.5rem; font-weight: normal; color: #159957; }
-.main-content h1 a, .main-content h2 a, .main-content h3 a, .main-content h4 a, .main-content h5 a, .main-content h6 a, .aside-content h1 a, .aside-content h2 a, .aside-content h3 a, .aside-content h4 a, .aside-content h5 a, .aside-content h6 a { color: #159957; }
+.main-content h1, .main-content h2, .main-content h3, .main-content h4, .main-content h5, .main-content h6, .aside-content h1, .aside-content h2, .aside-content h3, .aside-content h4, .aside-content h5, .aside-content h6 { margin-top: 2rem; margin-bottom: 0.5rem; font-weight: normal; color: #118730; }
+.main-content h1 a, .main-content h2 a, .main-content h3 a, .main-content h4 a, .main-content h5 a, .main-content h6 a, .aside-content h1 a, .aside-content h2 a, .aside-content h3 a, .aside-content h4 a, .aside-content h5 a, .aside-content h6 a { color: #118730; }
 .main-content p, .aside-content p { margin-bottom: 1em; }
 .main-content code, .aside-content code { padding: 2px 4px; font-family: Consolas, "Liberation Mono", Menlo, Courier, monospace; font-size: 0.9rem; color: #567482; background-color: #f3f6fa; border-radius: 0.3rem; }
-.main-content pre, .aside-content pre { padding: 0.8rem; margin-top: 0; margin-bottom: 1rem; font: 1rem Consolas, "Liberation Mono", Menlo, Courier, monospace; color: #567482; word-wrap: normal; background-color: #f3f6fa; border: solid 1px #dce6f0; border-radius: 0.3rem; }
+.main-content pre, .aside-content pre { padding: 0.8rem; margin-top: 0; margin-bottom: 1rem; font: 1rem Consolas, "Liberation Mono", Menlo, Courier, monospace; color: #567482; word-wrap: normal; background-color: #f3f6fa; border: solid 1px #022550; border-radius: 0.3rem; }
 .main-content pre > code, .aside-content pre > code { padding: 0; margin: 0; font-size: 0.9rem; color: #567482; word-break: normal; white-space: pre; background: transparent; border: 0; }
 .main-content .highlight, .aside-content .highlight { margin-bottom: 1rem; }
 .main-content .highlight pre, .aside-content .highlight pre { margin-bottom: 0; word-break: normal; }
@@ -367,7 +367,7 @@ a:hover { text-decoration: underline; }
 .main-content pre code, .main-content pre tt, .aside-content pre code, .aside-content pre tt { display: inline; max-width: initial; padding: 0; margin: 0; overflow: initial; line-height: inherit; word-wrap: normal; background-color: transparent; border: 0; }
 .main-content pre code:before, .main-content pre code:after, .main-content pre tt:before, .main-content pre tt:after, .aside-content pre code:before, .aside-content pre code:after, .aside-content pre tt:before, .aside-content pre tt:after { content: normal; }
 .main-content ul, .main-content ol, .aside-content ul, .aside-content ol { margin-top: 0; }
-.main-content blockquote, .aside-content blockquote { padding: 0 1rem; margin-left: 0; color: #819198; border-left: 0.3rem solid #dce6f0; }
+.main-content blockquote, .aside-content blockquote { padding: 0 1rem; margin-left: 0; color: #819198; border-left: 0.3rem solid #022550; }
 .main-content blockquote > :first-child, .aside-content blockquote > :first-child { margin-top: 0; }
 .main-content blockquote > :last-child, .aside-content blockquote > :last-child { margin-bottom: 0; }
 .main-content table, .aside-content table { display: block; width: 100%; overflow: auto; word-break: normal; word-break: keep-all; -webkit-overflow-scrolling: touch; }
@@ -391,7 +391,7 @@ a:hover { text-decoration: underline; }
 @media screen and (max-width: 42em) { .patreon-button { padding-bottom: 1rem; } }
 
 /* MailChimp Form styling */
-#mc_wrap { border: 1px solid #159957; padding: 1rem; }
+#mc_wrap { border-top: 5px solid #022550; border-bottom: 5px solid #022550; padding-top: 1rem; padding-bottom: 1rem; }
 
 #mc_embed_signup .mc-field-group, #mc_embed_signup .indicates-required { padding-bottom: 1rem; }
 #mc_embed_signup .indicates-required { font-size: 0.8rem; }

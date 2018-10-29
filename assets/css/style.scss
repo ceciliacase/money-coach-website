@@ -1,9 +1,32 @@
 ---
 ---
 
+$primary-green: #118730;
+$primary-blue: #022550;
+
+// Breakpoints
+// $large-breakpoint: 64em;
+// $medium-breakpoint: 42em;
+
 // Headers
 $header-heading-color: #fff;
-$header-bg-color: #11221E;
+$header-bg-color: darken($primary-green, 30%);
+$header-bg-color-secondary: $primary-blue;
+
+// Text
+$section-headings-color: $primary-green;
+// $body-text-color: #606c71;
+$body-link-color: lighten($primary-blue, 10%);
+// $blockquote-text-color: #819198;
+
+// Code
+// $code-bg-color: #f3f6fa;
+// $code-text-color: #567482;
+
+// Borders
+$border-color: $primary-blue;
+// $table-border-color: #e9ebec;
+// $hr-border-color: #eff0f1;
 
 
 @import "{{ site.theme }}";
@@ -103,6 +126,8 @@ $header-bg-color: #11221E;
   background-attachment: fixed;
   background-position: center center;
   background-size: cover;
+  border-top: 5px solid $primary-blue;
+  border-bottom: 10px solid $primary-blue;
 
   @include large {
     padding: 3rem 4rem;
@@ -345,8 +370,10 @@ $header-bg-color: #11221E;
 
 /* MailChimp Form styling */
 #mc_wrap {
-  border: 1px solid $section-headings-color;
-  padding: 1rem;
+  border-top: 5px solid $border-color;
+  border-bottom: 5px solid $border-color;
+  padding-top: 1rem;
+  padding-bottom: 1rem;
 }
 #mc_embed_signup {
 
