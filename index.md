@@ -39,5 +39,3 @@ You deserve to have a good relationship with money! Get started by scheduling yo
 <h2>About the Coach</h2>
 
 {% include bio-marketing.md %}
-
-<a class=" button reversed readmore" href="about.html">more...</a>
