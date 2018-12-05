@@ -1,4 +1,4 @@
---- FIX THE MEETUP DATE!!!
+--- 
 layout: post
 title: Why the taboo against talking about money hurts you
 categories: post
@@ -10,7 +10,7 @@ I don't think I'm saying anything too controversial when I say that our society 
 
 <!--more--> 
 
-I remember once when I had gotten my first job out of college. I was at a party with some close friends. I excitedly said how much I was making for my starting salary ($43,000 in 2003! I will always remember that number.) and one of the older women grumpily said "It must be nice." I was crushed. I certainly wasn't trying to make anyone else feel bad. But I had broken the code: you don't talk about how much you make.
+I remember once when I had gotten my first job out of college. I was at a party with some close friends. I excitedly said how much I was making for my starting salary ($43,000 in 2003! I will always remember that number.) and one of the older women grumpily said, "It must be nice." I was crushed. I certainly wasn't trying to make anyone else feel bad. But I had broken the code: you don't talk about how much you make.
 
 # So what are the problems with this taboo against talking about money?
 
@@ -28,4 +28,4 @@ It can be hard to change an entire culture, but I do think that this one thing i
 
 I also recommend making a money accountability buddy. Find someone that has a similar philosophy, and ask them if you could both talk about your money goals, and use each other for accountability. Get together for coffee once a month with them, and talk about what is working and what isn't working in your money lives. Practicing with just one person you trust can help you both so much!
 
-And lastly, if you are in Portland, join my Money Empowerment Monthly group! It is a safe environment where you can talk about your greatest money fears and issues in the safety of a facilitated peer group. You can sign up on [Meetup](https://www.meetup.com/Money-Empowerment-Monthly/) or [Eventbrite](https://www.eventbrite.com/e/money-empowerment-monthly-tickets-52066447145). The next meetup is November 28th at 5:30pm.
+And lastly, make an [appointment](https://calendly.com/ceciliacase/initialconsult) for your **free** Money Empowerment Session! In one hour, you will have an opportunity to explore your relationship with money and a safe and supportive environment, and come out of it with a list of recommendations to take the next step towards a healthy relationship with money!
