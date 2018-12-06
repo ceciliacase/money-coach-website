@@ -19,6 +19,7 @@ Learning how to heal your relationship with money will transform budgeting into 
 
 You deserve to have a good relationship with money! Get started by scheduling your free session! {% include calendly.md class="button primary" %}
 
+<!-- Articles -->
 <h1>Featured Article</h1>
 <article id="featured-post">
   {% for post in site.posts limit:1 %}
