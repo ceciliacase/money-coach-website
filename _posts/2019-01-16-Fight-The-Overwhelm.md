@@ -1,6 +1,6 @@
 --- 
 layout: post
-title: Fight the overwhelm
+title: Fight the Overwhelm
 categories: post
 tags: overwhelm budgeting debt
 img: .jpg
