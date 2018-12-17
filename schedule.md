@@ -13,4 +13,7 @@ title: Book a Money Empowerment Session!
 If you said yes to any of these questions, I can help you! Book your free one-hour Money Empowerment Session, and we'll dig into your personal money stories and talk about new ways of working with your money. You'll leave the session with three to five recommendations to take the next steps to healing your relationship with money!
 
 
-{% include calendly.md class="button primary" %}
+<!-- Calendly inline widget begin -->
+<div class="calendly-inline-widget" data-url="https://calendly.com/ceciliacase" style="min-width:320px;height:700px;"></div>
+<script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js"></script>
+<!-- Calendly inline widget end -->
