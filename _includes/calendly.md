@@ -1,1 +1,2 @@
-<a class="{{ include.class }}" href="" onclick="Calendly.showPopupWidget('https://calendly.com/ceciliacase/initialconsult');return false;">{{ include.preline }}Let's Talk</a>
+<a class="{{ include.class }}" href="http://www.bountifulmoneycoach.com/schedule.html">{{ include.preline }}Let's Talk</a>
+
