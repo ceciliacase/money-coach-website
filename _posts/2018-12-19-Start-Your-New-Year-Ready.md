@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Start Your New Year Right
+title:  Start Your New Year Ready For Bounty
 categories: post
 tags: YNAB budgeting goals 
 img: BarleySunrise.jpg
