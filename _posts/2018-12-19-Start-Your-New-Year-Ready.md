@@ -6,7 +6,7 @@ tags: YNAB budgeting goals
 img: BarleySunrise.jpg
 ---
 
-We're getting close to the end of the year! Now is a great time to take a beat, and look back on what we did last year, and what we want to do next year. After the new year dawns, I'll tell you a little bit about my personal retrospective and goals for 2019, but first, take a little time to look backwards and forwards with your money life.
+We're getting close to the end of the year! Now is a great time to take a beat, and look back on what we did last year, and what we want to do next year. After the new year dawns, I'll tell you a little bit about my personal retrospective and goals for 2019, but first, take a little time to look backwards and forwards with your money life, so you're ready to take on 2019!
 
 <!--more-->
 
