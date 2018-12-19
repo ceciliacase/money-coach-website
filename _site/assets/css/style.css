@@ -322,6 +322,8 @@ a:hover { text-decoration: underline; }
 
 .button { display: inline-block; margin-bottom: 1rem; padding: 0.3rem 0.6rem 0.3rem 0.6rem; border-style: solid; border-width: 1px; border-radius: 0.3rem; transition: color 0.2s, background-color 0.2s, border-color 0.2s; }
 
+.symbol { font-size: 120%; line-height: 100%; }
+
 .primary { color: white; background-color: rgba(17, 135, 48, 0.9); border-color: rgba(255, 255, 255, 0.2); }
 .primary:hover { text-decoration: none; background-color: #118730; border-color: rgba(255, 255, 255, 0.3); }
 

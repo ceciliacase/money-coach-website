@@ -45,6 +45,10 @@ $border-color: $primary-blue;
   transition: color 0.2s, background-color 0.2s, border-color 0.2s;
 }
 
+.symbol {
+  font-size: 120%;
+  line-height: 100%;
+}
 .primary {
   color: rgba(255, 255, 255, 1);
   background-color: fade-out($section-headings-color, 0.1);
