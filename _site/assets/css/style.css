@@ -330,9 +330,15 @@ a:hover { text-decoration: underline; }
 .reversed { color: #118730; border-color: rgba(17, 135, 48, 0.9); background-color: white; }
 .reversed:hover { text-decoration: none; background-color: rgba(17, 135, 48, 0.05); border-color: #118730; }
 
+.inline { color: #118730; border-color: white; background-color: white; padding: 0 0.3rem; }
+.inline:hover { text-decoration: none; background-color: rgba(17, 135, 48, 0.05); border-color: #118730; }
+
 .byline { font-size: 0.9rem; color: #8899a0; }
 
-.head-image, .featured-image { float: left; margin-right: 20px; margin-top: 1.5rem; border-radius: 0.3rem; }
+.head-image, .featured-image { float: left; margin-right: 20px; margin-top: 1.5rem !important; border-radius: 0.3rem; }
+
+.featured-post-link { color: #606c71; text-decoration: none; }
+.featured-post-link:hover { text-decoration: none; }
 
 .bio-pic { float: right; margin-left: 20px; margin-top: 1.5rem; border-radius: 0.3rem; }
 

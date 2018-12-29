@@ -73,6 +73,19 @@ $border-color: $primary-blue;
   }
 }
 
+.inline {
+  color: $section-headings-color;
+  border-color: white;
+  background-color: white;
+  padding: 0 0.3rem;
+ 
+  &:hover {
+    text-decoration: none;
+    background-color: fade-out($section-headings-color, 0.95);
+    border-color: $section-headings-color;
+  }
+}
+
 .byline {
   font-size: 0.9rem;
   color: #8899a0;
@@ -81,8 +94,17 @@ $border-color: $primary-blue;
 .head-image, .featured-image {
   float: left;
   margin-right: 20px;
-  margin-top: 1.5rem;
+  margin-top: 1.5rem !important;
   border-radius: 0.3rem;
+}
+
+.featured-post-link {
+  color: $body-text-color;
+  text-decoration: none;
+
+  &:hover {
+    text-decoration: none;
+  }
 }
 
 .bio-pic {
