@@ -3,7 +3,7 @@ layout: post
 title:  My yearly review
 categories: post
 tags: YNAB budgeting goals 
-img: Chart.jpg
+img: Goals.jpg
 ---
 
 As I mentioned last year, I'm not big on New Year Resolutions. But making goals and reviewing them is very important and can really clarify your values and your money situation. The past few years, I've done an informal, high level yearly review of my financial situation, and it's really helped me gain a perspective of how my goals change over time. I'd like to share with you my 2018 review.
@@ -16,7 +16,7 @@ Here is my list of financial goals for this last year:
 - And if I haven't achieved that, have a part-time in a related field to continue growing and expanding professionally.
 - Stay debt-free!
 - Contribute to my retirement funds
-- Have a retirement portfolio worth $275,000.
+- Have a retirement portfolio worth $xxx,000. [Author note: I have removed the amounts for this goal, but I'll talk about whether or not I have achieved it, and how it worked for me]
 
 So how does this list compare to where I stand right now?
 
@@ -32,7 +32,7 @@ YES! I have done this so far! This is a huge achievement for a small business ow
 ### Contribute to my retirement funds
 NOPE! I have set this aside until the first goal is achieved. I am ok with this because I am already ahead of the game with retirement investing.
 
-### Have a retirement portfolio worth $275,000
+### Have a retirement portfolio worth $xxx,000
 NOT QUITE. Because I haven't been contributing, and the market hasn't been stellar, I think it's probably only a little over where I was last year. But seeing as I'm quite a bit ahead for my age, and I'm committed to changing the trajectory of my life, I'm totally OK with letting this one ride.
 
 ### What else happened this year?
@@ -41,7 +41,7 @@ NOT QUITE. Because I haven't been contributing, and the market hasn't been stell
 - I have also taken this opportunity to practice being more present with my friends. I have a solid group of long term friends, and I want to make sure to nurture those relationships.
 
 # What conclusions can I draw from this review?
-As I said last year, it's remarkable where I am this year as compared to last year. I feel like a completely different person. I'm confident in ways I never would have thought to ask for, and I'm more aware of how to heal some other parts of my life that I haven't quite gotten to, yet. This year has most certainly not been all kittens and cinnamon. But it has been one of the most productive and revealing years of my life.
+Look at how many places I "failed"! I only have one goal that is an unqualified success. But did I really fail? Heck no, of course not! I have grown so much, changed my path and my perspective, and have become a more confident person. My goals were helpful, because setting them gave me a path, but if I had been too rigid, I wouldn't have been flexible, and open to new opportunities. So I'm delighted with where I am, and I'm excited for the next year to start. As I said last year, it's remarkable where I am this year as compared to last year. I feel like a completely different person. I'm confident in ways I never would have thought to ask for, and I'm more aware of how to heal some other parts of my life that I haven't quite gotten to, yet. This year has most certainly not been all kittens and cinnamon. But it has been one of the most productive and revealing years of my life.
 
 # What are my goals for 2019?
 My financial goals haven't changed much over this last year. I am going to continue with a variation of what I had last year.
@@ -52,6 +52,9 @@ My list for 2019:
 - Be in the black with my business
 - Keep my expenses low while starting my business
 
-
 # What about you?
 What does your 2018 review look like? And what goals have you set for 2019?
+
+If you feel like you could use some help with your money goals, make an <link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
+<script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript"></script>
+<a href="" onclick="Calendly.showPopupWidget('https://calendly.com/ceciliacase/initialconsult');return false;">appointment</a> for your **free** Money Empowerment Session! In one hour, you will have an opportunity to explore your relationship with money and a safe and supportive environment, and come out of it with a list of recommendations to take the next step towards a healthy relationship with money!
