@@ -7,6 +7,18 @@
 
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
 
+<!-- overlay script -->
+  <script>
+  function on(reviewid) {
+    document.getElementById("review-overlay-"+reviewid).style.display = "block";
+  }
+
+  function off(reviewid) {
+    document.getElementById("review-overlay-"+reviewid).style.display = "none";
+  }
+  </script>
+
+<!-- ??? -->
   <script>
   // to top right away
   if ( window.location.hash ) scroll(0,0);
@@ -85,9 +97,6 @@
       <!--End mc_embed_signup-->
       </div>
 
-      <!-- Quickbooks ProAdvisor badge -->
-      <img src="{{ site.url }}/assets/images/QB-badge-online-large.png" alt="Quickbooks Online ProAdvisor Badge" height="75">
-
       <h2>Recent Articles</h2>
       <ul>
         {% for post in site.posts limit:5 %}
@@ -97,6 +106,9 @@
         {% endfor %}
         <a class="button reversed readmore" href="{{ basesite.url }}/articles.html">Article Archive</a>
       </ul>
+      
+      <!-- Quickbooks ProAdvisor badge -->
+      <img src="{{ site.url }}/assets/images/QB-badge-online-large.png" alt="Quickbooks Online ProAdvisor Badge" height="75">
 
     </aside>
   </section>

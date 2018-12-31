@@ -29,6 +29,8 @@ defaults:
       author: "Cecilia Case"
       email: cecilia@bountifulmoneyllc.com
 
+collections:
+  - reviews
 
 ## TODO:
 ## Add suggested posts to end of post
