@@ -136,19 +136,29 @@ $border-color: $primary-blue;
   background-color: rgba(0,0,0,0.5);
   z-index: 2;
   cursor: pointer;
-}
 
 .review-text{
   position: absolute;
   top: 50%;
   left: 50%;
   transform: translate(-50%,-50%);
-  -ms-transform: translate(-50%,-50%);
+  a-ms-transform: translate(-50%,-50%);
+  width: 60%;
   max-height: 90%;
   overflow-y: scroll;
   background-color: white;
-  text-align: justify;
+  text-align: left;
   padding: 3rem;
+
+  @include small {
+  width: 95%
+  }
+  @include medium {
+  width: 80%;
+  }
+  @include large {
+  }
+}
 }
 
 .byline {
