@@ -50,7 +50,7 @@ Well, I think I've learned a lot over this past year. My retirement goals are st
 
 So here is my list for 2018:
 
-- Be making enough money with my own business to sustain myself at my [Bare Bones Number]({{ site.baseurl }}{% post_url 2017-12-13-Bare-Bones-Number %}). Right now that is about $2800/mo
+- Be making enough money with my own business to sustain myself at my [Bare Bones Number]({{ site.url }}{% post_url 2017-12-13-Bare-Bones-Number %}). Right now that is about $2800/mo
 - And if I haven't achieved that, have a part-time in a related field to continue growing and expanding professionally.
 - Stay debt-free!
 - Contribute to my retirement funds

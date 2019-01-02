@@ -12,7 +12,7 @@ As I mentioned last year, I'm not big on New Year Resolutions. But making goals 
 
 Here is my list of financial goals for this last year:
 
-- Be making enough money with my own business to sustain myself at my [Bare Bones Number]({{ site.baseurl }}{% post_url 2017-12-13-Bare-Bones-Number %}).
+- Be making enough money with my own business to sustain myself at my [Bare Bones Number]({{ site.url }}{% post_url 2017-12-13-Bare-Bones-Number %}).
 - And if I haven't achieved that, have a part-time in a related field to continue growing and expanding professionally.
 - Stay debt-free!
 - Contribute to my retirement funds

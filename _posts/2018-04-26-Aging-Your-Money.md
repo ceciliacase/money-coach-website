@@ -8,7 +8,7 @@ img: OldMoney.jpg
 
 It has been so long since I have written on here! I'm glad to say, I'm back, and this will be the final post for the YNAB Series. So let's get started on the last YNAB Rule!
 
-If you read the [article "Make Your Budget Fit Your Life"]({{ site.baseurl }}{% post_url 2018-02-07-Make-Your-Budget-Fit-Your-Life %}), you're beginning to see that the best budget is one that flexes with your life. We want a budget that works with us, rather then making us feel bad for not fitting into a rigid box. So what is the last rule? And what does it mean?
+If you read the [article "Make Your Budget Fit Your Life"]({{ site.url }}{% post_url 2018-02-07-Make-Your-Budget-Fit-Your-Life %}), you're beginning to see that the best budget is one that flexes with your life. We want a budget that works with us, rather then making us feel bad for not fitting into a rigid box. So what is the last rule? And what does it mean?
 
 <!--more-->
 

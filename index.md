@@ -29,11 +29,11 @@ You deserve to have a good relationship with money! Get started by scheduling yo
         {{ post.author }} - 
         {{ post.date | date: "%-m/%-d/%y"}}
       </summary>
-      <a class="featured-post-link" href="{{ post.url }}#read-more">
+      <a class="featured-post-link" href="{{ post.url }}">
         <img class="featured-image" src="{{ site.url }}/assets/images/{{ post.img }}" />
         {{ post.excerpt }}
       </a>
-      <a class="button inline" href="{{ post.url }}#read-more">more...</a>
+      <a class="button inline" href="{{ post.url }}">more...</a>
     {% endif %}
   {% endfor %}
 </article>
