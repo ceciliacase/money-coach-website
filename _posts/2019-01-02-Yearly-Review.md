@@ -16,7 +16,7 @@ Here is my list of financial goals for this last year:
 - And if I haven't achieved that, have a part-time in a related field to continue growing and expanding professionally.
 - Stay debt-free!
 - Contribute to my retirement funds
-- Have a retirement portfolio worth $xxx,000. [Author note: I have removed the amounts for this goal, but I'll talk about whether or not I have achieved it, and how it worked for me]
+- Have a retirement portfolio worth $xyz. [Author note: I have removed the amounts for this goal, but I'll talk about whether or not I have achieved it, and how it worked for me]
 
 So how does this list compare to where I stand right now?
 
@@ -32,7 +32,7 @@ YES! I have done this so far! This is a huge achievement for a small business ow
 ### Contribute to my retirement funds
 NOPE! I have set this aside until the first goal is achieved. I am ok with this because I am already ahead of the game with retirement investing.
 
-### Have a retirement portfolio worth $xxx,000
+### Have a retirement portfolio worth $xyz
 NOT QUITE. Because I haven't been contributing, and the market hasn't been stellar, I think it's probably only a little over where I was last year. But seeing as I'm quite a bit ahead for my age, and I'm committed to changing the trajectory of my life, I'm totally OK with letting this one ride.
 
 ### What else happened this year?

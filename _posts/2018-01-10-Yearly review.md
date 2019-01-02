@@ -17,7 +17,7 @@ I wrote this list down at the beginning of last year, in a calendar item set for
 - Move to remote job
 - Fully Fund Roth IRA's
 - Maximize 401(k)s
-- Have a retirement portfolio worth of more than $xxx,000 [Author note: I have removed the amounts for this goal, but I'll talk about whether or not I have achieved it, and how it worked for me]
+- Have a retirement portfolio worth of more than $xyz [Author note: I have removed the amounts for this goal, but I'll talk about whether or not I have achieved it, and how it worked for me]
 
 So how does this list compare to where I stand right now?
 
@@ -33,8 +33,8 @@ DONE! Even though I don't have a job anymore, I had a job for half the year, whi
 ### Maximize my 401(k)
 SORT OF. I maxed it for some of the year, but when I realized the coming changes in my life, I reduced it to the percentage that my company made contributions for. When I quit my job, even that went away. But I'm going to count this one as a success, because I did the right things at the right time. Remember, don't be a slave to your goals, just for the sake of checking them off! Do what is important is to do what is right for your life, at that moment.
 
-### Have a retirement portfolio worth of more than $xxx,000
-DONE! I set this goal when I was looking at my retirement situation from a combined perspective. When my husband and I separated (see below), I think this goal needed to be separated, too. That maked my goal half of the original. I hit well over that amount!
+### Have a retirement portfolio worth of more than $xyz
+DONE! I set this goal when I was looking at my retirement situation from a combined perspective. When my husband and I separated (see below), I think this goal needed to be separated, too. That makes my goal half of the original. I hit well over that amount!
 
 ### What else happened this year?
 - I separated from my husband of 15 years, and we're on track to get divorced early this year. We've both made it personal goals to stay good friends, and so far, I feel we've done very well at that. While this isn't a financial goal, it has wide-ranging ramifications on all of my financial goals, so I included it anyway.
@@ -54,7 +54,7 @@ So here is my list for 2018:
 - And if I haven't achieved that, have a part-time in a related field to continue growing and expanding professionally.
 - Stay debt-free!
 - Contribute to my retirement funds
-- Have a retirement portfolio worth $xxx,000.
+- Have a retirement portfolio worth $xyz.
 
 # What about you?
 What does your 2017 review look like? And what goals have you set for 2018?
