@@ -3,7 +3,7 @@ layout: post
 title:  Make Your Budget Fit Your Life
 categories: post
 tags: YNAB budgeting
-img: Punch.jpg
+image: Punch.jpg
 ---
 
 If you've read the [article last week]({{ site.url }}{% post_url 2018-01-31-What-Are-True-Expenses %}), you know how to why it is important to embrace your true expenses, and what they are.

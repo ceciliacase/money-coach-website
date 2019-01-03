@@ -3,7 +3,7 @@ layout: post
 title:  Aging Your Money
 categories: post
 tags: YNAB budgeting
-img: OldMoney.jpg
+image: OldMoney.jpg
 ---
 
 It has been so long since I have written on here! I'm glad to say, I'm back, and this will be the final post for the YNAB Series. So let's get started on the last YNAB Rule!

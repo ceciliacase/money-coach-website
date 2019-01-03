@@ -3,7 +3,7 @@ layout: post
 title: How to Draw Strength From Your Tribe
 categories: post
 tags: accountability tribe
-img: Soccer.jpg
+image: Soccer.jpg
 ---
 Do you have nieces? I do, and they are amazing. Every time I see them, they remind me of the fearless person I was when I was a child, the person I always aspire to be now. My lovely sister has invited me to their soccer games, and every weekend I sit there on the sidelines watching, learning more about them, every single wet morning.
 

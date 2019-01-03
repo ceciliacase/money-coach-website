@@ -3,7 +3,7 @@ layout: post
 title:  Receiving Money Into Your Life
 categories: post
 tags: Receiving
-img: Receiving.jpg
+image: Receiving.jpg
 ---
 
 There once was a girl who got her first job out of high school. She had applied for a job as a sales clerk at the local department store, and she was so proud of herself when she was hired. She had put in the work to have a good resume, and did very well on the interview. She was nervous about her new job, but she knew she could do a good job. But... <!--more--> when she came home, her parents were angry. “Why do you need a job? You’re going to get a husband, and he’s going to take care of you. All you should be concerned about is finding that man.” She was crushed. She called the store and declined the job. Because of this incident, and many others like it, she decided she must not be worthy of receiving money. This feeling has plagued her her entire adult life.

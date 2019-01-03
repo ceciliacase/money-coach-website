@@ -3,7 +3,7 @@ layout: post
 title:  My yearly review
 categories: post
 tags: YNAB budgeting goals 
-img: Chart.jpg
+image: Chart.jpg
 ---
 
 As I mentioned last week, I'm not big on New Year Resolutions. But I do think it is important to make goals, and track our progress. The past few years, I've done an informal, high level yearly review of my financial situation, and it's really helped me gain a perspective of how my goals change over time. I'd like to share with you my 2017 review.

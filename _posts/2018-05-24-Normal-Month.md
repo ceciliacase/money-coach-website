@@ -3,7 +3,7 @@ layout: post
 title:  What is a Normal Month?
 categories: post
 tags: Thoughts
-img: Adventure.jpg
+image: Adventure.jpg
 ---
 
 What is a Normal Month? Take a moment to think about what that means to you. Does it mean that you are spending exactly what you expect on your bills? Does it mean that you have no surprise expenses? Does it mean that you are able to pay your groceries in full, and have a little left over?

@@ -3,7 +3,7 @@ layout: post
 title: Why the taboo against talking about money hurts you
 categories: post
 tags: acceptance tribe taboo 
-img: TopSecret.jpg
+image: TopSecret.jpg
 ---
 
 I don't think I'm saying anything too controversial when I say that our society in America has a taboo against talking about money. We all run into situations where talking about how much we make, how much we spend, or how much debt we are in is just *not talked about*. I'm no expert on sociology, but I think these taboos are instilled very early in our lives, and they are sometimes buried very deeply, so deeply that when we pause and ask ourselves "Why?" the answer is often "Because it's rude" or "Because that is what is always done".

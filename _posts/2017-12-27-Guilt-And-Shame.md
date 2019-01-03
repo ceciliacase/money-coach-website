@@ -3,7 +3,7 @@ layout: post
 title:  Guilt and Shame
 categories: post
 tags: feelings values
-img: GuiltyDog.jpg
+image: GuiltyDog.jpg
 ---
 
 Do you feel guilty about your money past? Perhaps you've made a bad investment, or haven't invested at all. Maybe someone you trusted someone stole money from you, or you have a spending addiction. Whatever it is, we all have times that we have made bad decisions involving money, and that can lead to all sorts of negative emotions -- guilt, anger, betrayal, shame, and more. What's worse, over time it can leave you feeling in doubt of your own ability to manage money.

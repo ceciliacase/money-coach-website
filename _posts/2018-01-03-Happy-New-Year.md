@@ -3,7 +3,7 @@ layout: post
 title:  Happy New Year! Welcome to the new year of financial bliss!
 categories: post
 tags: newyear starting
-img: Sparkler.jpg
+image: Sparkler.jpg
 ---
 
 Welcome to 2018! I am so excited for the new year! 2017 was a year filled with changes for me, and I am excited to see what comes to fruition and what still needs work. I am not one for New Year's Resolutions, but I know they can be very helpful to motivate people to **get started** with something great. Getting started is often the hardest part of any worthy endeavor. Do you have any resolutions related to money?

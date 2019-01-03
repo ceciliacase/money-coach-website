@@ -32,6 +32,8 @@ defaults:
 collections:
   - reviews
 
+plugins:
+  - jekyll-feed
+
 ## TODO:
 ## Add suggested posts to end of post
-## Add a way to get back to the main page w/in posts

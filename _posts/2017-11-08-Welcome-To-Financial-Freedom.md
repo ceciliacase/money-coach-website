@@ -3,7 +3,7 @@ layout: post
 title:  Welcome to Financial Freedom!
 categories: post
 tags: welcome
-img: CoinSprout.png
+image: CoinSprout.png
 ---
 
 I am a money coach. I help people understand their personal finances, align their financial situation with their values, and help create financial peace for themselves and their families.

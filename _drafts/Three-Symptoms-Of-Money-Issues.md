@@ -3,7 +3,7 @@ layout: post
 title: What Are The Top Three Symptoms Of Money Issues?
 categories: post
 tags: symptoms money debt budgeting
-img: .jpg
+image: .jpg
 ---
 When we are working with a subject as important as money, it can sometimes be hard to even know if you have a problem. How can you tell if you are doing well, or if there really is something that you could do better? In this article I want introduce the top three symptoms that can help you identify if you need to improve your relationship with money.
 

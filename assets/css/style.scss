@@ -169,8 +169,11 @@ $border-color: $primary-blue;
 .head-image, .featured-image {
   float: left;
   margin-right: 20px;
-  margin-top: 1.5rem !important;
   border-radius: 0.3rem;
+}
+
+.featured-image {
+  margin-top: 1.5rem !important;
 }
 
 .featured-post-link {

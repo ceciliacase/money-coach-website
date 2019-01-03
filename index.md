@@ -30,7 +30,7 @@ You deserve to have a good relationship with money! Get started by scheduling yo
         {{ post.date | date: "%-m/%-d/%y"}}
       </summary>
       <a class="featured-post-link" href="{{ post.url }}">
-        <img class="featured-image" src="{{ site.url }}/assets/images/{{ post.img }}" />
+        <img class="featured-image" src="{{ site.url }}/assets/images/{{ post.image }}" />
         {{ post.excerpt }}
       </a>
       <a class="button inline" href="{{ post.url }}">more...</a>

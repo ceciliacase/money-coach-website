@@ -3,7 +3,7 @@ layout: post
 title:  How to Balance Giving with Budgeting
 categories: post
 tags: giving
-img: Gifts.jpg
+image: Gifts.jpg
 ---
 
 When we explore our money life, we dig deep into our bills, essentials like groceries, debt payments, and discretionary spending. But today I'd like to focus on one kind of spending that can cause a wide range of emotional reactions, especially during the holiday season: Giving.

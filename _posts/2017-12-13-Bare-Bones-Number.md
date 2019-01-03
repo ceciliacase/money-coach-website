@@ -3,7 +3,7 @@ layout: post
 title:  What Is Your Bare Bones Number? 
 categories: post
 tags: expenses budgeting
-img: BareBones.jpg
+image: BareBones.jpg
 ---
 
 Do you know what financial level you are living at? Are you living close to the bone, or are you living freely, with all of your needs **and** your wants being met? And how do you know?

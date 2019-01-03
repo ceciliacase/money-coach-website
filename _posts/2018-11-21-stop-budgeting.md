@@ -3,7 +3,7 @@ layout: post
 title: Stop budgeting, start holding up your Money Mirror
 categories: post
 tags: budget moneymirror 
-img: Budget.jpg
+image: Budget.jpg
 ---
 
 What feelings come up when I say the word "Budget"? If you are like most people, the words are often negative: restrictive, guilt, shame, hard, daunting, discouraging. I completely understand those emotions and feelings. I have had most of them myself with regard to this bad word: **budget**. Why is it we are all told to budget, but then most of us have such negative feelings surrounding the process?
