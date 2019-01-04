@@ -32,4 +32,4 @@ The fourth rule, incidentally, used to be "Live on Last Month's Income". With th
 I think that Aging Your Money is a fantastic goal. But I also think it is OK not to concentrate on it. You may put a high priority on paying down debt, or contributing to savings goals. By all means, feel free to ignore the number in the upper-right hand corner of your screen. If you are working the first three rules, the fourth rule will start to come to you naturally.
 
 # Final Thoughts
-So there you have it! The four YNAB rules, all there in black and white! All that is left is to [Sign up for the one month YNAB Trial](www.ynab.com), or contact me at <a href="mailto:{{ site.email }}" target="">{{ site.email }}</a> for more information and to set up an initial strategy session.
+So there you have it! The four YNAB rules, all there in black and white! All that is left is to [Sign up for the one month YNAB Trial](http://www.ynab.com), or contact me at <a href="mailto:{{ site.email }}" target="">{{ site.email }}</a> for more information and to set up an initial strategy session.
