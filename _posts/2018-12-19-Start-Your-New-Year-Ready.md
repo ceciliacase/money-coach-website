@@ -22,6 +22,4 @@ I like doing this exercise, because I think it is wonderful to celebrate things 
 
 **Celebrate the wins, but also relish the complexity and beauty of a life well lived!**
 
-If you feel like you could use some help with your money goals, make an <link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
-<script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript"></script>
-<a href="" onclick="Calendly.showPopupWidget('https://calendly.com/ceciliacase/initialconsult');return false;">appointment</a> for your **free** Money Empowerment Session! In one hour, you will have an opportunity to explore your relationship with money and a safe and supportive environment, and come out of it with a list of recommendations to take the next step towards a healthy relationship with money!
+If you feel like you could use some help with your money goals, make an [appointment](http://www.bountifulmoneycoach.com/schedule.html) for your **free** Money Empowerment Session! In one hour, you will have an opportunity to explore your relationship with money and a safe and supportive environment, and come out of it with a list of recommendations to take the next step towards a healthy relationship with money!

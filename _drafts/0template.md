@@ -1,11 +1,10 @@
 ---
 layout: post
-title: Have you seen Jamie?
+title: TITLE
 categories: post
-tags: casestudy client storytime
+tags: TAG1 TAG2 TAG3
 image: <ADD PICTURE HERE>.jpg
 ---
-
 
 <!--more-->
 

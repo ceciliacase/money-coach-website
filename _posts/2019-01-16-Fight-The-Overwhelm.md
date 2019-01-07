@@ -22,6 +22,4 @@ Jane graduated three years ago, and she has big student loans. She hates the fee
 
 We have all felt overwhelm in our lives, especially around finances. The most important step to releasing that feeling is to start getting true clarity on your situation. Remember, managing your money is not about guilt and shame for the past. It is about starting from right now, and finding clarity and control. You can do this!
 
-If you are overwhelmed about your money situation, make an <link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
-<script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript"></script>
-<a href="" onclick="Calendly.showPopupWidget('https://calendly.com/ceciliacase/initialconsult');return false;">appointment</a> for your **free** Money Empowerment Session! In one hour, you will have an opportunity to explore your relationship with money and a safe and supportive environment, and come out of it with a list of recommendations to take the next step towards a healthy relationship with money!
+If you are overwhelmed about your money situation, make an [appointment](http://www.bountifulmoneycoach.com/schedule.html) for your **free** Money Empowerment Session! In one hour, you will have an opportunity to explore your relationship with money and a safe and supportive environment, and come out of it with a list of recommendations to take the next step towards a healthy relationship with money!

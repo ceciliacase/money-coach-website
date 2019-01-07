@@ -5,8 +5,6 @@ title: Services
 
 Do you want to create a lasting, **lifelong** transformation in your relationship with money?
 
-
-
 ## Experience Financial Bliss!
 We will work with old money patterns, understanding them and replacing patterns that no longer serve you. We will work to create a new, healthy relationship with money, where you are in control, and you are living your life according to your values!
 

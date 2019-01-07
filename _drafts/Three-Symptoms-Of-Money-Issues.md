@@ -19,6 +19,4 @@ Do you spend emotionally? Do you horde money because you're afraid to make the w
 
 
 
-If you are overwhelmed about your money situation, make an <link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
-<script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript"></script>
-<a href="" onclick="Calendly.showPopupWidget('https://calendly.com/ceciliacase/initialconsult');return false;">appointment</a> for your **free** Money Empowerment Session! In one hour, you will have an opportunity to explore your relationship with money and a safe and supportive environment, and come out of it with a list of recommendations to take the next step towards a healthy relationship with money!
+If you are overwhelmed about your money situation, make an [appointment](http://www.bountifulmoneycoach.com/schedule.html) for your **free** Money Empowerment Session! In one hour, you will have an opportunity to explore your relationship with money and a safe and supportive environment, and come out of it with a list of recommendations to take the next step towards a healthy relationship with money!
