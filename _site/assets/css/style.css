@@ -351,8 +351,6 @@ a:hover { text-decoration: underline; }
 
 .head-image, .featured-image { float: left; margin-right: 20px; border-radius: 0.3rem; }
 
-.featured-image { margin-top: 1.5rem !important; }
-
 .featured-post-link { color: #606c71; text-decoration: none; }
 .featured-post-link:hover { text-decoration: none; }
 

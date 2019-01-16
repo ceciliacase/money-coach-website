@@ -23,18 +23,21 @@ You deserve to have a good relationship with money! Get started by scheduling yo
 <h1>Featured Article</h1>
 <article id="featured-post">
   {% for post in site.posts limit:1 %}
-    {% if post.excerpt %}
-      <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
-      <summary class="byline">
-        {{ post.author }} - 
-        {{ post.date | date: "%-m/%-d/%y"}}
-      </summary>
-      <a class="featured-post-link" href="{{ post.url }}">
-        <img class="featured-image" src="{{ site.url }}/assets/images/{{ post.image }}" />
-        {{ post.excerpt }}
-      </a>
-      <a class="button inline" href="{{ post.url }}">more...</a>
-    {% endif %}
+    <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+    <summary class="byline">
+      {{ post.author }} - 
+      {{ post.date | date: "%-m/%-d/%y"}}
+    </summary>
+    <a class="featured-post-link" href="{{ post.url }}">
+      <img class="featured-image" src="{{ site.url }}/assets/images/{{ post.image }}" />
+      {% if post.content contains '<!--more-->' %}
+        {{ post.excerpt | strip_html }}
+      {% else %}
+        {{ post.content | strip_html | truncatewords: 50 }}
+      {% endif %}
+    </a>
+    <a class="button inline" href="{{ post.url }}">more <span class="symbol">»</span></a>
+
   {% endfor %}
 </article>
 
