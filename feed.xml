@@ -1,5 +1,5 @@
-----
-layout: null
+---
+layout: none
 ---
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
@@ -13,8 +13,12 @@ layout: null
         <title>{{ post.title | xml_escape }}</title>
         <description>{{ post.content | xml_escape }}</description>
         <pubDate>{{ post.date | date: "%a, %d %b %Y %H:%M:%S %z" }}</pubDate>
-
-        <guid isPermaLink="true">{{ site.url }}{{ post.url }}</guid>
+        <link>{{ site.url }}/{{ post.url }}</link>
+        <guid isPermaLink="true">{{ site.url }}/{{ post.url }}</guid>
+        <media:title xmlns:media="http://search.yahoo.com/mrss/">Aww</media:title>
+        <media:description xmlns:media="http://search.yahoo.com/mrss/">some text ...</media:description>
+        <media:content url="{{ site.url }}/assets/images/{{ post.image }}" xmlns:media="http://search.yahoo.com/mrss/" type="image/jpeg"/>
+       <media:thumbnail url="{{ site.url }}/assets/images/{{ post.image }}" xmlns:media="http://search.yahoo.com/mrss/" width="150" height="150"/>
       </item>
     {% endfor %}
   </channel>
