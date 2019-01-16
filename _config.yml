@@ -32,8 +32,8 @@ defaults:
 collections:
   - reviews
 
-plugins:
-  - jekyll-feed
+#plugins:
+#  - jekyll-feed
 
 ## TODO:
 ## Add suggested posts to end of post
