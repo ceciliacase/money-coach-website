@@ -31,8 +31,8 @@
         <pubDate>Wed, 16 Jan 2019 00:00:00 -0800</pubDate>
         <link>http://localhost:4000//post/2019/01/16/Fight-The-Overwhelm.html</link>
         <guid isPermaLink="true">http://localhost:4000//post/2019/01/16/Fight-The-Overwhelm.html</guid>
-        <media:title xmlns:media="http://search.yahoo.com/mrss/">Aww</media:title>
-        <media:description xmlns:media="http://search.yahoo.com/mrss/">some text ...</media:description>
+        <media:title xmlns:media="http://search.yahoo.com/mrss/">Stacks.jpg</media:title>
+        <media:description xmlns:media="http://search.yahoo.com/mrss/">Stacks.jpg</media:description>
         <media:content url="http://localhost:4000/assets/images/Stacks.jpg" xmlns:media="http://search.yahoo.com/mrss/" type="image/jpeg"/>
        <media:thumbnail url="http://localhost:4000/assets/images/Stacks.jpg" xmlns:media="http://search.yahoo.com/mrss/" width="150" height="150"/>
       </item>
@@ -99,8 +99,8 @@
         <pubDate>Wed, 02 Jan 2019 00:00:00 -0800</pubDate>
         <link>http://localhost:4000//post/2019/01/02/Yearly-Review.html</link>
         <guid isPermaLink="true">http://localhost:4000//post/2019/01/02/Yearly-Review.html</guid>
-        <media:title xmlns:media="http://search.yahoo.com/mrss/">Aww</media:title>
-        <media:description xmlns:media="http://search.yahoo.com/mrss/">some text ...</media:description>
+        <media:title xmlns:media="http://search.yahoo.com/mrss/">Goals.jpg</media:title>
+        <media:description xmlns:media="http://search.yahoo.com/mrss/">Goals.jpg</media:description>
         <media:content url="http://localhost:4000/assets/images/Goals.jpg" xmlns:media="http://search.yahoo.com/mrss/" type="image/jpeg"/>
        <media:thumbnail url="http://localhost:4000/assets/images/Goals.jpg" xmlns:media="http://search.yahoo.com/mrss/" width="150" height="150"/>
       </item>
@@ -130,8 +130,8 @@
         <pubDate>Wed, 19 Dec 2018 00:00:00 -0800</pubDate>
         <link>http://localhost:4000//post/2018/12/19/Start-Your-New-Year-Ready.html</link>
         <guid isPermaLink="true">http://localhost:4000//post/2018/12/19/Start-Your-New-Year-Ready.html</guid>
-        <media:title xmlns:media="http://search.yahoo.com/mrss/">Aww</media:title>
-        <media:description xmlns:media="http://search.yahoo.com/mrss/">some text ...</media:description>
+        <media:title xmlns:media="http://search.yahoo.com/mrss/">BarleySunrise.jpg</media:title>
+        <media:description xmlns:media="http://search.yahoo.com/mrss/">BarleySunrise.jpg</media:description>
         <media:content url="http://localhost:4000/assets/images/BarleySunrise.jpg" xmlns:media="http://search.yahoo.com/mrss/" type="image/jpeg"/>
        <media:thumbnail url="http://localhost:4000/assets/images/BarleySunrise.jpg" xmlns:media="http://search.yahoo.com/mrss/" width="150" height="150"/>
       </item>
@@ -165,8 +165,8 @@
         <pubDate>Wed, 05 Dec 2018 00:00:00 -0800</pubDate>
         <link>http://localhost:4000//post/2018/12/05/Money-Taboo.html</link>
         <guid isPermaLink="true">http://localhost:4000//post/2018/12/05/Money-Taboo.html</guid>
-        <media:title xmlns:media="http://search.yahoo.com/mrss/">Aww</media:title>
-        <media:description xmlns:media="http://search.yahoo.com/mrss/">some text ...</media:description>
+        <media:title xmlns:media="http://search.yahoo.com/mrss/">TopSecret.jpg</media:title>
+        <media:description xmlns:media="http://search.yahoo.com/mrss/">TopSecret.jpg</media:description>
         <media:content url="http://localhost:4000/assets/images/TopSecret.jpg" xmlns:media="http://search.yahoo.com/mrss/" type="image/jpeg"/>
        <media:thumbnail url="http://localhost:4000/assets/images/TopSecret.jpg" xmlns:media="http://search.yahoo.com/mrss/" width="150" height="150"/>
       </item>
@@ -186,8 +186,8 @@
         <pubDate>Wed, 21 Nov 2018 00:00:00 -0800</pubDate>
         <link>http://localhost:4000//post/2018/11/21/stop-budgeting.html</link>
         <guid isPermaLink="true">http://localhost:4000//post/2018/11/21/stop-budgeting.html</guid>
-        <media:title xmlns:media="http://search.yahoo.com/mrss/">Aww</media:title>
-        <media:description xmlns:media="http://search.yahoo.com/mrss/">some text ...</media:description>
+        <media:title xmlns:media="http://search.yahoo.com/mrss/">Budget.jpg</media:title>
+        <media:description xmlns:media="http://search.yahoo.com/mrss/">Budget.jpg</media:description>
         <media:content url="http://localhost:4000/assets/images/Budget.jpg" xmlns:media="http://search.yahoo.com/mrss/" type="image/jpeg"/>
        <media:thumbnail url="http://localhost:4000/assets/images/Budget.jpg" xmlns:media="http://search.yahoo.com/mrss/" width="150" height="150"/>
       </item>
@@ -201,8 +201,8 @@
         <pubDate>Tue, 30 Oct 2018 00:00:00 -0700</pubDate>
         <link>http://localhost:4000//post/2018/10/30/Join-The-New-Money-Empowerment-Tribe.html</link>
         <guid isPermaLink="true">http://localhost:4000//post/2018/10/30/Join-The-New-Money-Empowerment-Tribe.html</guid>
-        <media:title xmlns:media="http://search.yahoo.com/mrss/">Aww</media:title>
-        <media:description xmlns:media="http://search.yahoo.com/mrss/">some text ...</media:description>
+        <media:title xmlns:media="http://search.yahoo.com/mrss/">SunriseTea.jpg</media:title>
+        <media:description xmlns:media="http://search.yahoo.com/mrss/">SunriseTea.jpg</media:description>
         <media:content url="http://localhost:4000/assets/images/SunriseTea.jpg" xmlns:media="http://search.yahoo.com/mrss/" type="image/jpeg"/>
        <media:thumbnail url="http://localhost:4000/assets/images/SunriseTea.jpg" xmlns:media="http://search.yahoo.com/mrss/" width="150" height="150"/>
       </item>
@@ -223,8 +223,8 @@
         <pubDate>Tue, 16 Oct 2018 00:00:00 -0700</pubDate>
         <link>http://localhost:4000//post/2018/10/16/Strength-From-Your-Tribe.html</link>
         <guid isPermaLink="true">http://localhost:4000//post/2018/10/16/Strength-From-Your-Tribe.html</guid>
-        <media:title xmlns:media="http://search.yahoo.com/mrss/">Aww</media:title>
-        <media:description xmlns:media="http://search.yahoo.com/mrss/">some text ...</media:description>
+        <media:title xmlns:media="http://search.yahoo.com/mrss/">Soccer.jpg</media:title>
+        <media:description xmlns:media="http://search.yahoo.com/mrss/">Soccer.jpg</media:description>
         <media:content url="http://localhost:4000/assets/images/Soccer.jpg" xmlns:media="http://search.yahoo.com/mrss/" type="image/jpeg"/>
        <media:thumbnail url="http://localhost:4000/assets/images/Soccer.jpg" xmlns:media="http://search.yahoo.com/mrss/" width="150" height="150"/>
       </item>
@@ -244,8 +244,8 @@
         <pubDate>Thu, 24 May 2018 00:00:00 -0700</pubDate>
         <link>http://localhost:4000//post/2018/05/24/Normal-Month.html</link>
         <guid isPermaLink="true">http://localhost:4000//post/2018/05/24/Normal-Month.html</guid>
-        <media:title xmlns:media="http://search.yahoo.com/mrss/">Aww</media:title>
-        <media:description xmlns:media="http://search.yahoo.com/mrss/">some text ...</media:description>
+        <media:title xmlns:media="http://search.yahoo.com/mrss/">Adventure.jpg</media:title>
+        <media:description xmlns:media="http://search.yahoo.com/mrss/">Adventure.jpg</media:description>
         <media:content url="http://localhost:4000/assets/images/Adventure.jpg" xmlns:media="http://search.yahoo.com/mrss/" type="image/jpeg"/>
        <media:thumbnail url="http://localhost:4000/assets/images/Adventure.jpg" xmlns:media="http://search.yahoo.com/mrss/" width="150" height="150"/>
       </item>
@@ -286,8 +286,8 @@ First, it is important to remember, money in and of itself, is not positive OR n
         <pubDate>Wed, 02 May 2018 00:00:00 -0700</pubDate>
         <link>http://localhost:4000//post/2018/05/02/Receiving-Money-Into-Your-Life.html</link>
         <guid isPermaLink="true">http://localhost:4000//post/2018/05/02/Receiving-Money-Into-Your-Life.html</guid>
-        <media:title xmlns:media="http://search.yahoo.com/mrss/">Aww</media:title>
-        <media:description xmlns:media="http://search.yahoo.com/mrss/">some text ...</media:description>
+        <media:title xmlns:media="http://search.yahoo.com/mrss/">Receiving.jpg</media:title>
+        <media:description xmlns:media="http://search.yahoo.com/mrss/">Receiving.jpg</media:description>
         <media:content url="http://localhost:4000/assets/images/Receiving.jpg" xmlns:media="http://search.yahoo.com/mrss/" type="image/jpeg"/>
        <media:thumbnail url="http://localhost:4000/assets/images/Receiving.jpg" xmlns:media="http://search.yahoo.com/mrss/" width="150" height="150"/>
       </item>
@@ -334,8 +334,8 @@ First, it is important to remember, money in and of itself, is not positive OR n
         <pubDate>Thu, 26 Apr 2018 00:00:00 -0700</pubDate>
         <link>http://localhost:4000//post/2018/04/26/Aging-Your-Money.html</link>
         <guid isPermaLink="true">http://localhost:4000//post/2018/04/26/Aging-Your-Money.html</guid>
-        <media:title xmlns:media="http://search.yahoo.com/mrss/">Aww</media:title>
-        <media:description xmlns:media="http://search.yahoo.com/mrss/">some text ...</media:description>
+        <media:title xmlns:media="http://search.yahoo.com/mrss/">OldMoney.jpg</media:title>
+        <media:description xmlns:media="http://search.yahoo.com/mrss/">OldMoney.jpg</media:description>
         <media:content url="http://localhost:4000/assets/images/OldMoney.jpg" xmlns:media="http://search.yahoo.com/mrss/" type="image/jpeg"/>
        <media:thumbnail url="http://localhost:4000/assets/images/OldMoney.jpg" xmlns:media="http://search.yahoo.com/mrss/" width="150" height="150"/>
       </item>
