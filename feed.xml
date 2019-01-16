@@ -17,8 +17,8 @@ layout: none
         <guid isPermaLink="true">{{ site.url }}/{{ post.url }}</guid>
         <media:title xmlns:media="http://search.yahoo.com/mrss/">{{ post.image }}</media:title>
         <media:description xmlns:media="http://search.yahoo.com/mrss/">{{ post.image }}</media:description>
-        <media:content url="{{ site.url }}/assets/images/{{ post.image }}" xmlns:media="http://search.yahoo.com/mrss/" type="image/jpeg"/>
-       <media:thumbnail url="{{ site.url }}/assets/images/{{ post.image }}" xmlns:media="http://search.yahoo.com/mrss/" width="150" height="150"/>
+        <media:content url="{{ site.url }}/assets/images/{{ post.image }}" xmlns:media="http://search.yahoo.com/mrss/" type="image/jpeg" width="600"/>
+       <media:thumbnail url="{{ site.url }}/assets/images/{{ post.image }}" xmlns:media="http://search.yahoo.com/mrss/"/>
       </item>
     {% endfor %}
   </channel>
