@@ -8,7 +8,7 @@ image: Stacks.jpg
 
 I hear a lot of different emotions when I talk with my clients. Money is so connected to most parts of our lives that it is actually very difficult to separate it from how we conduct our lives, and the events that go on in our lives. We work to get money, which we then turn around and spend, both on things that are deeply important to us, and on things that are of almost no importance at all. And sometimes that wheel gets to be going faster and faster, until we feel like we might fly right off.
 
-That's overwhelm. 
+> That's overwhelm. 
 
 <!--more--> 
 
