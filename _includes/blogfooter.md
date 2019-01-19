@@ -1,0 +1,3 @@
+Are you struggling with debt, spending, or your relationship with money? <a href="http://www.bountifulmoneyllc.com/schedule.html">Schedule your free one-hour Money Empowerment Session</a> to better understand your money stories, and get recommendations for taking the next step to healing your relationship with money!
+<br><br>
+I also run a group Money Empowerment Monthly meeting here in Portland! It is a safe, fun environment where you can talk about your greatest money fears and issues a facilitated peer group. You can sign up on <a href="https://www.meetup.com/Money-Empowerment-Monthly/">Meetup</a>.

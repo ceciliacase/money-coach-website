@@ -14,6 +14,3 @@ When they first started this season, they did well, but they weren't communicati
 And what have I learned from these hard-working pre-teens? I've learned that the power of women in sync, who are committed to teamwork without boundaries is the most powerful force in this world. It has made me appreciate anew the wonderful support group I have in my personal life. And it has made me appreciate the business network I'm building in my professional life.
 
 But I want to take it one step further. I want to create a community of people that can support each other in their journey to a healthier relationship with money. So I've created a new Meetup group called [Money Empowerment Monthly](https://www.meetup.com/Money-Empowerment-Monthly/) designed to be an open and safe environment for people to get together and help each other change their relationship with money. If you are in Portland or know someone who is, I would like to invite you to the inaugural meeting this October 24th (one week from now!) at 5:30pm at CENTRL Eastside. It is $15 if you sign up early, and $20 at the door!
-
-
-

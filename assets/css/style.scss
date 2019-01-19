@@ -86,6 +86,12 @@ $border-color: $primary-blue;
   }
 }
 
+#blogfooter {
+  margin: 0 0 1em 0;
+  padding: 1em 2em;
+  background-color: fade-out($primary-green, 0.95);
+}
+
 // review quotes and popups
 .review {
   border-left: 10px solid $primary-green;
@@ -467,6 +473,8 @@ $border-color: $primary-blue;
     padding-bottom: 1rem;
   }
 }
+
+
 
 /* MailChimp Form styling */
 #mc_wrap {

@@ -21,5 +21,3 @@ Put the piece of paper in a safe place that you'll be able to find next year. I 
 I like doing this exercise, because I think it is wonderful to celebrate things we have done throughout the year, but also because I like to celebrate the twists and turns my life has taken. There's nothing to be ashamed of for not accomplishing our goals, especially if it came about because we took some other wonderful turn in our life. 
 
 **Celebrate the wins, but also relish the complexity and beauty of a life well lived!**
-
-If you feel like you could use some help with your money goals, make an [appointment](http://www.bountifulmoneycoach.com/schedule.html) for your **free** Money Empowerment Session! In one hour, you will have an opportunity to explore your relationship with money and a safe and supportive environment, and come out of it with a list of recommendations to take the next step towards a healthy relationship with money!

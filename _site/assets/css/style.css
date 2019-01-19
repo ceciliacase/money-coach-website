@@ -333,6 +333,8 @@ a:hover { text-decoration: underline; }
 .inline { color: #118730; border-color: white; background-color: white; padding: 0 0.3rem; }
 .inline:hover { text-decoration: none; background-color: rgba(17, 135, 48, 0.05); border-color: #118730; }
 
+#blogfooter { margin: 0 0 1em 0; padding: 1em 2em; background-color: rgba(17, 135, 48, 0.05); }
+
 .review { border-left: 10px solid #118730; border-radius: 0.5rem 0 0 0.5rem; background-color: inherit; cursor: pointer; }
 @media screen and (max-width: 42em) { .review { margin: 1rem 0; padding: 1rem; } }
 @media screen and (min-width: 42em) and (max-width: 64em) { .review { margin: 2rem 0rem 2rem 0; padding: 1rem; } }
