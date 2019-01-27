@@ -5,6 +5,8 @@ categories: post
 tags: symptoms money debt budgeting
 image: .jpg
 ---
+Before I get started with my article this week, I'd like to ask you to please forward these articles to anyone you think might benefit from them. I want to spread the word that a truly healthy relationship with money is possible!
+
 When we are working with a subject as important as money, it can sometimes be hard to even know if you have a problem. How can you tell if you are doing well, or if there really is something that you could do better? In this article I want introduce the top three symptoms that can help you identify if you need to improve your relationship with money.
 
 # Feelings of guilt or shame around your spending decisions
