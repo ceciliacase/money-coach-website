@@ -3,7 +3,7 @@ layout: post
 title: What Are The Top Three Symptoms Of Money Issues?
 categories: post
 tags: symptoms money debt budgeting
-image: .jpg
+image: WalletSqueeze.jpg
 ---
 Before I get started with my article this week, I'd like to ask you to please forward these articles to anyone you think might benefit from them. I want to spread the word that a truly healthy relationship with money is possible!
 
