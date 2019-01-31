@@ -9,6 +9,8 @@ Before I get started with my article this week, I'd like to ask you to please fo
 
 When we are working with a subject as important as money, it can sometimes be hard to even know if you have a problem. How can you tell if you are doing well, or if there really is something that you could do better? In this article I want introduce the top three symptoms that can help you identify if you need to improve your relationship with money.
 
+<!--more-->
+
 # Feelings of guilt or shame around your spending decisions
 Do you spend emotionally? Do you horde money because you're afraid to make the wrong decision? Feeling guilt or shame around your money is your body and mind telling you that there is something wrong. I like to say that guilt and shame is often a symptom of a lack of alignment of your money decisions and your life values. The <!--more--> 
 further your spending is away from your fundamental values, the stronger the feelings of guilt and shame will be. As I work with clients, we do a lot of work on releasing guilt and shame both by exploring their money stories as well as working to more deeply understand their values and realigning your spending with those values.
