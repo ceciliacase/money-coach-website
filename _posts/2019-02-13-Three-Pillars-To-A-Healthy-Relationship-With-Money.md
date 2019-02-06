@@ -1,0 +1,32 @@
+---
+layout: post
+title: The Three Pillars to a Healthy Relationship with Money
+categories: post
+tags: threepillars healthy relationship habits techniques
+image: <ADD PICTURE HERE>.jpg
+---
+
+Last post, I talked about [the three symptoms of money issues]({{ site.url }}{% post_url 2019-01-30-Three-Symptoms-Of-Money-Issues.md %}). Today I'd like to talk a little about the three pillars to concentrate on when healing your relationship with money.
+
+<!--more-->
+
+So first off, what do I mean by pillars? I mean to say that there are three aspects to a relationship with money that must all be addressed in order to create a healthy and stable relationship with your money. If you don't have all three pillars in place, you will find it difficult to truly change how you work with money. So what are those pillars?
+
+# Heal your old money stories
+First, and possibly the most important pillar is understanding and healing your old money stories. What is a money story? It is that little voice in your head that was written a long time ago and tells you how to feel about money. Do you ever hear a little voice in your head that says one of these things:
+- "Rich people are greedy"
+- "Poor people are stupid"
+- "I'm not worth making a lot of money"
+- "I'm terrible with money"
+- "I'm not good with numbers, that must be why I can't hold onto money"
+- "I can't spend money on myself, that would be self-indulgent"
+And of course, there are thousands more stories you could be telling yourself. Some might even be good stories:
+- "I'm worthy of having a good job that pays me well."
+- "I can balance saving money with enjoying my life now. Both are possible."
+But whatever stories you have in your head, they probably developed when you were a child. They came from your parents, teachers, and peers. Unfortunately, they may not have always been the stories those people **meant** to be telling you. But when you are a kid, you were a sponge. You saw everything, and incorporated them into your worldview. And because you probably did't have a solid financial education, you never had a chance to examine those stories and assumptions.
+The first pillar of healing your relationship with money is to take out those old stories and examine them. Where did you get these stories? And did are they still useful to you, or are they actually harming your ability to make and spend money in a satisfying and rewarding way? And if not, what would be a better story that would serve you?
+
+# Learn techniques to manage your money with joy
+
+
+# Establish your new money groove

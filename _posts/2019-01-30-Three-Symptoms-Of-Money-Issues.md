@@ -12,8 +12,7 @@ When we are working with a subject as important as money, it can sometimes be ha
 <!--more-->
 
 # Feelings of guilt or shame around your spending decisions
-Do you spend emotionally? Do you horde money because you're afraid to make the wrong decision? Feeling guilt or shame around your money is your body and mind telling you that there is something wrong. I like to say that guilt and shame is often a symptom of a lack of alignment of your money decisions and your life values. The <!--more--> 
-further your spending is away from your fundamental values, the stronger the feelings of guilt and shame will be. As I work with clients, we do a lot of work on releasing guilt and shame both by exploring their money stories as well as working to more deeply understand their values and realigning your spending with those values.
+Do you spend emotionally? Do you horde money because you're afraid to make the wrong decision? Feeling guilt or shame around your money is your body and mind telling you that there is something wrong. I like to say that guilt and shame is often a symptom of a lack of alignment of your money decisions and your life values. The further your spending is away from your fundamental values, the stronger the feelings of guilt and shame will be. As I work with clients, we do a lot of work on releasing guilt and shame both by exploring their money stories as well as working to more deeply understand their values and realigning your spending with those values.
 
 But at this stage, it can be a useful indicator: If you feel guilt and shame around money, it probably means your relationship with money is currently unhealthy. The next step is become forgiving to yourself, while understanding what your current money situation is, so that you can make decisions that are more aligned with your values. 
 

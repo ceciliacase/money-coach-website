@@ -1,6 +1,6 @@
 ---
 summary: "...I have money growing in my savings, retirement account, and set aside for my quarterly taxes. My credit card is paid off in full each month. The most amazing and magical gift was paying my student loans off in full. A tremendous weight has been lifted from my shoulders..."
-author: Alyse K.
+author: A. K.
 # Set the display order for this section
 order: 3
 # Specify the layout for this section
