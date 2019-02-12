@@ -5,6 +5,7 @@ categories: post
 tags: income variableincome budgeting
 image: MoneyInAJar.jpg
 ---
+Everyone, I'm so excited that I have been accepted to write a blog post for [Women With Moxie](https://www.womenwithmoxie.com)! You can [read it there](https://www.womenwithmoxie.com/five-steps-to-thrive-with-variable-income/) and I have reposted here!
 
 I had been working on my own relationship with money for a few years before I decided to become a Money Coach and start my own business. I had been through highs and lows, made mistakes, and had personal triumphs. I felt pretty good about my relationship with money and was out of debt, so I figured starting my own business wouldn’t change things that much.
 
