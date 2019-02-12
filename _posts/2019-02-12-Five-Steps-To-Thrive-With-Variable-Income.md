@@ -10,6 +10,7 @@ Everyone, I'm so excited that I have been accepted to write a blog post for [Wom
 I had been working on my own relationship with money for a few years before I decided to become a Money Coach and start my own business. I had been through highs and lows, made mistakes, and had personal triumphs. I felt pretty good about my relationship with money and was out of debt, so I figured starting my own business wouldn’t change things that much.
 
 I was wrong!
+<!--more-->
 
 When I was budgeting with a stable salary, I had to deal with varying expenses, nasty surprises, and changing priorities all the time. But when I became a small business owner, everything became variable, both coming in and going out. I didn't know how much money I was going to have to budget with, so how could I make decisions at all? What could I do to tame the wild bronco ride of variable income? Well, I needed to turn my variable income into a stable income. It sounds easy to say it, but of course, it was harder than it sounded. It took me a while, but I created a reliable system that I use today that helps me budget consistently and reliably. And today I’m going to share with you the five steps I took to master my variable income as a business owner.
 
