@@ -1,27 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Bountiful Money, LLC</title>
+    <title>Bountiful Money</title>
     <description>Save money, budget according to your values, and experience financial bliss</description>
     <link>http://localhost:4000</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
-        <title>Five Steps to Thrive with Variable Income</title>
-        <description>&lt;p&gt;Everyone, I’m so excited that I have been accepted to write a blog post for &lt;a href=&quot;https://www.womenwithmoxie.com&quot;&gt;Women With Moxie&lt;/a&gt;! You can &lt;a href=&quot;https://www.womenwithmoxie.com/five-steps-to-thrive-with-variable-income/&quot;&gt;read it there&lt;/a&gt; and I have reposted here!&lt;/p&gt;
-
-&lt;p&gt;I had been working on my own relationship with money for a few years before I decided to become a Money Coach and start my own business. I had been through highs and lows, made mistakes, and had personal triumphs. I felt pretty good about my relationship with money and was out of debt, so I figured starting my own business wouldn’t change things that much.&lt;/p&gt;
-
-&lt;p&gt;I was wrong!&lt;/p&gt;
+        <title>The Three Pillars to a Healthy Relationship with Money</title>
+        <description>&lt;p&gt;Last post, I talked about &lt;a href=&quot;http://localhost:4000/post/2019/01/30/Three-Symptoms-Of-Money-Issues.html&quot;&gt;the three symptoms of money issues&lt;/a&gt;. If you think you have a problem with your money, the next question becomes, what can you do about it? So today I’d like to talk a little about the three pillars to concentrate on when healing your relationship with money. This will give you a good base to start understanding the steps you’ll need to take.&lt;/p&gt;
 
 </description>
-        <pubDate>Tue, 12 Feb 2019 00:00:00 -0800</pubDate>
-        <link>http://localhost:4000/post/2019/02/12/Five-Steps-To-Thrive-With-Variable-Income.html</link>
-        <guid isPermaLink="true">http://localhost:4000/post/2019/02/12/Five-Steps-To-Thrive-With-Variable-Income.html</guid>
-        <media:title xmlns:media="http://search.yahoo.com/mrss/">MoneyInAJar.jpg</media:title>
-        <media:description xmlns:media="http://search.yahoo.com/mrss/">MoneyInAJar.jpg</media:description>
-        <media:content url="http://localhost:4000/assets/images/MoneyInAJar.jpg" xmlns:media="http://search.yahoo.com/mrss/" type="image/jpeg" width="600"/>
-       <media:thumbnail url="http://localhost:4000/assets/images/MoneyInAJar.jpg" xmlns:media="http://search.yahoo.com/mrss/"/>
+        <pubDate>Wed, 20 Feb 2019 00:00:00 -0800</pubDate>
+        <link>http://localhost:4000/post/2019/02/20/Three-Pillars-To-A-Healthy-Relationship-With-Money.html</link>
+        <guid isPermaLink="true">http://localhost:4000/post/2019/02/20/Three-Pillars-To-A-Healthy-Relationship-With-Money.html</guid>
+        <media:title xmlns:media="http://search.yahoo.com/mrss/">columns.jpg</media:title>
+        <media:description xmlns:media="http://search.yahoo.com/mrss/">columns.jpg</media:description>
+        <media:content url="http://localhost:4000/assets/images/columns.jpg" xmlns:media="http://search.yahoo.com/mrss/" type="image/jpeg" width="600"/>
+       <media:thumbnail url="http://localhost:4000/assets/images/columns.jpg" xmlns:media="http://search.yahoo.com/mrss/"/>
       </item>
     
   </channel>

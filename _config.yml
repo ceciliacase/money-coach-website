@@ -2,8 +2,8 @@ theme: jekyll-theme-cayman
 github: [metadata]
 exclude: ['README.md', 'CNAME', 'Gemfile.lock', 'Gemfile', 'moneycoachwebsite.sublime-project', 'moneycoachwebsite.sublime-workspace', 'testposts']
 
-title: Bountiful Money, LLC
-name: Bountiful Money, LLC
+title: Are you ready to grow?
+name: Bountiful Money
 description: "Save money, budget according to your values, and experience financial bliss"
 author: Cecilia Case
 email: cecilia@bountifulmoneyllc.com

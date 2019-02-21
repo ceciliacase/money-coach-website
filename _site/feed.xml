@@ -1,10 +1,53 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Bountiful Money, LLC</title>
+    <title>Bountiful Money</title>
     <description>Save money, budget according to your values, and experience financial bliss</description>
     <link>http://localhost:4000</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
+    
+      <item>
+        <title>The Three Pillars to a Healthy Relationship with Money</title>
+        <description>&lt;p&gt;Last post, I talked about &lt;a href=&quot;http://localhost:4000/post/2019/01/30/Three-Symptoms-Of-Money-Issues.html&quot;&gt;the three symptoms of money issues&lt;/a&gt;. If you think you have a problem with your money, the next question becomes, what can you do about it? So today I’d like to talk a little about the three pillars to concentrate on when healing your relationship with money. This will give you a good base to start understanding the steps you’ll need to take.&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;p&gt;Over the time that I took to heal my own relationship with money, I developed a theory that there are three aspects to a relationship with money that must all be addressed in order to create a healthy and stable relationship with your money. If you don’t have all three pillars in place, you will find it difficult to truly change how you work with money. So what are those pillars?&lt;/p&gt;
+
+&lt;h1 id=&quot;heal-your-old-money-stories&quot;&gt;Heal your old money stories&lt;/h1&gt;
+&lt;p&gt;First, and possibly the most important pillar is understanding and healing your old money stories. What is a money story? It is that little voice in your head that was written a long time ago and tells you how to feel about money. Do you ever hear a little voice in your head that says one of these things:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;“Rich people are greedy”&lt;/li&gt;
+  &lt;li&gt;“Poor people are lazy”&lt;/li&gt;
+  &lt;li&gt;“I’m terrible with money”&lt;/li&gt;
+  &lt;li&gt;“I’m not good with numbers, that must be why I can’t hold onto money”&lt;/li&gt;
+  &lt;li&gt;“Spending money on myself is self-indulgent”
+And of course, there are thousands more stories you could be telling yourself. Some might even be good stories:&lt;/li&gt;
+  &lt;li&gt;“I’m worthy of having a good job that pays me well.”&lt;/li&gt;
+  &lt;li&gt;“I can balance saving money with enjoying my life now.”&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Whatever stories you have in your head, they probably developed when you were a child. They came from your parents, teachers, and peers. Unfortunately, they may not have always been the stories those people &lt;strong&gt;meant&lt;/strong&gt; to be telling you. But when you are a kid, you were a sponge. You saw everything, and incorporated them into your worldview. And because you probably did’t have a solid financial education, you never had a chance to examine those stories and assumptions.&lt;/p&gt;
+
+&lt;p&gt;The first pillar of healing your relationship with money is to take out those old stories and examine them. Where did you get these stories? And did are they still useful to you, or are they actually harming your ability to make and spend money in a satisfying and rewarding way? And if not, what would be a better story that would serve you?&lt;/p&gt;
+
+&lt;h1 id=&quot;learn-techniques-to-manage-your-money-with-joy&quot;&gt;Learn techniques to manage your money with joy&lt;/h1&gt;
+&lt;p&gt;Healing your emotional relationship with money is very important, and is often neglected by financial experts. But along with healing your emotions around money, it is important to learn a set of tools and techniques that will help you manage money. Healing your emotions without action isn’t going to be that helpful to you in the long term. So learning peaceful and useful ways of holding up your Money Mirror (which is what I call budgeting), developing a debt repayment plan that makes sense for your life, and setting up good savings strategies are all very important.&lt;/p&gt;
+
+&lt;h1 id=&quot;establish-your-new-money-groove&quot;&gt;Establish your new money groove&lt;/h1&gt;
+&lt;p&gt;Lastly, now that you have a good relationship with money, and you have the tools to maintain that relationship, it is very important to groove in new money habits. A good relationship with money needs to be maintained over time. There is no reason for it to be a fight against yourself to maintain your new relationship with money, though. These habits are going to feel more and more natural over time. As you keep practicing your healthy relationship with money, and utilizing techniques that help you achieve your life goals, you will find that the habits will start falling into place most of the time. But it is important to keep checking in with yourself: Are you happy with your money? Are you feeling stressed out, or peaceful and accomplished?&lt;/p&gt;
+
+&lt;h1 id=&quot;pulling-it-all-together&quot;&gt;Pulling it all together&lt;/h1&gt;
+&lt;p&gt;As you work through these three pillars, you may start seeing that the three pillars are interconnected. Working on your emotions may open up techniques or tools that would have previously made no sense. Or learning a new tool may make it easier for you to develop better habits. So as you can see, working on your relationship with money isn’t a linear thing, and there is no quick fix. It, like many things, are made up of a series of baby steps that lead you to your goal.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 20 Feb 2019 00:00:00 -0800</pubDate>
+        <link>http://localhost:4000/post/2019/02/20/Three-Pillars-To-A-Healthy-Relationship-With-Money.html</link>
+        <guid isPermaLink="true">http://localhost:4000/post/2019/02/20/Three-Pillars-To-A-Healthy-Relationship-With-Money.html</guid>
+        <media:title xmlns:media="http://search.yahoo.com/mrss/">columns.jpg</media:title>
+        <media:description xmlns:media="http://search.yahoo.com/mrss/">columns.jpg</media:description>
+        <media:content url="http://localhost:4000/assets/images/columns.jpg" xmlns:media="http://search.yahoo.com/mrss/" type="image/jpeg" width="600"/>
+       <media:thumbnail url="http://localhost:4000/assets/images/columns.jpg" xmlns:media="http://search.yahoo.com/mrss/"/>
+      </item>
     
       <item>
         <title>Five Steps to Thrive with Variable Income</title>
@@ -311,27 +354,6 @@
         <media:description xmlns:media="http://search.yahoo.com/mrss/">Soccer.jpg</media:description>
         <media:content url="http://localhost:4000/assets/images/Soccer.jpg" xmlns:media="http://search.yahoo.com/mrss/" type="image/jpeg" width="600"/>
        <media:thumbnail url="http://localhost:4000/assets/images/Soccer.jpg" xmlns:media="http://search.yahoo.com/mrss/"/>
-      </item>
-    
-      <item>
-        <title>What is a Normal Month?</title>
-        <description>&lt;p&gt;What is a Normal Month? Take a moment to think about what that means to you. Does it mean that you are spending exactly what you expect on your bills? Does it mean that you have no surprise expenses? Does it mean that you are able to pay your groceries in full, and have a little left over?&lt;/p&gt;
-
-&lt;!--more--&gt;
-
-&lt;p&gt;The next question is, when was the last time you had a Normal Month? Many of you probably already know that it is a bit of a trick question. There is no such thing as a “Normal Month”. We live lives that are beautiful, complex, vexing, and wonderful. To have perfectly normal, average months, month after month, it would mean that we are living exactly normal, average, completely predictable lives. And even if that was possible, is that really what you want from your life?&lt;/p&gt;
-
-&lt;p&gt;Sure some unexpected events we could do without. The furnace breaks, or the alternator dies. We end up having less income than usual. Of course we don’t want that! But some things are &lt;strong&gt;wonderful&lt;/strong&gt;. For example, I got the chance to go on a spa day with friends recently. I chose to spend more, so that I could join them. Maybe family comes into town and you want to treat them, take them out to the local sights or to a nice restaurant for dinner. Maybe you get accepted to an artist retreat in France. Whatever it is, you don’t want to constrict your budget so much that you can’t take advantage of the exciting opportunities life tosses you.&lt;/p&gt;
-
-&lt;p&gt;So don’t put it off: “I’ll start budgeting when I finally have a Normal Month.” Instead commit: “I’ll start budgeting now, so I never have to be caught flat-footed by the wild, crazy wonderful swings in life!”&lt;/p&gt;
-</description>
-        <pubDate>Thu, 24 May 2018 00:00:00 -0700</pubDate>
-        <link>http://localhost:4000/post/2018/05/24/Normal-Month.html</link>
-        <guid isPermaLink="true">http://localhost:4000/post/2018/05/24/Normal-Month.html</guid>
-        <media:title xmlns:media="http://search.yahoo.com/mrss/">Adventure.jpg</media:title>
-        <media:description xmlns:media="http://search.yahoo.com/mrss/">Adventure.jpg</media:description>
-        <media:content url="http://localhost:4000/assets/images/Adventure.jpg" xmlns:media="http://search.yahoo.com/mrss/" type="image/jpeg" width="600"/>
-       <media:thumbnail url="http://localhost:4000/assets/images/Adventure.jpg" xmlns:media="http://search.yahoo.com/mrss/"/>
       </item>
     
   </channel>
