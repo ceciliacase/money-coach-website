@@ -7,21 +7,17 @@
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
-        <title>Is Debt a Universal Constant?</title>
-        <description>&lt;p&gt;“I’ll be in debt until I die.”
-“Everyone is in debt.”
-“I’ll always have a car loan. I can’t afford to buy a car with cash!”&lt;/p&gt;
-
-&lt;p&gt;Debt is a universal constant, never to be escaped and never to be changed, like Death and Taxes, right? Over the years, I’ve noticed that there seems to be a large group of people out there that accept debt as a constant in their lives that can never be eliminated. “Well, that’s just the way it is, right? I have to get a loan to get a car. And by the time I pay this one off, I’ll need a new car, with a new loan.” But is that really true? Is debt really inevitable?&lt;/p&gt;
+        <title>The Bank Of Mom And The Bank Of Dad</title>
+        <description>&lt;p&gt;As I have been working with the great people at &lt;a href=&quot;http://debt-payoff-planner.com&quot;&gt;Debt Payoff Planner&lt;/a&gt;, we have been having fun looking through data. One thing they pointed out to me was some interesting statistics relating to family loans. Often these loans are from a parent, which isn’t surprising, but something that did surprise me is some of them have an interest rate. In other words, the parents are charging their kids for their loans, which I found really surprising. Let’s dig into the data a bit more, and find out who lends their kids more often, Mom or Dad? And who charges more?&lt;/p&gt;
 
 </description>
-        <pubDate>Wed, 13 Mar 2019 00:00:00 -0700</pubDate>
-        <link>http://localhost:4000/post/2019/03/13/Is-Debt-A-Universal-Constant.html</link>
-        <guid isPermaLink="true">http://localhost:4000/post/2019/03/13/Is-Debt-A-Universal-Constant.html</guid>
-        <media:title xmlns:media="http://search.yahoo.com/mrss/">SpiralStaircase.jpg</media:title>
-        <media:description xmlns:media="http://search.yahoo.com/mrss/">SpiralStaircase.jpg</media:description>
-        <media:content url="http://localhost:4000/assets/images/SpiralStaircase.jpg" xmlns:media="http://search.yahoo.com/mrss/" type="image/jpeg" width="600"/>
-       <media:thumbnail url="http://localhost:4000/assets/images/SpiralStaircase.jpg" xmlns:media="http://search.yahoo.com/mrss/"/>
+        <pubDate>Wed, 27 Mar 2019 00:00:00 -0700</pubDate>
+        <link>http://localhost:4000/post/2019/03/27/The-Bank-Of-Mom-And-The-Bank-Of-Dad.html</link>
+        <guid isPermaLink="true">http://localhost:4000/post/2019/03/27/The-Bank-Of-Mom-And-The-Bank-Of-Dad.html</guid>
+        <media:title xmlns:media="http://search.yahoo.com/mrss/">Parent.jpg</media:title>
+        <media:description xmlns:media="http://search.yahoo.com/mrss/">Parent.jpg</media:description>
+        <media:content url="http://localhost:4000/assets/images/Parent.jpg" xmlns:media="http://search.yahoo.com/mrss/" type="image/jpeg" width="600"/>
+       <media:thumbnail url="http://localhost:4000/assets/images/Parent.jpg" xmlns:media="http://search.yahoo.com/mrss/"/>
       </item>
     
   </channel>
