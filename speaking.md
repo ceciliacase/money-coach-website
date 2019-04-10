@@ -5,7 +5,7 @@ title: Bringing personal finance with heart
 
 Cecilia knows that money is tied up with all sorts of powerful emotions. She bridges the gap between hard facts and techniques, with gentle examination and healing of our past money stories.
 
-<a style="margin-left:1em;" class="button primary" href="mailto:cecilia@bountifulmoneyllc.com?subject=Speaking at our event">Invite Cecilia to speak</a><a style="float:left;" class="button primary" href="http://www.bountifulmoneycoach.com/documents/Cecilia-SpeakerSheet.pdf">Download Speaker Sheet</a>
+<a style="margin-left:1em;" class="button primary" href="mailto:cecilia@bountifulmoneyllc.com?subject=Speaking at our event">Invite Cecilia to speak</a><a style="float:left;" class="button primary" href="http://www.bountifulmoneycoach.com/assets/documents/Cecilia-SpeakerSheet.pdf">Download Speaker Sheet</a>
 # Speaking topic
 Knowing how to budget is only a small part of financial health. This talk is about the more important, but often neglected aspect of personal finance - the **emotional** aspect of money. 
 
