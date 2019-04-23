@@ -3,7 +3,7 @@ layout: landing
 title: Exclusive Content for Money Mojo listeners!
 ---
 
-Thank you so much for listening to my interview on Karen and Mica's amazing podcast! As an exculsive offer just for Money Mojo's listeners, I'm you offering valuable content to help you get started understanding the deep connections between your emotions and your money! It is called the Spending and Emotions Worksheet, and it is a valuable tool for starting to understand your unique money stories.
+Thank you so much for listening to my interview on Karen and Micah's amazing podcast! As an exculsive offer just for Money Mojo's listeners, I'm you offering valuable content to help you get started understanding the deep connections between your emotions and your money! It is called the Spending and Emotions Worksheet, and it is a valuable tool for starting to understand your unique money stories.
 
 <div style="max-width: 500px; margin:auto;">
   <h3>Sign up below to receive your worksheet directly to your inbox!</h3>
