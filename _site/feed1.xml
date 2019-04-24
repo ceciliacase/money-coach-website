@@ -7,17 +7,17 @@
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
-        <title>Are You Afraid To Look At Your Debt?</title>
-        <description>&lt;p&gt;In my last post I wrote a bit about changing our perceptions about the &lt;a href=&quot;/index.php/archives/2019-03-13-Is-Debt-A-Universal-Constant&quot;&gt;inevitability of debt&lt;/a&gt;, but today I want to talk about a common problem people have with debt: Fear of looking at your debt. When you can’t look at your debt, it is impossible to &lt;strong&gt;do&lt;/strong&gt; anything about your debt! So let’s dive in and see why this fear exists, and what you can do about it.&lt;/p&gt;
+        <title>The Origins of the Word &quot;Mortgage&quot;</title>
+        <description>&lt;p&gt;I ran across a little piece of information recently that stopped me in my tracks. Did you know that the word &lt;em&gt;mortgage&lt;/em&gt; translates to &lt;em&gt;death contract (or pledge)&lt;/em&gt; in French? Wow! If you are anything like me, that provokes a strong emotional reaction.&lt;/p&gt;
 
 </description>
-        <pubDate>Wed, 10 Apr 2019 00:00:00 -0700</pubDate>
-        <link>http://localhost:4000/post/2019/04/10/Are-You-Afraid-To-Look-At-Your-Debt.html</link>
-        <guid isPermaLink="true">http://localhost:4000/post/2019/04/10/Are-You-Afraid-To-Look-At-Your-Debt.html</guid>
-        <media:title xmlns:media="http://search.yahoo.com/mrss/">EmptyPockets.jpg</media:title>
-        <media:description xmlns:media="http://search.yahoo.com/mrss/">EmptyPockets.jpg</media:description>
-        <media:content url="http://localhost:4000/assets/images/EmptyPockets.jpg" xmlns:media="http://search.yahoo.com/mrss/" type="image/jpeg" width="600"/>
-       <media:thumbnail url="http://localhost:4000/assets/images/EmptyPockets.jpg" xmlns:media="http://search.yahoo.com/mrss/"/>
+        <pubDate>Wed, 24 Apr 2019 00:00:00 -0700</pubDate>
+        <link>http://localhost:4000/post/2019/04/24/The-Origins-Of-The-Word-Mortgage.html</link>
+        <guid isPermaLink="true">http://localhost:4000/post/2019/04/24/The-Origins-Of-The-Word-Mortgage.html</guid>
+        <media:title xmlns:media="http://search.yahoo.com/mrss/">House.jpg</media:title>
+        <media:description xmlns:media="http://search.yahoo.com/mrss/">House.jpg</media:description>
+        <media:content url="http://localhost:4000/assets/images/House.jpg" xmlns:media="http://search.yahoo.com/mrss/" type="image/jpeg" width="600"/>
+       <media:thumbnail url="http://localhost:4000/assets/images/House.jpg" xmlns:media="http://search.yahoo.com/mrss/"/>
       </item>
     
   </channel>
