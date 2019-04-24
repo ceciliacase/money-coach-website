@@ -1,6 +1,6 @@
 ---
 layout: landing
-title: Exclusive Content for Key Conversations with Amanda listeners!
+title: Exclusive Content for "Key Conversations with Amanda" listeners!
 ---
 
 Thank you so much for listening to my interview on Amanda's amazing podcast! As an exculsive offer just for you, I'm you offering valuable content to help you get started understanding the deep connections between your emotions and your money! It is called the Spending and Emotions Worksheet, and it is a valuable tool for starting to understand your unique money stories.
