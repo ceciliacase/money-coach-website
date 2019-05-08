@@ -6,7 +6,7 @@ tags: debt mindset emotions
 image: EmptyPockets.jpg
 ---
 
-In my last post I wrote a bit about changing our perceptions about the [inevitability of debt](/index.php/archives/2019-03-13-Is-Debt-A-Universal-Constant), but today I want to talk about a common problem people have with debt: Fear of looking at your debt. When you can't look at your debt, it is impossible to **do** anything about your debt! So let's dive in and see why this fear exists, and what you can do about it.
+In my last post I wrote a bit about changing our perceptions about the [inevitability of debt]({% post_url 2019-03-13-Is-Debt-A-Universal-Constant %}), but today I want to talk about a common problem people have with debt: Fear of looking at your debt. When you can't look at your debt, it is impossible to **do** anything about your debt! So let's dive in and see why this fear exists, and what you can do about it.
 
 <!--more-->
 

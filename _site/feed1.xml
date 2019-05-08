@@ -7,17 +7,17 @@
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
-        <title>The Origins of the Word &quot;Mortgage&quot;</title>
-        <description>&lt;p&gt;I ran across a little piece of information recently that stopped me in my tracks. Did you know that the word &lt;em&gt;mortgage&lt;/em&gt; translates to &lt;em&gt;death contract (or pledge)&lt;/em&gt; in French? Wow! If you are anything like me, that provokes a strong emotional reaction.&lt;/p&gt;
+        <title>Pick One Thing and Work On It</title>
+        <description>&lt;p&gt;I’ve worked with clients for a while now, and one thing I see over and over again is &lt;a href=&quot;/post/2019/01/16/Fight-The-Overwhelm.html&quot;&gt;overwhelm&lt;/a&gt;. Our lives are so complicated, juggling family, work, leisure time (if we’re lucky!) a second job or business, kids, unreasonable customers… I don’t need to tell you this, you already know it. And the more we pile on, the more we sink into the details and the harder it is to see the big picture.&lt;/p&gt;
 
 </description>
-        <pubDate>Wed, 24 Apr 2019 00:00:00 -0700</pubDate>
-        <link>http://localhost:4000/post/2019/04/24/The-Origins-Of-The-Word-Mortgage.html</link>
-        <guid isPermaLink="true">http://localhost:4000/post/2019/04/24/The-Origins-Of-The-Word-Mortgage.html</guid>
-        <media:title xmlns:media="http://search.yahoo.com/mrss/">House.jpg</media:title>
-        <media:description xmlns:media="http://search.yahoo.com/mrss/">House.jpg</media:description>
-        <media:content url="http://localhost:4000/assets/images/House.jpg" xmlns:media="http://search.yahoo.com/mrss/" type="image/jpeg" width="600"/>
-       <media:thumbnail url="http://localhost:4000/assets/images/House.jpg" xmlns:media="http://search.yahoo.com/mrss/"/>
+        <pubDate>Wed, 08 May 2019 00:00:00 -0700</pubDate>
+        <link>http://localhost:4000/post/2019/05/08/Pick-One-Thing.html</link>
+        <guid isPermaLink="true">http://localhost:4000/post/2019/05/08/Pick-One-Thing.html</guid>
+        <media:title xmlns:media="http://search.yahoo.com/mrss/">ClearWater.jpg</media:title>
+        <media:description xmlns:media="http://search.yahoo.com/mrss/">ClearWater.jpg</media:description>
+        <media:content url="http://localhost:4000/assets/images/ClearWater.jpg" xmlns:media="http://search.yahoo.com/mrss/" type="image/jpeg" width="600"/>
+       <media:thumbnail url="http://localhost:4000/assets/images/ClearWater.jpg" xmlns:media="http://search.yahoo.com/mrss/"/>
       </item>
     
   </channel>
