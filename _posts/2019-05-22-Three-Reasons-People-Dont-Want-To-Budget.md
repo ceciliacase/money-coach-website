@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Three Reasons People Don't Want to Budget
+title: "The Three Reasons People Don't Want to Budget"
 categories: post
 tags: moneymirror budget emotions 
 image: Budget.jpg
