@@ -17,7 +17,7 @@ Learning how to heal your relationship with money will transform budgeting into 
 Your attendees will learn how to transform your chaotic financial situation into one of peace and joy, learn techniques to get out of the paycheck-to-paycheck cycle, and become debt-free, and establish lifelong habits and patterns that help your money stay in sync with your life and values.
 
 # What she delivers
-<iframe style="float:left; margin: 1em 1em 0 0;" width="374" height="210" src="https://www.youtube.com/embed/cyX4BOAGZuU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe style="float:left; margin: 1em 1em 0 0;" width="374" height="210" src="https://www.youtube.com/embed/sp6I2jPmSZQ?start=44" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 Cecilia knows that the secret of success with personal finance is (1) healing your relationship with money first and foremost (2) learning techniques that work with your personality and situation and (3) creating money habits that are as natural as breathing. She has done the inner work to heal her own relationship with money, and is now debt free. She now brings those lessons to you. 
 
 
