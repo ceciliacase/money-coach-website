@@ -10,7 +10,7 @@ Have you heard the terms "bad debt" and "good debt"? Take a moment before you re
 
 <!--more-->
 
-I've always hated the terms bad debt and good debt for a couple of reasons. One is, everyone's definition is different, so we all often end up talking at cross purposes, and creating more confusion than is necessary. The other is I think it lays moral implications on top of something where it isn't useful. That especially becomes a problem if it intensifies your feelings of guilt and shame around your money situation. So when you were thinking about what makes debt bad, what characteristics did you think of? Here's some things that came up in my mind:
+I've always hated the terms "bad debt" and "good debt" for a couple of reasons. One is, everyone's definition is different, so we all often end up talking at cross purposes, and creating more confusion than is necessary. The other is I think it lays moral implications on top of something where it isn't useful. That especially becomes a problem if it intensifies your feelings of guilt and shame around your money situation. So when you were thinking about what makes debt bad, what characteristics did you think of? Here are some things that came up in my mind:
 
 - High interest rate
 - High risk (i.e. will I really be able to pay this off?)
@@ -25,10 +25,10 @@ And when I think of "good" debt I thought of:
 - Good debt to income ratio
 - Leveraged debt
 
-When I look at these lists, I notice a couple of things. One, most of these are hard to quantify. Exactly how low does an interest rate have to be, for it to be "good?" And others had ore to do with how they are used, not so much about the debt itself.
+When I look at these lists, I notice a couple of things. One, most of these are hard to quantify. Exactly how low does an interest rate have to be, for it to be "good?" And others had more to do with how they are used, not so much about the debt itself.
 
 # Is this really a useful way of looking at debt?
-I'd say that these criteria are so subjective that thinking of debt as good or bad really isn't useful. And even more important, it implies that there are debts that you should feel guilty or ashamed to have. There are debts that are going to be harder to pay off, or may have been used for purposes that you now think weren't worth the risk of the debt, but feeling overwhelming feelings of guilt will only make it harder to pay off. The most important work when paying off debt often isn't creating a debt plan. Often it is working through the feelings that the debt situation creates in you, so that you can be truly ready to release your debt.
+I'd say that these criteria are so subjective that thinking of debt as good or bad really isn't useful. And even more important, it implies that there are debts that you should feel guilty or ashamed to have. There are debts that are going to be harder to pay off or may have been used for purposes that you now think weren't worth the risk of the debt, but feeling overwhelming feelings of guilt will only make it harder to pay off. The most important work when paying off debt often isn't creating a debt plan. Often it is working through the feelings that the debt situation creates in you so that you can be truly ready to release your debt.
 
 # Are there better ways of thinking of debt?
 Absolutely! Especially when thinking about taking on new debt, think about these things:
