@@ -7,17 +7,17 @@
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
-        <title>The Five Things That Make Debt Bad Or Good</title>
-        <description>&lt;p&gt;Have you heard the terms “bad debt” and “good debt”? Take a moment before you read on, and answer this question for yourself. What are the things that make debt “bad?” And what are the things that make debt “good?”&lt;/p&gt;
+        <title>Is Financial Independence Is Your Goal?</title>
+        <description>&lt;p&gt;Financial Independence. Retire Early. If you’ve spent any time researching personal finance, you may have come across these terms, or the combined term - FIRE. When you first see them, they may seem far-fetched, or even completely unachievable. But today is Independence Day here in the United States, so let’s take a closer look and see how &lt;strong&gt;Financial&lt;/strong&gt; Independence might fit into our lives and our goals.&lt;/p&gt;
 
 </description>
-        <pubDate>Wed, 19 Jun 2019 00:00:00 -0700</pubDate>
-        <link>http://localhost:4000/post/2019/06/19/What-Is-Bad-Debt.html</link>
-        <guid isPermaLink="true">http://localhost:4000/post/2019/06/19/What-Is-Bad-Debt.html</guid>
-        <media:title xmlns:media="http://search.yahoo.com/mrss/">GoodBad.jpg</media:title>
-        <media:description xmlns:media="http://search.yahoo.com/mrss/">GoodBad.jpg</media:description>
-        <media:content url="http://localhost:4000/assets/images/GoodBad.jpg" xmlns:media="http://search.yahoo.com/mrss/" type="image/jpeg" width="600"/>
-       <media:thumbnail url="http://localhost:4000/assets/images/GoodBad.jpg" xmlns:media="http://search.yahoo.com/mrss/"/>
+        <pubDate>Thu, 04 Jul 2019 00:00:00 -0700</pubDate>
+        <link>http://localhost:4000/post/2019/07/04/Financial-Independence.html</link>
+        <guid isPermaLink="true">http://localhost:4000/post/2019/07/04/Financial-Independence.html</guid>
+        <media:title xmlns:media="http://search.yahoo.com/mrss/">Sparkler.jpg</media:title>
+        <media:description xmlns:media="http://search.yahoo.com/mrss/">Sparkler.jpg</media:description>
+        <media:content url="http://localhost:4000/assets/images/Sparkler.jpg" xmlns:media="http://search.yahoo.com/mrss/" type="image/jpeg" width="600"/>
+       <media:thumbnail url="http://localhost:4000/assets/images/Sparkler.jpg" xmlns:media="http://search.yahoo.com/mrss/"/>
       </item>
     
   </channel>
