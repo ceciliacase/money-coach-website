@@ -51,10 +51,10 @@
         <pubDate>Wed, 24 Jul 2019 00:00:00 -0700</pubDate>
         <link>http://localhost:4000/post/2019/07/24/Why-Do-Businesses-Fail.html</link>
         <guid isPermaLink="true">http://localhost:4000/post/2019/07/24/Why-Do-Businesses-Fail.html</guid>
-        <media:title xmlns:media="http://search.yahoo.com/mrss/">bookkeeper.jpg</media:title>
-        <media:description xmlns:media="http://search.yahoo.com/mrss/">bookkeeper.jpg</media:description>
-        <media:content url="http://localhost:4000/assets/images/bookkeeper.jpg" xmlns:media="http://search.yahoo.com/mrss/" type="image/jpeg" width="600"/>
-       <media:thumbnail url="http://localhost:4000/assets/images/bookkeeper.jpg" xmlns:media="http://search.yahoo.com/mrss/"/>
+        <media:title xmlns:media="http://search.yahoo.com/mrss/">Bookkeeper.jpg</media:title>
+        <media:description xmlns:media="http://search.yahoo.com/mrss/">Bookkeeper.jpg</media:description>
+        <media:content url="http://localhost:4000/assets/images/Bookkeeper.jpg" xmlns:media="http://search.yahoo.com/mrss/" type="image/jpeg" width="600"/>
+       <media:thumbnail url="http://localhost:4000/assets/images/Bookkeeper.jpg" xmlns:media="http://search.yahoo.com/mrss/"/>
       </item>
     
       <item>

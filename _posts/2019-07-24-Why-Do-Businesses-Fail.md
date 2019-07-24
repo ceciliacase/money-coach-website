@@ -3,7 +3,7 @@ layout: post
 title: Why do most businesses fail? A perspective from a bookkeeper
 categories: post
 tags: business guestpost
-image: bookkeeper.jpg
+image: Bookkeeper.jpg
 ---
 
 Today is a big day for us here at Bountiful Money! I’m here to introduce you to Charissa Samco with Above LLC. She is the first guest poster on my blog. I met Charissa through a local bookkeeping networking group here in Portland called Portland Woodard Group, and we just hit it off! She has such a fantastic outlook towards the bookkeeping profession, and I love her kindness and dedication to the success of her clients.
