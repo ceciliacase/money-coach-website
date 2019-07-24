@@ -7,17 +7,19 @@
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
-        <title>Is Financial Independence Is Your Goal?</title>
-        <description>&lt;p&gt;Financial Independence. Retire Early. If you’ve spent any time researching personal finance, you may have come across these terms, or the combined term - FIRE. When you first see them, they may seem far-fetched, or even completely unachievable. But today is Independence Day here in the United States, so let’s take a closer look and see how &lt;strong&gt;Financial&lt;/strong&gt; Independence might fit into our lives and our goals.&lt;/p&gt;
+        <title>Why do most businesses fail? A perspective from a bookkeeper</title>
+        <description>&lt;p&gt;Today is a big day for us here at Bountiful Money! I’m here to introduce you to Charissa Samco with Above LLC. She is the first guest poster on my blog. I met Charissa through a local bookkeeping networking group here in Portland called Portland Woodard Group, and we just hit it off! She has such a fantastic outlook towards the bookkeeping profession, and I love her kindness and dedication to the success of her clients.&lt;/p&gt;
+
+&lt;p&gt;The last time we met, she made a startling and saddening observation - she has had to help several of her clients wrap up and close their businesses this last year, and she noticed a pattern. So if you are a small business owner, or thinking about starting your own business, I want you to read what she has to say!&lt;/p&gt;
 
 </description>
-        <pubDate>Thu, 04 Jul 2019 00:00:00 -0700</pubDate>
-        <link>http://localhost:4000/post/2019/07/04/Financial-Independence.html</link>
-        <guid isPermaLink="true">http://localhost:4000/post/2019/07/04/Financial-Independence.html</guid>
-        <media:title xmlns:media="http://search.yahoo.com/mrss/">Sparkler.jpg</media:title>
-        <media:description xmlns:media="http://search.yahoo.com/mrss/">Sparkler.jpg</media:description>
-        <media:content url="http://localhost:4000/assets/images/Sparkler.jpg" xmlns:media="http://search.yahoo.com/mrss/" type="image/jpeg" width="600"/>
-       <media:thumbnail url="http://localhost:4000/assets/images/Sparkler.jpg" xmlns:media="http://search.yahoo.com/mrss/"/>
+        <pubDate>Wed, 24 Jul 2019 00:00:00 -0700</pubDate>
+        <link>http://localhost:4000/post/2019/07/24/Why-Do-Businesses-Fail.html</link>
+        <guid isPermaLink="true">http://localhost:4000/post/2019/07/24/Why-Do-Businesses-Fail.html</guid>
+        <media:title xmlns:media="http://search.yahoo.com/mrss/">bookkeeper.jpg</media:title>
+        <media:description xmlns:media="http://search.yahoo.com/mrss/">bookkeeper.jpg</media:description>
+        <media:content url="http://localhost:4000/assets/images/bookkeeper.jpg" xmlns:media="http://search.yahoo.com/mrss/" type="image/jpeg" width="600"/>
+       <media:thumbnail url="http://localhost:4000/assets/images/bookkeeper.jpg" xmlns:media="http://search.yahoo.com/mrss/"/>
       </item>
     
   </channel>
