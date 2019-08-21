@@ -2,7 +2,7 @@
 summary: "From how I deal with it to how I use it, my relationship with money is getting better thanks in large part to Cecilia..."
 author: Robert p. S.
 # Set the display order for this section
-order: 6
+order: 7
 # Specify the layout for this section
 include: review.md
 ---

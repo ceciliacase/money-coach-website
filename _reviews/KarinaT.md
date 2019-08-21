@@ -2,7 +2,7 @@
 summary: "... She is able to explain budgeting in simple terms and make it all fun at the same time. I highly recommend her as a teacher!"
 author: Karina T.
 # Set the display order for this section
-order: 5
+order: 6
 # Specify the layout for this section
 include: review.md
 ---
