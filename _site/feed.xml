@@ -3,8 +3,8 @@
   <channel>
     <title>Bountiful Money</title>
     <description>Save money, budget according to your values, and experience financial bliss</description>
-    <link>http://localhost:4000</link>
-    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
+    <link>http://www.bountifulmoneycoach.com</link>
+    <atom:link href="http://www.bountifulmoneycoach.com/feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
         <title>Why do most businesses fail? A perspective from a bookkeeper</title>
@@ -44,12 +44,12 @@
 &lt;/div&gt;
 </description>
         <pubDate>Wed, 24 Jul 2019 00:00:00 -0700</pubDate>
-        <link>http://localhost:4000/post/2019/07/24/Why-Do-Businesses-Fail.html</link>
-        <guid isPermaLink="true">http://localhost:4000/post/2019/07/24/Why-Do-Businesses-Fail.html</guid>
+        <link>http://www.bountifulmoneycoach.com/post/2019/07/24/Why-Do-Businesses-Fail.html</link>
+        <guid isPermaLink="true">http://www.bountifulmoneycoach.com/post/2019/07/24/Why-Do-Businesses-Fail.html</guid>
         <media:title xmlns:media="http://search.yahoo.com/mrss/">Bookkeeper.jpg</media:title>
         <media:description xmlns:media="http://search.yahoo.com/mrss/">Bookkeeper.jpg</media:description>
-        <media:content url="http://localhost:4000/assets/images/Bookkeeper.jpg" xmlns:media="http://search.yahoo.com/mrss/" type="image/jpeg" width="600"/>
-       <media:thumbnail url="http://localhost:4000/assets/images/Bookkeeper.jpg" xmlns:media="http://search.yahoo.com/mrss/"/>
+        <media:content url="http://www.bountifulmoneycoach.com/assets/images/Bookkeeper.jpg" xmlns:media="http://search.yahoo.com/mrss/" type="image/jpeg" width="600"/>
+       <media:thumbnail url="http://www.bountifulmoneycoach.com/assets/images/Bookkeeper.jpg" xmlns:media="http://search.yahoo.com/mrss/"/>
       </item>
     
       <item>
@@ -67,12 +67,12 @@
 &lt;p&gt;What do you think? Do you think that Financial Independence and Retiring Early is a goal for you? Do you think it is possible in your life? And what would it mean for your life if you could FIRE?&lt;/p&gt;
 </description>
         <pubDate>Thu, 04 Jul 2019 00:00:00 -0700</pubDate>
-        <link>http://localhost:4000/post/2019/07/04/Financial-Independence.html</link>
-        <guid isPermaLink="true">http://localhost:4000/post/2019/07/04/Financial-Independence.html</guid>
+        <link>http://www.bountifulmoneycoach.com/post/2019/07/04/Financial-Independence.html</link>
+        <guid isPermaLink="true">http://www.bountifulmoneycoach.com/post/2019/07/04/Financial-Independence.html</guid>
         <media:title xmlns:media="http://search.yahoo.com/mrss/">Sparkler.jpg</media:title>
         <media:description xmlns:media="http://search.yahoo.com/mrss/">Sparkler.jpg</media:description>
-        <media:content url="http://localhost:4000/assets/images/Sparkler.jpg" xmlns:media="http://search.yahoo.com/mrss/" type="image/jpeg" width="600"/>
-       <media:thumbnail url="http://localhost:4000/assets/images/Sparkler.jpg" xmlns:media="http://search.yahoo.com/mrss/"/>
+        <media:content url="http://www.bountifulmoneycoach.com/assets/images/Sparkler.jpg" xmlns:media="http://search.yahoo.com/mrss/" type="image/jpeg" width="600"/>
+       <media:thumbnail url="http://www.bountifulmoneycoach.com/assets/images/Sparkler.jpg" xmlns:media="http://search.yahoo.com/mrss/"/>
       </item>
     
       <item>
@@ -120,12 +120,12 @@
 &lt;p&gt;It doesn’t matter what other people think is “good” debt or “bad” debt. What matters is whether this debt is useful to you, and this list can help you understand whether the debt is really worth it &lt;em&gt;for you&lt;/em&gt;.&lt;/p&gt;
 </description>
         <pubDate>Wed, 19 Jun 2019 00:00:00 -0700</pubDate>
-        <link>http://localhost:4000/post/2019/06/19/What-Is-Bad-Debt.html</link>
-        <guid isPermaLink="true">http://localhost:4000/post/2019/06/19/What-Is-Bad-Debt.html</guid>
+        <link>http://www.bountifulmoneycoach.com/post/2019/06/19/What-Is-Bad-Debt.html</link>
+        <guid isPermaLink="true">http://www.bountifulmoneycoach.com/post/2019/06/19/What-Is-Bad-Debt.html</guid>
         <media:title xmlns:media="http://search.yahoo.com/mrss/">GoodBad.jpg</media:title>
         <media:description xmlns:media="http://search.yahoo.com/mrss/">GoodBad.jpg</media:description>
-        <media:content url="http://localhost:4000/assets/images/GoodBad.jpg" xmlns:media="http://search.yahoo.com/mrss/" type="image/jpeg" width="600"/>
-       <media:thumbnail url="http://localhost:4000/assets/images/GoodBad.jpg" xmlns:media="http://search.yahoo.com/mrss/"/>
+        <media:content url="http://www.bountifulmoneycoach.com/assets/images/GoodBad.jpg" xmlns:media="http://search.yahoo.com/mrss/" type="image/jpeg" width="600"/>
+       <media:thumbnail url="http://www.bountifulmoneycoach.com/assets/images/GoodBad.jpg" xmlns:media="http://search.yahoo.com/mrss/"/>
       </item>
     
       <item>
@@ -148,12 +148,12 @@
 &lt;p&gt;There are tons of reasons why people don’t want to budget, but I think that the benefits far outweigh the emotional stress that it initially puts on you. What do you think, are you ready to give budgeting a try?&lt;/p&gt;
 </description>
         <pubDate>Wed, 22 May 2019 00:00:00 -0700</pubDate>
-        <link>http://localhost:4000/post/2019/05/22/Three-Reasons-People-Dont-Want-To-Budget.html</link>
-        <guid isPermaLink="true">http://localhost:4000/post/2019/05/22/Three-Reasons-People-Dont-Want-To-Budget.html</guid>
+        <link>http://www.bountifulmoneycoach.com/post/2019/05/22/Three-Reasons-People-Dont-Want-To-Budget.html</link>
+        <guid isPermaLink="true">http://www.bountifulmoneycoach.com/post/2019/05/22/Three-Reasons-People-Dont-Want-To-Budget.html</guid>
         <media:title xmlns:media="http://search.yahoo.com/mrss/">Budget.jpg</media:title>
         <media:description xmlns:media="http://search.yahoo.com/mrss/">Budget.jpg</media:description>
-        <media:content url="http://localhost:4000/assets/images/Budget.jpg" xmlns:media="http://search.yahoo.com/mrss/" type="image/jpeg" width="600"/>
-       <media:thumbnail url="http://localhost:4000/assets/images/Budget.jpg" xmlns:media="http://search.yahoo.com/mrss/"/>
+        <media:content url="http://www.bountifulmoneycoach.com/assets/images/Budget.jpg" xmlns:media="http://search.yahoo.com/mrss/" type="image/jpeg" width="600"/>
+       <media:thumbnail url="http://www.bountifulmoneycoach.com/assets/images/Budget.jpg" xmlns:media="http://search.yahoo.com/mrss/"/>
       </item>
     
       <item>
@@ -177,12 +177,12 @@
 &lt;p&gt;I don’t want you to think that this is a magic bullet. It takes an understanding of your own values to create clear plans for yourself. And it takes discipline to carry out those plans over the long term. And that is where the rubber meets the road. But I do want to tell you it is possible to create clarity from chaos in your money life, and this is a great way to start!&lt;/p&gt;
 </description>
         <pubDate>Wed, 08 May 2019 00:00:00 -0700</pubDate>
-        <link>http://localhost:4000/post/2019/05/08/Pick-One-Thing.html</link>
-        <guid isPermaLink="true">http://localhost:4000/post/2019/05/08/Pick-One-Thing.html</guid>
+        <link>http://www.bountifulmoneycoach.com/post/2019/05/08/Pick-One-Thing.html</link>
+        <guid isPermaLink="true">http://www.bountifulmoneycoach.com/post/2019/05/08/Pick-One-Thing.html</guid>
         <media:title xmlns:media="http://search.yahoo.com/mrss/">ClearWater.jpg</media:title>
         <media:description xmlns:media="http://search.yahoo.com/mrss/">ClearWater.jpg</media:description>
-        <media:content url="http://localhost:4000/assets/images/ClearWater.jpg" xmlns:media="http://search.yahoo.com/mrss/" type="image/jpeg" width="600"/>
-       <media:thumbnail url="http://localhost:4000/assets/images/ClearWater.jpg" xmlns:media="http://search.yahoo.com/mrss/"/>
+        <media:content url="http://www.bountifulmoneycoach.com/assets/images/ClearWater.jpg" xmlns:media="http://search.yahoo.com/mrss/" type="image/jpeg" width="600"/>
+       <media:thumbnail url="http://www.bountifulmoneycoach.com/assets/images/ClearWater.jpg" xmlns:media="http://search.yahoo.com/mrss/"/>
       </item>
     
       <item>
@@ -196,12 +196,12 @@
 &lt;p&gt;I’ve read that a mortgage is so called because the deal dies either when the debt is paid, or when payment fails, which makes some sense, and is a bit less dramatic than the implication. But I don’t think it is an accident that such dramatic language is used to describe a debt. Does the term “death contract” change how you feel about your debts?&lt;/p&gt;
 </description>
         <pubDate>Wed, 24 Apr 2019 00:00:00 -0700</pubDate>
-        <link>http://localhost:4000/post/2019/04/24/The-Origins-Of-The-Word-Mortgage.html</link>
-        <guid isPermaLink="true">http://localhost:4000/post/2019/04/24/The-Origins-Of-The-Word-Mortgage.html</guid>
+        <link>http://www.bountifulmoneycoach.com/post/2019/04/24/The-Origins-Of-The-Word-Mortgage.html</link>
+        <guid isPermaLink="true">http://www.bountifulmoneycoach.com/post/2019/04/24/The-Origins-Of-The-Word-Mortgage.html</guid>
         <media:title xmlns:media="http://search.yahoo.com/mrss/">House.jpg</media:title>
         <media:description xmlns:media="http://search.yahoo.com/mrss/">House.jpg</media:description>
-        <media:content url="http://localhost:4000/assets/images/House.jpg" xmlns:media="http://search.yahoo.com/mrss/" type="image/jpeg" width="600"/>
-       <media:thumbnail url="http://localhost:4000/assets/images/House.jpg" xmlns:media="http://search.yahoo.com/mrss/"/>
+        <media:content url="http://www.bountifulmoneycoach.com/assets/images/House.jpg" xmlns:media="http://search.yahoo.com/mrss/" type="image/jpeg" width="600"/>
+       <media:thumbnail url="http://www.bountifulmoneycoach.com/assets/images/House.jpg" xmlns:media="http://search.yahoo.com/mrss/"/>
       </item>
     
       <item>
@@ -233,12 +233,12 @@
 &lt;p&gt;If you are struggling with this step or any other, I recommend you reach out to a Money Coach. We can help you with the strong emotions surrounding personal finance, and help you gain the tools you need to change how you relate to money. If you’d like to learn more, please reach out to me, I’m here to help!&lt;/p&gt;
 </description>
         <pubDate>Wed, 10 Apr 2019 00:00:00 -0700</pubDate>
-        <link>http://localhost:4000/post/2019/04/10/Are-You-Afraid-To-Look-At-Your-Debt.html</link>
-        <guid isPermaLink="true">http://localhost:4000/post/2019/04/10/Are-You-Afraid-To-Look-At-Your-Debt.html</guid>
+        <link>http://www.bountifulmoneycoach.com/post/2019/04/10/Are-You-Afraid-To-Look-At-Your-Debt.html</link>
+        <guid isPermaLink="true">http://www.bountifulmoneycoach.com/post/2019/04/10/Are-You-Afraid-To-Look-At-Your-Debt.html</guid>
         <media:title xmlns:media="http://search.yahoo.com/mrss/">EmptyPockets.jpg</media:title>
         <media:description xmlns:media="http://search.yahoo.com/mrss/">EmptyPockets.jpg</media:description>
-        <media:content url="http://localhost:4000/assets/images/EmptyPockets.jpg" xmlns:media="http://search.yahoo.com/mrss/" type="image/jpeg" width="600"/>
-       <media:thumbnail url="http://localhost:4000/assets/images/EmptyPockets.jpg" xmlns:media="http://search.yahoo.com/mrss/"/>
+        <media:content url="http://www.bountifulmoneycoach.com/assets/images/EmptyPockets.jpg" xmlns:media="http://search.yahoo.com/mrss/" type="image/jpeg" width="600"/>
+       <media:thumbnail url="http://www.bountifulmoneycoach.com/assets/images/EmptyPockets.jpg" xmlns:media="http://search.yahoo.com/mrss/"/>
       </item>
     
       <item>
@@ -267,12 +267,12 @@
 &lt;p&gt;There is no right or wrong way of paying back family, but taking a look at the practical method, then examining how it will affect everyone involved and making sure there is good communication will make sure you find the best solution for you and your family.&lt;/p&gt;
 </description>
         <pubDate>Wed, 27 Mar 2019 00:00:00 -0700</pubDate>
-        <link>http://localhost:4000/post/2019/03/27/The-Bank-Of-Mom-And-The-Bank-Of-Dad.html</link>
-        <guid isPermaLink="true">http://localhost:4000/post/2019/03/27/The-Bank-Of-Mom-And-The-Bank-Of-Dad.html</guid>
+        <link>http://www.bountifulmoneycoach.com/post/2019/03/27/The-Bank-Of-Mom-And-The-Bank-Of-Dad.html</link>
+        <guid isPermaLink="true">http://www.bountifulmoneycoach.com/post/2019/03/27/The-Bank-Of-Mom-And-The-Bank-Of-Dad.html</guid>
         <media:title xmlns:media="http://search.yahoo.com/mrss/">Parent.jpg</media:title>
         <media:description xmlns:media="http://search.yahoo.com/mrss/">Parent.jpg</media:description>
-        <media:content url="http://localhost:4000/assets/images/Parent.jpg" xmlns:media="http://search.yahoo.com/mrss/" type="image/jpeg" width="600"/>
-       <media:thumbnail url="http://localhost:4000/assets/images/Parent.jpg" xmlns:media="http://search.yahoo.com/mrss/"/>
+        <media:content url="http://www.bountifulmoneycoach.com/assets/images/Parent.jpg" xmlns:media="http://search.yahoo.com/mrss/" type="image/jpeg" width="600"/>
+       <media:thumbnail url="http://www.bountifulmoneycoach.com/assets/images/Parent.jpg" xmlns:media="http://search.yahoo.com/mrss/"/>
       </item>
     
       <item>
@@ -304,17 +304,17 @@ The idea is you work from bottom to top, so buying new is always your last optio
 &lt;p&gt;I hope this article has helped you see that there are often alternatives to using debt, and that debt is not a given in this world. There are many people who live debt-free, and you can, too! One last thing I want to say; being debt-free is &lt;strong&gt;worth it&lt;/strong&gt;. I have never been so stress free in my life. It can be annoying to not always have the nicest, shiniest thing. But the freedom of knowing I don’t owe anyone else anything is so much better than a spangly new phone, or a giant SUV.&lt;/p&gt;
 </description>
         <pubDate>Wed, 13 Mar 2019 00:00:00 -0700</pubDate>
-        <link>http://localhost:4000/post/2019/03/13/Is-Debt-A-Universal-Constant.html</link>
-        <guid isPermaLink="true">http://localhost:4000/post/2019/03/13/Is-Debt-A-Universal-Constant.html</guid>
+        <link>http://www.bountifulmoneycoach.com/post/2019/03/13/Is-Debt-A-Universal-Constant.html</link>
+        <guid isPermaLink="true">http://www.bountifulmoneycoach.com/post/2019/03/13/Is-Debt-A-Universal-Constant.html</guid>
         <media:title xmlns:media="http://search.yahoo.com/mrss/">SpiralStaircase.jpg</media:title>
         <media:description xmlns:media="http://search.yahoo.com/mrss/">SpiralStaircase.jpg</media:description>
-        <media:content url="http://localhost:4000/assets/images/SpiralStaircase.jpg" xmlns:media="http://search.yahoo.com/mrss/" type="image/jpeg" width="600"/>
-       <media:thumbnail url="http://localhost:4000/assets/images/SpiralStaircase.jpg" xmlns:media="http://search.yahoo.com/mrss/"/>
+        <media:content url="http://www.bountifulmoneycoach.com/assets/images/SpiralStaircase.jpg" xmlns:media="http://search.yahoo.com/mrss/" type="image/jpeg" width="600"/>
+       <media:thumbnail url="http://www.bountifulmoneycoach.com/assets/images/SpiralStaircase.jpg" xmlns:media="http://search.yahoo.com/mrss/"/>
       </item>
     
       <item>
         <title>The Three Pillars to a Healthy Relationship with Money</title>
-        <description>&lt;p&gt;Last post, I talked about &lt;a href=&quot;http://localhost:4000/post/2019/01/30/Three-Symptoms-Of-Money-Issues.html&quot;&gt;the three symptoms of money issues&lt;/a&gt;. If you think you have a problem with your money, the next question becomes, what can you do about it? So today I’d like to talk a little about the three pillars to concentrate on when healing your relationship with money. This will give you a good base to start understanding the steps you’ll need to take.&lt;/p&gt;
+        <description>&lt;p&gt;Last post, I talked about &lt;a href=&quot;http://www.bountifulmoneycoach.com/post/2019/01/30/Three-Symptoms-Of-Money-Issues.html&quot;&gt;the three symptoms of money issues&lt;/a&gt;. If you think you have a problem with your money, the next question becomes, what can you do about it? So today I’d like to talk a little about the three pillars to concentrate on when healing your relationship with money. This will give you a good base to start understanding the steps you’ll need to take.&lt;/p&gt;
 
 &lt;!--more--&gt;
 
@@ -347,12 +347,12 @@ And of course, there are thousands more stories you could be telling yourself. S
 &lt;p&gt;As you work through these three pillars, you may start seeing that the three pillars are interconnected. Working on your emotions may open up techniques or tools that would have previously made no sense. Or learning a new tool may make it easier for you to develop better habits. So as you can see, working on your relationship with money isn’t a linear thing, and there is no quick fix. It, like many things, are made up of a series of baby steps that lead you to your goal.&lt;/p&gt;
 </description>
         <pubDate>Wed, 27 Feb 2019 00:00:00 -0800</pubDate>
-        <link>http://localhost:4000/post/2019/02/27/Three-Pillars-To-A-Healthy-Relationship-With-Money.html</link>
-        <guid isPermaLink="true">http://localhost:4000/post/2019/02/27/Three-Pillars-To-A-Healthy-Relationship-With-Money.html</guid>
+        <link>http://www.bountifulmoneycoach.com/post/2019/02/27/Three-Pillars-To-A-Healthy-Relationship-With-Money.html</link>
+        <guid isPermaLink="true">http://www.bountifulmoneycoach.com/post/2019/02/27/Three-Pillars-To-A-Healthy-Relationship-With-Money.html</guid>
         <media:title xmlns:media="http://search.yahoo.com/mrss/">columns.jpg</media:title>
         <media:description xmlns:media="http://search.yahoo.com/mrss/">columns.jpg</media:description>
-        <media:content url="http://localhost:4000/assets/images/columns.jpg" xmlns:media="http://search.yahoo.com/mrss/" type="image/jpeg" width="600"/>
-       <media:thumbnail url="http://localhost:4000/assets/images/columns.jpg" xmlns:media="http://search.yahoo.com/mrss/"/>
+        <media:content url="http://www.bountifulmoneycoach.com/assets/images/columns.jpg" xmlns:media="http://search.yahoo.com/mrss/" type="image/jpeg" width="600"/>
+       <media:thumbnail url="http://www.bountifulmoneycoach.com/assets/images/columns.jpg" xmlns:media="http://search.yahoo.com/mrss/"/>
       </item>
     
   </channel>

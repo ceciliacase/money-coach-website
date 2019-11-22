@@ -3,8 +3,8 @@
   <channel>
     <title>Bountiful Money</title>
     <description>Save money, budget according to your values, and experience financial bliss</description>
-    <link>http://localhost:4000</link>
-    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
+    <link>http://www.bountifulmoneycoach.com</link>
+    <atom:link href="http://www.bountifulmoneycoach.com/feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
         <title>Why do most businesses fail? A perspective from a bookkeeper</title>
@@ -44,12 +44,12 @@
 &lt;/div&gt;
 </description>
         <pubDate>Wed, 24 Jul 2019 00:00:00 -0700</pubDate>
-        <link>http://localhost:4000/post/2019/07/24/Why-Do-Businesses-Fail.html</link>
-        <guid isPermaLink="true">http://localhost:4000/post/2019/07/24/Why-Do-Businesses-Fail.html</guid>
+        <link>http://www.bountifulmoneycoach.com/post/2019/07/24/Why-Do-Businesses-Fail.html</link>
+        <guid isPermaLink="true">http://www.bountifulmoneycoach.com/post/2019/07/24/Why-Do-Businesses-Fail.html</guid>
         <media:title xmlns:media="http://search.yahoo.com/mrss/">Bookkeeper.jpg</media:title>
         <media:description xmlns:media="http://search.yahoo.com/mrss/">Bookkeeper.jpg</media:description>
-        <media:content url="http://localhost:4000/assets/images/Bookkeeper.jpg" xmlns:media="http://search.yahoo.com/mrss/" type="image/jpeg" width="600"/>
-       <media:thumbnail url="http://localhost:4000/assets/images/Bookkeeper.jpg" xmlns:media="http://search.yahoo.com/mrss/"/>
+        <media:content url="http://www.bountifulmoneycoach.com/assets/images/Bookkeeper.jpg" xmlns:media="http://search.yahoo.com/mrss/" type="image/jpeg" width="600"/>
+       <media:thumbnail url="http://www.bountifulmoneycoach.com/assets/images/Bookkeeper.jpg" xmlns:media="http://search.yahoo.com/mrss/"/>
       </item>
     
       <item>
@@ -67,12 +67,12 @@
 &lt;p&gt;What do you think? Do you think that Financial Independence and Retiring Early is a goal for you? Do you think it is possible in your life? And what would it mean for your life if you could FIRE?&lt;/p&gt;
 </description>
         <pubDate>Thu, 04 Jul 2019 00:00:00 -0700</pubDate>
-        <link>http://localhost:4000/post/2019/07/04/Financial-Independence.html</link>
-        <guid isPermaLink="true">http://localhost:4000/post/2019/07/04/Financial-Independence.html</guid>
+        <link>http://www.bountifulmoneycoach.com/post/2019/07/04/Financial-Independence.html</link>
+        <guid isPermaLink="true">http://www.bountifulmoneycoach.com/post/2019/07/04/Financial-Independence.html</guid>
         <media:title xmlns:media="http://search.yahoo.com/mrss/">Sparkler.jpg</media:title>
         <media:description xmlns:media="http://search.yahoo.com/mrss/">Sparkler.jpg</media:description>
-        <media:content url="http://localhost:4000/assets/images/Sparkler.jpg" xmlns:media="http://search.yahoo.com/mrss/" type="image/jpeg" width="600"/>
-       <media:thumbnail url="http://localhost:4000/assets/images/Sparkler.jpg" xmlns:media="http://search.yahoo.com/mrss/"/>
+        <media:content url="http://www.bountifulmoneycoach.com/assets/images/Sparkler.jpg" xmlns:media="http://search.yahoo.com/mrss/" type="image/jpeg" width="600"/>
+       <media:thumbnail url="http://www.bountifulmoneycoach.com/assets/images/Sparkler.jpg" xmlns:media="http://search.yahoo.com/mrss/"/>
       </item>
     
       <item>
@@ -120,12 +120,12 @@
 &lt;p&gt;It doesn’t matter what other people think is “good” debt or “bad” debt. What matters is whether this debt is useful to you, and this list can help you understand whether the debt is really worth it &lt;em&gt;for you&lt;/em&gt;.&lt;/p&gt;
 </description>
         <pubDate>Wed, 19 Jun 2019 00:00:00 -0700</pubDate>
-        <link>http://localhost:4000/post/2019/06/19/What-Is-Bad-Debt.html</link>
-        <guid isPermaLink="true">http://localhost:4000/post/2019/06/19/What-Is-Bad-Debt.html</guid>
+        <link>http://www.bountifulmoneycoach.com/post/2019/06/19/What-Is-Bad-Debt.html</link>
+        <guid isPermaLink="true">http://www.bountifulmoneycoach.com/post/2019/06/19/What-Is-Bad-Debt.html</guid>
         <media:title xmlns:media="http://search.yahoo.com/mrss/">GoodBad.jpg</media:title>
         <media:description xmlns:media="http://search.yahoo.com/mrss/">GoodBad.jpg</media:description>
-        <media:content url="http://localhost:4000/assets/images/GoodBad.jpg" xmlns:media="http://search.yahoo.com/mrss/" type="image/jpeg" width="600"/>
-       <media:thumbnail url="http://localhost:4000/assets/images/GoodBad.jpg" xmlns:media="http://search.yahoo.com/mrss/"/>
+        <media:content url="http://www.bountifulmoneycoach.com/assets/images/GoodBad.jpg" xmlns:media="http://search.yahoo.com/mrss/" type="image/jpeg" width="600"/>
+       <media:thumbnail url="http://www.bountifulmoneycoach.com/assets/images/GoodBad.jpg" xmlns:media="http://search.yahoo.com/mrss/"/>
       </item>
     
       <item>
@@ -148,12 +148,12 @@
 &lt;p&gt;There are tons of reasons why people don’t want to budget, but I think that the benefits far outweigh the emotional stress that it initially puts on you. What do you think, are you ready to give budgeting a try?&lt;/p&gt;
 </description>
         <pubDate>Wed, 22 May 2019 00:00:00 -0700</pubDate>
-        <link>http://localhost:4000/post/2019/05/22/Three-Reasons-People-Dont-Want-To-Budget.html</link>
-        <guid isPermaLink="true">http://localhost:4000/post/2019/05/22/Three-Reasons-People-Dont-Want-To-Budget.html</guid>
+        <link>http://www.bountifulmoneycoach.com/post/2019/05/22/Three-Reasons-People-Dont-Want-To-Budget.html</link>
+        <guid isPermaLink="true">http://www.bountifulmoneycoach.com/post/2019/05/22/Three-Reasons-People-Dont-Want-To-Budget.html</guid>
         <media:title xmlns:media="http://search.yahoo.com/mrss/">Budget.jpg</media:title>
         <media:description xmlns:media="http://search.yahoo.com/mrss/">Budget.jpg</media:description>
-        <media:content url="http://localhost:4000/assets/images/Budget.jpg" xmlns:media="http://search.yahoo.com/mrss/" type="image/jpeg" width="600"/>
-       <media:thumbnail url="http://localhost:4000/assets/images/Budget.jpg" xmlns:media="http://search.yahoo.com/mrss/"/>
+        <media:content url="http://www.bountifulmoneycoach.com/assets/images/Budget.jpg" xmlns:media="http://search.yahoo.com/mrss/" type="image/jpeg" width="600"/>
+       <media:thumbnail url="http://www.bountifulmoneycoach.com/assets/images/Budget.jpg" xmlns:media="http://search.yahoo.com/mrss/"/>
       </item>
     
       <item>
@@ -177,12 +177,12 @@
 &lt;p&gt;I don’t want you to think that this is a magic bullet. It takes an understanding of your own values to create clear plans for yourself. And it takes discipline to carry out those plans over the long term. And that is where the rubber meets the road. But I do want to tell you it is possible to create clarity from chaos in your money life, and this is a great way to start!&lt;/p&gt;
 </description>
         <pubDate>Wed, 08 May 2019 00:00:00 -0700</pubDate>
-        <link>http://localhost:4000/post/2019/05/08/Pick-One-Thing.html</link>
-        <guid isPermaLink="true">http://localhost:4000/post/2019/05/08/Pick-One-Thing.html</guid>
+        <link>http://www.bountifulmoneycoach.com/post/2019/05/08/Pick-One-Thing.html</link>
+        <guid isPermaLink="true">http://www.bountifulmoneycoach.com/post/2019/05/08/Pick-One-Thing.html</guid>
         <media:title xmlns:media="http://search.yahoo.com/mrss/">ClearWater.jpg</media:title>
         <media:description xmlns:media="http://search.yahoo.com/mrss/">ClearWater.jpg</media:description>
-        <media:content url="http://localhost:4000/assets/images/ClearWater.jpg" xmlns:media="http://search.yahoo.com/mrss/" type="image/jpeg" width="600"/>
-       <media:thumbnail url="http://localhost:4000/assets/images/ClearWater.jpg" xmlns:media="http://search.yahoo.com/mrss/"/>
+        <media:content url="http://www.bountifulmoneycoach.com/assets/images/ClearWater.jpg" xmlns:media="http://search.yahoo.com/mrss/" type="image/jpeg" width="600"/>
+       <media:thumbnail url="http://www.bountifulmoneycoach.com/assets/images/ClearWater.jpg" xmlns:media="http://search.yahoo.com/mrss/"/>
       </item>
     
       <item>
@@ -196,12 +196,12 @@
 &lt;p&gt;I’ve read that a mortgage is so called because the deal dies either when the debt is paid, or when payment fails, which makes some sense, and is a bit less dramatic than the implication. But I don’t think it is an accident that such dramatic language is used to describe a debt. Does the term “death contract” change how you feel about your debts?&lt;/p&gt;
 </description>
         <pubDate>Wed, 24 Apr 2019 00:00:00 -0700</pubDate>
-        <link>http://localhost:4000/post/2019/04/24/The-Origins-Of-The-Word-Mortgage.html</link>
-        <guid isPermaLink="true">http://localhost:4000/post/2019/04/24/The-Origins-Of-The-Word-Mortgage.html</guid>
+        <link>http://www.bountifulmoneycoach.com/post/2019/04/24/The-Origins-Of-The-Word-Mortgage.html</link>
+        <guid isPermaLink="true">http://www.bountifulmoneycoach.com/post/2019/04/24/The-Origins-Of-The-Word-Mortgage.html</guid>
         <media:title xmlns:media="http://search.yahoo.com/mrss/">House.jpg</media:title>
         <media:description xmlns:media="http://search.yahoo.com/mrss/">House.jpg</media:description>
-        <media:content url="http://localhost:4000/assets/images/House.jpg" xmlns:media="http://search.yahoo.com/mrss/" type="image/jpeg" width="600"/>
-       <media:thumbnail url="http://localhost:4000/assets/images/House.jpg" xmlns:media="http://search.yahoo.com/mrss/"/>
+        <media:content url="http://www.bountifulmoneycoach.com/assets/images/House.jpg" xmlns:media="http://search.yahoo.com/mrss/" type="image/jpeg" width="600"/>
+       <media:thumbnail url="http://www.bountifulmoneycoach.com/assets/images/House.jpg" xmlns:media="http://search.yahoo.com/mrss/"/>
       </item>
     
       <item>
@@ -233,12 +233,12 @@
 &lt;p&gt;If you are struggling with this step or any other, I recommend you reach out to a Money Coach. We can help you with the strong emotions surrounding personal finance, and help you gain the tools you need to change how you relate to money. If you’d like to learn more, please reach out to me, I’m here to help!&lt;/p&gt;
 </description>
         <pubDate>Wed, 10 Apr 2019 00:00:00 -0700</pubDate>
-        <link>http://localhost:4000/post/2019/04/10/Are-You-Afraid-To-Look-At-Your-Debt.html</link>
-        <guid isPermaLink="true">http://localhost:4000/post/2019/04/10/Are-You-Afraid-To-Look-At-Your-Debt.html</guid>
+        <link>http://www.bountifulmoneycoach.com/post/2019/04/10/Are-You-Afraid-To-Look-At-Your-Debt.html</link>
+        <guid isPermaLink="true">http://www.bountifulmoneycoach.com/post/2019/04/10/Are-You-Afraid-To-Look-At-Your-Debt.html</guid>
         <media:title xmlns:media="http://search.yahoo.com/mrss/">EmptyPockets.jpg</media:title>
         <media:description xmlns:media="http://search.yahoo.com/mrss/">EmptyPockets.jpg</media:description>
-        <media:content url="http://localhost:4000/assets/images/EmptyPockets.jpg" xmlns:media="http://search.yahoo.com/mrss/" type="image/jpeg" width="600"/>
-       <media:thumbnail url="http://localhost:4000/assets/images/EmptyPockets.jpg" xmlns:media="http://search.yahoo.com/mrss/"/>
+        <media:content url="http://www.bountifulmoneycoach.com/assets/images/EmptyPockets.jpg" xmlns:media="http://search.yahoo.com/mrss/" type="image/jpeg" width="600"/>
+       <media:thumbnail url="http://www.bountifulmoneycoach.com/assets/images/EmptyPockets.jpg" xmlns:media="http://search.yahoo.com/mrss/"/>
       </item>
     
       <item>
@@ -267,12 +267,12 @@
 &lt;p&gt;There is no right or wrong way of paying back family, but taking a look at the practical method, then examining how it will affect everyone involved and making sure there is good communication will make sure you find the best solution for you and your family.&lt;/p&gt;
 </description>
         <pubDate>Wed, 27 Mar 2019 00:00:00 -0700</pubDate>
-        <link>http://localhost:4000/post/2019/03/27/The-Bank-Of-Mom-And-The-Bank-Of-Dad.html</link>
-        <guid isPermaLink="true">http://localhost:4000/post/2019/03/27/The-Bank-Of-Mom-And-The-Bank-Of-Dad.html</guid>
+        <link>http://www.bountifulmoneycoach.com/post/2019/03/27/The-Bank-Of-Mom-And-The-Bank-Of-Dad.html</link>
+        <guid isPermaLink="true">http://www.bountifulmoneycoach.com/post/2019/03/27/The-Bank-Of-Mom-And-The-Bank-Of-Dad.html</guid>
         <media:title xmlns:media="http://search.yahoo.com/mrss/">Parent.jpg</media:title>
         <media:description xmlns:media="http://search.yahoo.com/mrss/">Parent.jpg</media:description>
-        <media:content url="http://localhost:4000/assets/images/Parent.jpg" xmlns:media="http://search.yahoo.com/mrss/" type="image/jpeg" width="600"/>
-       <media:thumbnail url="http://localhost:4000/assets/images/Parent.jpg" xmlns:media="http://search.yahoo.com/mrss/"/>
+        <media:content url="http://www.bountifulmoneycoach.com/assets/images/Parent.jpg" xmlns:media="http://search.yahoo.com/mrss/" type="image/jpeg" width="600"/>
+       <media:thumbnail url="http://www.bountifulmoneycoach.com/assets/images/Parent.jpg" xmlns:media="http://search.yahoo.com/mrss/"/>
       </item>
     
       <item>
@@ -304,17 +304,17 @@ The idea is you work from bottom to top, so buying new is always your last optio
 &lt;p&gt;I hope this article has helped you see that there are often alternatives to using debt, and that debt is not a given in this world. There are many people who live debt-free, and you can, too! One last thing I want to say; being debt-free is &lt;strong&gt;worth it&lt;/strong&gt;. I have never been so stress free in my life. It can be annoying to not always have the nicest, shiniest thing. But the freedom of knowing I don’t owe anyone else anything is so much better than a spangly new phone, or a giant SUV.&lt;/p&gt;
 </description>
         <pubDate>Wed, 13 Mar 2019 00:00:00 -0700</pubDate>
-        <link>http://localhost:4000/post/2019/03/13/Is-Debt-A-Universal-Constant.html</link>
-        <guid isPermaLink="true">http://localhost:4000/post/2019/03/13/Is-Debt-A-Universal-Constant.html</guid>
+        <link>http://www.bountifulmoneycoach.com/post/2019/03/13/Is-Debt-A-Universal-Constant.html</link>
+        <guid isPermaLink="true">http://www.bountifulmoneycoach.com/post/2019/03/13/Is-Debt-A-Universal-Constant.html</guid>
         <media:title xmlns:media="http://search.yahoo.com/mrss/">SpiralStaircase.jpg</media:title>
         <media:description xmlns:media="http://search.yahoo.com/mrss/">SpiralStaircase.jpg</media:description>
-        <media:content url="http://localhost:4000/assets/images/SpiralStaircase.jpg" xmlns:media="http://search.yahoo.com/mrss/" type="image/jpeg" width="600"/>
-       <media:thumbnail url="http://localhost:4000/assets/images/SpiralStaircase.jpg" xmlns:media="http://search.yahoo.com/mrss/"/>
+        <media:content url="http://www.bountifulmoneycoach.com/assets/images/SpiralStaircase.jpg" xmlns:media="http://search.yahoo.com/mrss/" type="image/jpeg" width="600"/>
+       <media:thumbnail url="http://www.bountifulmoneycoach.com/assets/images/SpiralStaircase.jpg" xmlns:media="http://search.yahoo.com/mrss/"/>
       </item>
     
       <item>
         <title>The Three Pillars to a Healthy Relationship with Money</title>
-        <description>&lt;p&gt;Last post, I talked about &lt;a href=&quot;http://localhost:4000/post/2019/01/30/Three-Symptoms-Of-Money-Issues.html&quot;&gt;the three symptoms of money issues&lt;/a&gt;. If you think you have a problem with your money, the next question becomes, what can you do about it? So today I’d like to talk a little about the three pillars to concentrate on when healing your relationship with money. This will give you a good base to start understanding the steps you’ll need to take.&lt;/p&gt;
+        <description>&lt;p&gt;Last post, I talked about &lt;a href=&quot;http://www.bountifulmoneycoach.com/post/2019/01/30/Three-Symptoms-Of-Money-Issues.html&quot;&gt;the three symptoms of money issues&lt;/a&gt;. If you think you have a problem with your money, the next question becomes, what can you do about it? So today I’d like to talk a little about the three pillars to concentrate on when healing your relationship with money. This will give you a good base to start understanding the steps you’ll need to take.&lt;/p&gt;
 
 &lt;!--more--&gt;
 
@@ -347,12 +347,12 @@ And of course, there are thousands more stories you could be telling yourself. S
 &lt;p&gt;As you work through these three pillars, you may start seeing that the three pillars are interconnected. Working on your emotions may open up techniques or tools that would have previously made no sense. Or learning a new tool may make it easier for you to develop better habits. So as you can see, working on your relationship with money isn’t a linear thing, and there is no quick fix. It, like many things, are made up of a series of baby steps that lead you to your goal.&lt;/p&gt;
 </description>
         <pubDate>Wed, 27 Feb 2019 00:00:00 -0800</pubDate>
-        <link>http://localhost:4000/post/2019/02/27/Three-Pillars-To-A-Healthy-Relationship-With-Money.html</link>
-        <guid isPermaLink="true">http://localhost:4000/post/2019/02/27/Three-Pillars-To-A-Healthy-Relationship-With-Money.html</guid>
+        <link>http://www.bountifulmoneycoach.com/post/2019/02/27/Three-Pillars-To-A-Healthy-Relationship-With-Money.html</link>
+        <guid isPermaLink="true">http://www.bountifulmoneycoach.com/post/2019/02/27/Three-Pillars-To-A-Healthy-Relationship-With-Money.html</guid>
         <media:title xmlns:media="http://search.yahoo.com/mrss/">columns.jpg</media:title>
         <media:description xmlns:media="http://search.yahoo.com/mrss/">columns.jpg</media:description>
-        <media:content url="http://localhost:4000/assets/images/columns.jpg" xmlns:media="http://search.yahoo.com/mrss/" type="image/jpeg" width="600"/>
-       <media:thumbnail url="http://localhost:4000/assets/images/columns.jpg" xmlns:media="http://search.yahoo.com/mrss/"/>
+        <media:content url="http://www.bountifulmoneycoach.com/assets/images/columns.jpg" xmlns:media="http://search.yahoo.com/mrss/" type="image/jpeg" width="600"/>
+       <media:thumbnail url="http://www.bountifulmoneycoach.com/assets/images/columns.jpg" xmlns:media="http://search.yahoo.com/mrss/"/>
       </item>
     
       <item>
@@ -403,12 +403,12 @@ And of course, there are thousands more stories you could be telling yourself. S
 &lt;p&gt;Now that you have a stabilized income, starting to budget your personal expenses becomes so much easier. You’ll find that you can plan for the future much easier, and you won’t have those horrible months where you have to tighten your belt to almost nothing, or worse, start taking on debt. Instead, you will have a smooth, dependable income, every month!&lt;/p&gt;
 </description>
         <pubDate>Tue, 12 Feb 2019 00:00:00 -0800</pubDate>
-        <link>http://localhost:4000/post/2019/02/12/Five-Steps-To-Thrive-With-Variable-Income.html</link>
-        <guid isPermaLink="true">http://localhost:4000/post/2019/02/12/Five-Steps-To-Thrive-With-Variable-Income.html</guid>
+        <link>http://www.bountifulmoneycoach.com/post/2019/02/12/Five-Steps-To-Thrive-With-Variable-Income.html</link>
+        <guid isPermaLink="true">http://www.bountifulmoneycoach.com/post/2019/02/12/Five-Steps-To-Thrive-With-Variable-Income.html</guid>
         <media:title xmlns:media="http://search.yahoo.com/mrss/">MoneyInAJar.jpg</media:title>
         <media:description xmlns:media="http://search.yahoo.com/mrss/">MoneyInAJar.jpg</media:description>
-        <media:content url="http://localhost:4000/assets/images/MoneyInAJar.jpg" xmlns:media="http://search.yahoo.com/mrss/" type="image/jpeg" width="600"/>
-       <media:thumbnail url="http://localhost:4000/assets/images/MoneyInAJar.jpg" xmlns:media="http://search.yahoo.com/mrss/"/>
+        <media:content url="http://www.bountifulmoneycoach.com/assets/images/MoneyInAJar.jpg" xmlns:media="http://search.yahoo.com/mrss/" type="image/jpeg" width="600"/>
+       <media:thumbnail url="http://www.bountifulmoneycoach.com/assets/images/MoneyInAJar.jpg" xmlns:media="http://search.yahoo.com/mrss/"/>
       </item>
     
       <item>
@@ -440,12 +440,12 @@ And of course, there are thousands more stories you could be telling yourself. S
 &lt;p&gt;The first step is knowing you want to improve how you work with money! Now that you know, you can narrow it down a bit. Do you need to focus on debt? Do you want to stop compulsive spending? Do you want to let go of guilt and shame and have a healthy relationship with money? Once you know what the first step is, you can start working on healing your relationship with money, one day at a time. In an upcoming article, I’m going to talk about my philosophy for a healthy relationship with money. Stay tuned!&lt;/p&gt;
 </description>
         <pubDate>Wed, 30 Jan 2019 00:00:00 -0800</pubDate>
-        <link>http://localhost:4000/post/2019/01/30/Three-Symptoms-Of-Money-Issues.html</link>
-        <guid isPermaLink="true">http://localhost:4000/post/2019/01/30/Three-Symptoms-Of-Money-Issues.html</guid>
+        <link>http://www.bountifulmoneycoach.com/post/2019/01/30/Three-Symptoms-Of-Money-Issues.html</link>
+        <guid isPermaLink="true">http://www.bountifulmoneycoach.com/post/2019/01/30/Three-Symptoms-Of-Money-Issues.html</guid>
         <media:title xmlns:media="http://search.yahoo.com/mrss/">WalletSqueeze.jpg</media:title>
         <media:description xmlns:media="http://search.yahoo.com/mrss/">WalletSqueeze.jpg</media:description>
-        <media:content url="http://localhost:4000/assets/images/WalletSqueeze.jpg" xmlns:media="http://search.yahoo.com/mrss/" type="image/jpeg" width="600"/>
-       <media:thumbnail url="http://localhost:4000/assets/images/WalletSqueeze.jpg" xmlns:media="http://search.yahoo.com/mrss/"/>
+        <media:content url="http://www.bountifulmoneycoach.com/assets/images/WalletSqueeze.jpg" xmlns:media="http://search.yahoo.com/mrss/" type="image/jpeg" width="600"/>
+       <media:thumbnail url="http://www.bountifulmoneycoach.com/assets/images/WalletSqueeze.jpg" xmlns:media="http://search.yahoo.com/mrss/"/>
       </item>
     
       <item>
@@ -471,12 +471,12 @@ And of course, there are thousands more stories you could be telling yourself. S
 &lt;p&gt;We have all felt overwhelm in our lives, especially around finances. The most important step to releasing that feeling is to start getting true clarity on your situation. Remember, managing your money is not about guilt and shame for the past. It is about starting from right now, and finding clarity and control. You can do this!&lt;/p&gt;
 </description>
         <pubDate>Wed, 16 Jan 2019 00:00:00 -0800</pubDate>
-        <link>http://localhost:4000/post/2019/01/16/Fight-The-Overwhelm.html</link>
-        <guid isPermaLink="true">http://localhost:4000/post/2019/01/16/Fight-The-Overwhelm.html</guid>
+        <link>http://www.bountifulmoneycoach.com/post/2019/01/16/Fight-The-Overwhelm.html</link>
+        <guid isPermaLink="true">http://www.bountifulmoneycoach.com/post/2019/01/16/Fight-The-Overwhelm.html</guid>
         <media:title xmlns:media="http://search.yahoo.com/mrss/">Stacks.jpg</media:title>
         <media:description xmlns:media="http://search.yahoo.com/mrss/">Stacks.jpg</media:description>
-        <media:content url="http://localhost:4000/assets/images/Stacks.jpg" xmlns:media="http://search.yahoo.com/mrss/" type="image/jpeg" width="600"/>
-       <media:thumbnail url="http://localhost:4000/assets/images/Stacks.jpg" xmlns:media="http://search.yahoo.com/mrss/"/>
+        <media:content url="http://www.bountifulmoneycoach.com/assets/images/Stacks.jpg" xmlns:media="http://search.yahoo.com/mrss/" type="image/jpeg" width="600"/>
+       <media:thumbnail url="http://www.bountifulmoneycoach.com/assets/images/Stacks.jpg" xmlns:media="http://search.yahoo.com/mrss/"/>
       </item>
     
       <item>
@@ -488,7 +488,7 @@ And of course, there are thousands more stories you could be telling yourself. S
 &lt;p&gt;Here is my list of financial goals for this last year:&lt;/p&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;Be making enough money with my own business to sustain myself at my &lt;a href=&quot;http://localhost:4000/post/2017/12/13/Bare-Bones-Number.html&quot;&gt;Bare Bones Number&lt;/a&gt;.&lt;/li&gt;
+  &lt;li&gt;Be making enough money with my own business to sustain myself at my &lt;a href=&quot;http://www.bountifulmoneycoach.com/post/2017/12/13/Bare-Bones-Number.html&quot;&gt;Bare Bones Number&lt;/a&gt;.&lt;/li&gt;
   &lt;li&gt;And if I haven’t achieved that, have a part-time in a related field to continue growing and expanding professionally.&lt;/li&gt;
   &lt;li&gt;Stay debt-free!&lt;/li&gt;
   &lt;li&gt;Contribute to my retirement funds&lt;/li&gt;
@@ -537,12 +537,12 @@ And of course, there are thousands more stories you could be telling yourself. S
 &lt;p&gt;What does your 2018 review look like? And what goals have you set for 2019?&lt;/p&gt;
 </description>
         <pubDate>Wed, 02 Jan 2019 00:00:00 -0800</pubDate>
-        <link>http://localhost:4000/post/2019/01/02/Yearly-Review.html</link>
-        <guid isPermaLink="true">http://localhost:4000/post/2019/01/02/Yearly-Review.html</guid>
+        <link>http://www.bountifulmoneycoach.com/post/2019/01/02/Yearly-Review.html</link>
+        <guid isPermaLink="true">http://www.bountifulmoneycoach.com/post/2019/01/02/Yearly-Review.html</guid>
         <media:title xmlns:media="http://search.yahoo.com/mrss/">Goals.jpg</media:title>
         <media:description xmlns:media="http://search.yahoo.com/mrss/">Goals.jpg</media:description>
-        <media:content url="http://localhost:4000/assets/images/Goals.jpg" xmlns:media="http://search.yahoo.com/mrss/" type="image/jpeg" width="600"/>
-       <media:thumbnail url="http://localhost:4000/assets/images/Goals.jpg" xmlns:media="http://search.yahoo.com/mrss/"/>
+        <media:content url="http://www.bountifulmoneycoach.com/assets/images/Goals.jpg" xmlns:media="http://search.yahoo.com/mrss/" type="image/jpeg" width="600"/>
+       <media:thumbnail url="http://www.bountifulmoneycoach.com/assets/images/Goals.jpg" xmlns:media="http://search.yahoo.com/mrss/"/>
       </item>
     
       <item>
@@ -566,12 +566,12 @@ And of course, there are thousands more stories you could be telling yourself. S
 &lt;p&gt;&lt;strong&gt;Celebrate the wins, but also relish the complexity and beauty of a life well lived!&lt;/strong&gt;&lt;/p&gt;
 </description>
         <pubDate>Wed, 19 Dec 2018 00:00:00 -0800</pubDate>
-        <link>http://localhost:4000/post/2018/12/19/Start-Your-New-Year-Ready.html</link>
-        <guid isPermaLink="true">http://localhost:4000/post/2018/12/19/Start-Your-New-Year-Ready.html</guid>
+        <link>http://www.bountifulmoneycoach.com/post/2018/12/19/Start-Your-New-Year-Ready.html</link>
+        <guid isPermaLink="true">http://www.bountifulmoneycoach.com/post/2018/12/19/Start-Your-New-Year-Ready.html</guid>
         <media:title xmlns:media="http://search.yahoo.com/mrss/">BarleySunrise.jpg</media:title>
         <media:description xmlns:media="http://search.yahoo.com/mrss/">BarleySunrise.jpg</media:description>
-        <media:content url="http://localhost:4000/assets/images/BarleySunrise.jpg" xmlns:media="http://search.yahoo.com/mrss/" type="image/jpeg" width="600"/>
-       <media:thumbnail url="http://localhost:4000/assets/images/BarleySunrise.jpg" xmlns:media="http://search.yahoo.com/mrss/"/>
+        <media:content url="http://www.bountifulmoneycoach.com/assets/images/BarleySunrise.jpg" xmlns:media="http://search.yahoo.com/mrss/" type="image/jpeg" width="600"/>
+       <media:thumbnail url="http://www.bountifulmoneycoach.com/assets/images/BarleySunrise.jpg" xmlns:media="http://search.yahoo.com/mrss/"/>
       </item>
     
       <item>
@@ -599,12 +599,12 @@ And of course, there are thousands more stories you could be telling yourself. S
 &lt;p&gt;I also recommend making a money accountability buddy. Find someone that has a similar philosophy, and ask them if you could both talk about your money goals, and use each other for accountability. Get together for coffee once a month with them, and talk about what is working and what isn’t working in your money lives. Practicing with just one person you trust can help you both so much!&lt;/p&gt;
 </description>
         <pubDate>Wed, 05 Dec 2018 00:00:00 -0800</pubDate>
-        <link>http://localhost:4000/post/2018/12/05/Money-Taboo.html</link>
-        <guid isPermaLink="true">http://localhost:4000/post/2018/12/05/Money-Taboo.html</guid>
+        <link>http://www.bountifulmoneycoach.com/post/2018/12/05/Money-Taboo.html</link>
+        <guid isPermaLink="true">http://www.bountifulmoneycoach.com/post/2018/12/05/Money-Taboo.html</guid>
         <media:title xmlns:media="http://search.yahoo.com/mrss/">TopSecret.jpg</media:title>
         <media:description xmlns:media="http://search.yahoo.com/mrss/">TopSecret.jpg</media:description>
-        <media:content url="http://localhost:4000/assets/images/TopSecret.jpg" xmlns:media="http://search.yahoo.com/mrss/" type="image/jpeg" width="600"/>
-       <media:thumbnail url="http://localhost:4000/assets/images/TopSecret.jpg" xmlns:media="http://search.yahoo.com/mrss/"/>
+        <media:content url="http://www.bountifulmoneycoach.com/assets/images/TopSecret.jpg" xmlns:media="http://search.yahoo.com/mrss/" type="image/jpeg" width="600"/>
+       <media:thumbnail url="http://www.bountifulmoneycoach.com/assets/images/TopSecret.jpg" xmlns:media="http://search.yahoo.com/mrss/"/>
       </item>
     
       <item>
@@ -618,12 +618,12 @@ And of course, there are thousands more stories you could be telling yourself. S
 &lt;p&gt;So I’d like to suggest a mindset shift. Instead of budgeting, let’s talk about holding up our money mirror. When we hold up our money mirror, we are simply asking the question: “Does our spending align with our values?” It isn’t about guilt, or about “I should…” It is simply “Is this close to my values, or far away from them?” This simple shift can completely revolutionize how we think about money, and about the act budgeting.&lt;/p&gt;
 </description>
         <pubDate>Wed, 21 Nov 2018 00:00:00 -0800</pubDate>
-        <link>http://localhost:4000/post/2018/11/21/Stop-Budgeting.html</link>
-        <guid isPermaLink="true">http://localhost:4000/post/2018/11/21/Stop-Budgeting.html</guid>
+        <link>http://www.bountifulmoneycoach.com/post/2018/11/21/Stop-Budgeting.html</link>
+        <guid isPermaLink="true">http://www.bountifulmoneycoach.com/post/2018/11/21/Stop-Budgeting.html</guid>
         <media:title xmlns:media="http://search.yahoo.com/mrss/">Budget.jpg</media:title>
         <media:description xmlns:media="http://search.yahoo.com/mrss/">Budget.jpg</media:description>
-        <media:content url="http://localhost:4000/assets/images/Budget.jpg" xmlns:media="http://search.yahoo.com/mrss/" type="image/jpeg" width="600"/>
-       <media:thumbnail url="http://localhost:4000/assets/images/Budget.jpg" xmlns:media="http://search.yahoo.com/mrss/"/>
+        <media:content url="http://www.bountifulmoneycoach.com/assets/images/Budget.jpg" xmlns:media="http://search.yahoo.com/mrss/" type="image/jpeg" width="600"/>
+       <media:thumbnail url="http://www.bountifulmoneycoach.com/assets/images/Budget.jpg" xmlns:media="http://search.yahoo.com/mrss/"/>
       </item>
     
       <item>
@@ -633,12 +633,12 @@ And of course, there are thousands more stories you could be telling yourself. S
 &lt;p&gt;&lt;a href=&quot;https://www.meetup.com/Money-Empowerment-Monthly/&quot;&gt;Money Empowerment Monthly&lt;/a&gt; is designed to be an open and safe environment for people to get together and help each other change their relationship with money. If you are in Portland or know someone who is, I would like to invite you to the next meeting November 28th at 5:30pm at CENTRL Eastside. It is $15 if you sign up early, and $20 at the door!&lt;/p&gt;
 </description>
         <pubDate>Tue, 30 Oct 2018 00:00:00 -0700</pubDate>
-        <link>http://localhost:4000/post/2018/10/30/Join-The-New-Money-Empowerment-Tribe.html</link>
-        <guid isPermaLink="true">http://localhost:4000/post/2018/10/30/Join-The-New-Money-Empowerment-Tribe.html</guid>
+        <link>http://www.bountifulmoneycoach.com/post/2018/10/30/Join-The-New-Money-Empowerment-Tribe.html</link>
+        <guid isPermaLink="true">http://www.bountifulmoneycoach.com/post/2018/10/30/Join-The-New-Money-Empowerment-Tribe.html</guid>
         <media:title xmlns:media="http://search.yahoo.com/mrss/">SunriseTea.jpg</media:title>
         <media:description xmlns:media="http://search.yahoo.com/mrss/">SunriseTea.jpg</media:description>
-        <media:content url="http://localhost:4000/assets/images/SunriseTea.jpg" xmlns:media="http://search.yahoo.com/mrss/" type="image/jpeg" width="600"/>
-       <media:thumbnail url="http://localhost:4000/assets/images/SunriseTea.jpg" xmlns:media="http://search.yahoo.com/mrss/"/>
+        <media:content url="http://www.bountifulmoneycoach.com/assets/images/SunriseTea.jpg" xmlns:media="http://search.yahoo.com/mrss/" type="image/jpeg" width="600"/>
+       <media:thumbnail url="http://www.bountifulmoneycoach.com/assets/images/SunriseTea.jpg" xmlns:media="http://search.yahoo.com/mrss/"/>
       </item>
     
       <item>
@@ -654,12 +654,12 @@ And of course, there are thousands more stories you could be telling yourself. S
 &lt;p&gt;But I want to take it one step further. I want to create a community of people that can support each other in their journey to a healthier relationship with money. So I’ve created a new Meetup group called &lt;a href=&quot;https://www.meetup.com/Money-Empowerment-Monthly/&quot;&gt;Money Empowerment Monthly&lt;/a&gt; designed to be an open and safe environment for people to get together and help each other change their relationship with money. If you are in Portland or know someone who is, I would like to invite you to the inaugural meeting this October 24th (one week from now!) at 5:30pm at CENTRL Eastside. It is $15 if you sign up early, and $20 at the door!&lt;/p&gt;
 </description>
         <pubDate>Tue, 16 Oct 2018 00:00:00 -0700</pubDate>
-        <link>http://localhost:4000/post/2018/10/16/Strength-From-Your-Tribe.html</link>
-        <guid isPermaLink="true">http://localhost:4000/post/2018/10/16/Strength-From-Your-Tribe.html</guid>
+        <link>http://www.bountifulmoneycoach.com/post/2018/10/16/Strength-From-Your-Tribe.html</link>
+        <guid isPermaLink="true">http://www.bountifulmoneycoach.com/post/2018/10/16/Strength-From-Your-Tribe.html</guid>
         <media:title xmlns:media="http://search.yahoo.com/mrss/">Soccer.jpg</media:title>
         <media:description xmlns:media="http://search.yahoo.com/mrss/">Soccer.jpg</media:description>
-        <media:content url="http://localhost:4000/assets/images/Soccer.jpg" xmlns:media="http://search.yahoo.com/mrss/" type="image/jpeg" width="600"/>
-       <media:thumbnail url="http://localhost:4000/assets/images/Soccer.jpg" xmlns:media="http://search.yahoo.com/mrss/"/>
+        <media:content url="http://www.bountifulmoneycoach.com/assets/images/Soccer.jpg" xmlns:media="http://search.yahoo.com/mrss/" type="image/jpeg" width="600"/>
+       <media:thumbnail url="http://www.bountifulmoneycoach.com/assets/images/Soccer.jpg" xmlns:media="http://search.yahoo.com/mrss/"/>
       </item>
     
       <item>
@@ -675,12 +675,12 @@ And of course, there are thousands more stories you could be telling yourself. S
 &lt;p&gt;So don’t put it off: “I’ll start budgeting when I finally have a Normal Month.” Instead commit: “I’ll start budgeting now, so I never have to be caught flat-footed by the wild, crazy wonderful swings in life!”&lt;/p&gt;
 </description>
         <pubDate>Thu, 24 May 2018 00:00:00 -0700</pubDate>
-        <link>http://localhost:4000/post/2018/05/24/Normal-Month.html</link>
-        <guid isPermaLink="true">http://localhost:4000/post/2018/05/24/Normal-Month.html</guid>
+        <link>http://www.bountifulmoneycoach.com/post/2018/05/24/Normal-Month.html</link>
+        <guid isPermaLink="true">http://www.bountifulmoneycoach.com/post/2018/05/24/Normal-Month.html</guid>
         <media:title xmlns:media="http://search.yahoo.com/mrss/">Adventure.jpg</media:title>
         <media:description xmlns:media="http://search.yahoo.com/mrss/">Adventure.jpg</media:description>
-        <media:content url="http://localhost:4000/assets/images/Adventure.jpg" xmlns:media="http://search.yahoo.com/mrss/" type="image/jpeg" width="600"/>
-       <media:thumbnail url="http://localhost:4000/assets/images/Adventure.jpg" xmlns:media="http://search.yahoo.com/mrss/"/>
+        <media:content url="http://www.bountifulmoneycoach.com/assets/images/Adventure.jpg" xmlns:media="http://search.yahoo.com/mrss/" type="image/jpeg" width="600"/>
+       <media:thumbnail url="http://www.bountifulmoneycoach.com/assets/images/Adventure.jpg" xmlns:media="http://search.yahoo.com/mrss/"/>
       </item>
     
       <item>
@@ -717,30 +717,30 @@ First, it is important to remember, money in and of itself, is not positive OR n
 &lt;p&gt;When you choose your affirmations, choose phrases that you can deeply believe. If you are not ready for an affirmation, or it is too “out there”, your subconscious will reject it. So if you need to modify any of these so they are believable to you, do that, and once you are comfortable with them, try expanding them.&lt;/p&gt;
 </description>
         <pubDate>Wed, 02 May 2018 00:00:00 -0700</pubDate>
-        <link>http://localhost:4000/post/2018/05/02/Receiving-Money-Into-Your-Life.html</link>
-        <guid isPermaLink="true">http://localhost:4000/post/2018/05/02/Receiving-Money-Into-Your-Life.html</guid>
+        <link>http://www.bountifulmoneycoach.com/post/2018/05/02/Receiving-Money-Into-Your-Life.html</link>
+        <guid isPermaLink="true">http://www.bountifulmoneycoach.com/post/2018/05/02/Receiving-Money-Into-Your-Life.html</guid>
         <media:title xmlns:media="http://search.yahoo.com/mrss/">Receiving.jpg</media:title>
         <media:description xmlns:media="http://search.yahoo.com/mrss/">Receiving.jpg</media:description>
-        <media:content url="http://localhost:4000/assets/images/Receiving.jpg" xmlns:media="http://search.yahoo.com/mrss/" type="image/jpeg" width="600"/>
-       <media:thumbnail url="http://localhost:4000/assets/images/Receiving.jpg" xmlns:media="http://search.yahoo.com/mrss/"/>
+        <media:content url="http://www.bountifulmoneycoach.com/assets/images/Receiving.jpg" xmlns:media="http://search.yahoo.com/mrss/" type="image/jpeg" width="600"/>
+       <media:thumbnail url="http://www.bountifulmoneycoach.com/assets/images/Receiving.jpg" xmlns:media="http://search.yahoo.com/mrss/"/>
       </item>
     
       <item>
         <title>Aging Your Money</title>
         <description>&lt;p&gt;It has been so long since I have written on here! I’m glad to say, I’m back, and this will be the final post for the YNAB Series. So let’s get started on the last YNAB Rule!&lt;/p&gt;
 
-&lt;p&gt;If you read the &lt;a href=&quot;http://localhost:4000/post/2018/02/07/Make-Your-Budget-Fit-Your-Life.html&quot;&gt;article “Make Your Budget Fit Your Life”&lt;/a&gt;, you’re beginning to see that the best budget is one that flexes with your life. We want a budget that works with us, rather then making us feel bad for not fitting into a rigid box. So what is the last rule? And what does it mean?&lt;/p&gt;
+&lt;p&gt;If you read the &lt;a href=&quot;http://www.bountifulmoneycoach.com/post/2018/02/07/Make-Your-Budget-Fit-Your-Life.html&quot;&gt;article “Make Your Budget Fit Your Life”&lt;/a&gt;, you’re beginning to see that the best budget is one that flexes with your life. We want a budget that works with us, rather then making us feel bad for not fitting into a rigid box. So what is the last rule? And what does it mean?&lt;/p&gt;
 
 &lt;!--more--&gt;
 
 &lt;p&gt;You can read the rest of the series here:&lt;/p&gt;
 
 &lt;ol&gt;
-  &lt;li&gt;&lt;a href=&quot;http://localhost:4000/post/2018/01/17/YNAB.html&quot;&gt;What is YNAB&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://localhost:4000/post/2018/01/24/Give-Every-Dollar-A-Job.html&quot;&gt;What is the Purpose of Your Money?&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://localhost:4000/post/2018/01/31/What-Are-True-Expenses.html&quot;&gt;What Are True Expenses?&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://localhost:4000/post/2018/02/07/Make-Your-Budget-Fit-Your-Life.html&quot;&gt;Make Your Budget Fit Your Life (not the other way around)&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://localhost:4000/post/2018/04/26/Aging-Your-Money.html&quot;&gt;Aging Your Money&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.bountifulmoneycoach.com/post/2018/01/17/YNAB.html&quot;&gt;What is YNAB&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.bountifulmoneycoach.com/post/2018/01/24/Give-Every-Dollar-A-Job.html&quot;&gt;What is the Purpose of Your Money?&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.bountifulmoneycoach.com/post/2018/01/31/What-Are-True-Expenses.html&quot;&gt;What Are True Expenses?&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.bountifulmoneycoach.com/post/2018/02/07/Make-Your-Budget-Fit-Your-Life.html&quot;&gt;Make Your Budget Fit Your Life (not the other way around)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.bountifulmoneycoach.com/post/2018/04/26/Aging-Your-Money.html&quot;&gt;Aging Your Money&lt;/a&gt;&lt;/li&gt;
 &lt;/ol&gt;
 
 &lt;p&gt;OK, we’ve covered the three most fundamental rules:&lt;/p&gt;
@@ -753,7 +753,7 @@ First, it is important to remember, money in and of itself, is not positive OR n
 &lt;h1 id=&quot;age-your-money&quot;&gt;Age Your Money&lt;/h1&gt;
 &lt;p&gt;The last rule is “Age Your Money.” You can find the age of your money in the upper-right hand corner of the screen in YNAB:&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/images/AgeOfMoney.png&quot; alt=&quot;Age Of Money Screenshot&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://www.bountifulmoneycoach.com/assets/images/AgeOfMoney.png&quot; alt=&quot;Age Of Money Screenshot&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Aging Your Money means that we want to hold onto money for longer and longer periods of time. If you are living paycheck to paycheck, when you spend a dollar the day you got paid, that dollar is considered one day old. But if you hold onto that dollar until the next day, it will be two days old, and so on. So when we talk about aging your money, we are saying that we are living on dollars that we earned some time ago. And old money is good, because it means that we have savings, and are breaking out of the paycheck-to-paycheck cycle.&lt;/p&gt;
 
@@ -765,17 +765,17 @@ First, it is important to remember, money in and of itself, is not positive OR n
 &lt;p&gt;So there you have it! The four YNAB rules, all there in black and white! All that is left is to &lt;a href=&quot;http://www.ynab.com&quot;&gt;Sign up for the one month YNAB Trial&lt;/a&gt;, or contact me at &lt;a href=&quot;mailto:cecilia@bountifulmoneyllc.com&quot; target=&quot;&quot;&gt;cecilia@bountifulmoneyllc.com&lt;/a&gt; for more information and to set up an initial strategy session.&lt;/p&gt;
 </description>
         <pubDate>Thu, 26 Apr 2018 00:00:00 -0700</pubDate>
-        <link>http://localhost:4000/post/2018/04/26/Aging-Your-Money.html</link>
-        <guid isPermaLink="true">http://localhost:4000/post/2018/04/26/Aging-Your-Money.html</guid>
+        <link>http://www.bountifulmoneycoach.com/post/2018/04/26/Aging-Your-Money.html</link>
+        <guid isPermaLink="true">http://www.bountifulmoneycoach.com/post/2018/04/26/Aging-Your-Money.html</guid>
         <media:title xmlns:media="http://search.yahoo.com/mrss/">OldMoney.jpg</media:title>
         <media:description xmlns:media="http://search.yahoo.com/mrss/">OldMoney.jpg</media:description>
-        <media:content url="http://localhost:4000/assets/images/OldMoney.jpg" xmlns:media="http://search.yahoo.com/mrss/" type="image/jpeg" width="600"/>
-       <media:thumbnail url="http://localhost:4000/assets/images/OldMoney.jpg" xmlns:media="http://search.yahoo.com/mrss/"/>
+        <media:content url="http://www.bountifulmoneycoach.com/assets/images/OldMoney.jpg" xmlns:media="http://search.yahoo.com/mrss/" type="image/jpeg" width="600"/>
+       <media:thumbnail url="http://www.bountifulmoneycoach.com/assets/images/OldMoney.jpg" xmlns:media="http://search.yahoo.com/mrss/"/>
       </item>
     
       <item>
         <title>Make Your Budget Fit Your Life</title>
-        <description>&lt;p&gt;If you’ve read the &lt;a href=&quot;http://localhost:4000/post/2018/01/31/What-Are-True-Expenses.html&quot;&gt;article last week&lt;/a&gt;, you know how to why it is important to embrace your true expenses, and what they are.&lt;/p&gt;
+        <description>&lt;p&gt;If you’ve read the &lt;a href=&quot;http://www.bountifulmoneycoach.com/post/2018/01/31/What-Are-True-Expenses.html&quot;&gt;article last week&lt;/a&gt;, you know how to why it is important to embrace your true expenses, and what they are.&lt;/p&gt;
 
 &lt;p&gt;Once we know about Giving Every Dollar a Job, and Embracing our True Expenses, the next rule is Roll With the Punches, which is my favorite rule, because it is what transforms YNAB from an expense tracker to a guilt and shame free budget planner, and allows your budget to fit your life, instead of trying to fit your life to your budget.&lt;/p&gt;
 
@@ -784,18 +784,18 @@ First, it is important to remember, money in and of itself, is not positive OR n
 &lt;p&gt;You can read the rest of the series here:&lt;/p&gt;
 
 &lt;ol&gt;
-  &lt;li&gt;&lt;a href=&quot;http://localhost:4000/post/2018/01/17/YNAB.html&quot;&gt;What is YNAB&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://localhost:4000/post/2018/01/24/Give-Every-Dollar-A-Job.html&quot;&gt;What is the Purpose of Your Money?&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://localhost:4000/post/2018/01/31/What-Are-True-Expenses.html&quot;&gt;What Are True Expenses?&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://localhost:4000/post/2018/02/07/Make-Your-Budget-Fit-Your-Life.html&quot;&gt;Make Your Budget Fit Your Life (not the other way around)&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://localhost:4000/post/2018/04/26/Aging-Your-Money.html&quot;&gt;Aging Your Money&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.bountifulmoneycoach.com/post/2018/01/17/YNAB.html&quot;&gt;What is YNAB&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.bountifulmoneycoach.com/post/2018/01/24/Give-Every-Dollar-A-Job.html&quot;&gt;What is the Purpose of Your Money?&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.bountifulmoneycoach.com/post/2018/01/31/What-Are-True-Expenses.html&quot;&gt;What Are True Expenses?&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.bountifulmoneycoach.com/post/2018/02/07/Make-Your-Budget-Fit-Your-Life.html&quot;&gt;Make Your Budget Fit Your Life (not the other way around)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.bountifulmoneycoach.com/post/2018/04/26/Aging-Your-Money.html&quot;&gt;Aging Your Money&lt;/a&gt;&lt;/li&gt;
 &lt;/ol&gt;
 
 &lt;p&gt;How does it do that? Well, with the first two rules, we are creating our budget plan. We know we need to plan for every dollar (Rule 1) and we need to plan for every expenses (Rule 2). But what do we do when life doesn’t go according to plan? Do we throw out the plan? Or do we adjust the plan to work with our new situation?&lt;/p&gt;
 
 &lt;p&gt;Of course we work with our new situation. Most budgeting techniques tend to fall down on this part. You might make the most perfect plan at the start of the month, but if it isn’t easy to adjust the plan as you go along, you’ll find yourself gradually abandoning the plan. And you might even feel bad, like somehow you’re “bad at budgeting”. But that’s not true. Your budget is failing you, not the other way around.&lt;/p&gt;
 
-&lt;p&gt;So YNAB has “Roll With the Punches”. Lets say your brother calls and says he’s unexpectedly going to be in town this weekend, could he come see you? Of course you want to have some fun with him, you don’t get to see him very often. So you plan to cook a nice dinner, and maybe you decide to surprise him with tickets to the local symphony. Maybe you have the money for the entertainment in your budget, but this special dinner is going to cost you $50 (you both sure like steak!), money that will take you over on your grocery budget. What should you do? You can just let the category go over $50, but that means that you can’t be sure you’ll have money available for your other categories (see the post on &lt;a href=&quot;http://localhost:4000/post/2017/11/22/Envelope-Budgeting.html&quot;&gt;envelope budgeting&lt;/a&gt; for more information). So we need to find that money from somewhere else in our budget. Maybe we reduce our savings on one of our savings categories, maybe Vacations or something like that. Or we might reduce the amount in one of our variable categories, like Entertainment, or Personal Care, or something like that. Wherever we might have money that you aren’t prioritizing as highly as this time with your brother.&lt;/p&gt;
+&lt;p&gt;So YNAB has “Roll With the Punches”. Lets say your brother calls and says he’s unexpectedly going to be in town this weekend, could he come see you? Of course you want to have some fun with him, you don’t get to see him very often. So you plan to cook a nice dinner, and maybe you decide to surprise him with tickets to the local symphony. Maybe you have the money for the entertainment in your budget, but this special dinner is going to cost you $50 (you both sure like steak!), money that will take you over on your grocery budget. What should you do? You can just let the category go over $50, but that means that you can’t be sure you’ll have money available for your other categories (see the post on &lt;a href=&quot;http://www.bountifulmoneycoach.com/post/2017/11/22/Envelope-Budgeting.html&quot;&gt;envelope budgeting&lt;/a&gt; for more information). So we need to find that money from somewhere else in our budget. Maybe we reduce our savings on one of our savings categories, maybe Vacations or something like that. Or we might reduce the amount in one of our variable categories, like Entertainment, or Personal Care, or something like that. Wherever we might have money that you aren’t prioritizing as highly as this time with your brother.&lt;/p&gt;
 
 &lt;p&gt;And that is the key to Rolling With the Punches – What are your priorities &lt;em&gt;right now&lt;/em&gt;? Do you want the manicure or the steak dinner more? Do you need to pay your electricity or save for emergencies? We make these choices all the time, but YNAB gives you a very clear way to see those choices, while making sure we don’t get into debt trying to do &lt;em&gt;everything&lt;/em&gt;. There are no right or wrong answers to “what is my highest priority”? There’s only the answer that aligns most closely with your values and goals.&lt;/p&gt;
 
@@ -803,17 +803,17 @@ First, it is important to remember, money in and of itself, is not positive OR n
 &lt;p&gt;I want to leave you with one last thought about Rule 3. Sometimes when you’re just starting out, you might think the goal is to stop needing to Roll With the Punches. You &lt;em&gt;do&lt;/em&gt; want to stop having to move things around due to poor decision-making, or emotional spending. But I’m here to tell you that I’ve been working with YNAB for four years, and I have used Rule 3 every single month I’ve used it. You want that flexibility to change our budget, because if it is inflexible, it won’t change with your changing circumstances, which means you may abandon your budget. Budgeting isn’t here to strangle you, or tell you what you “should” do. It’s here to help you prioritize your spending. And Rule 3 helps you do it.&lt;/p&gt;
 </description>
         <pubDate>Wed, 07 Feb 2018 00:00:00 -0800</pubDate>
-        <link>http://localhost:4000/post/2018/02/07/Make-Your-Budget-Fit-Your-Life.html</link>
-        <guid isPermaLink="true">http://localhost:4000/post/2018/02/07/Make-Your-Budget-Fit-Your-Life.html</guid>
+        <link>http://www.bountifulmoneycoach.com/post/2018/02/07/Make-Your-Budget-Fit-Your-Life.html</link>
+        <guid isPermaLink="true">http://www.bountifulmoneycoach.com/post/2018/02/07/Make-Your-Budget-Fit-Your-Life.html</guid>
         <media:title xmlns:media="http://search.yahoo.com/mrss/">Punch.jpg</media:title>
         <media:description xmlns:media="http://search.yahoo.com/mrss/">Punch.jpg</media:description>
-        <media:content url="http://localhost:4000/assets/images/Punch.jpg" xmlns:media="http://search.yahoo.com/mrss/" type="image/jpeg" width="600"/>
-       <media:thumbnail url="http://localhost:4000/assets/images/Punch.jpg" xmlns:media="http://search.yahoo.com/mrss/"/>
+        <media:content url="http://www.bountifulmoneycoach.com/assets/images/Punch.jpg" xmlns:media="http://search.yahoo.com/mrss/" type="image/jpeg" width="600"/>
+       <media:thumbnail url="http://www.bountifulmoneycoach.com/assets/images/Punch.jpg" xmlns:media="http://search.yahoo.com/mrss/"/>
       </item>
     
       <item>
         <title>What are True Expenses?</title>
-        <description>&lt;p&gt;If you’ve read the &lt;a href=&quot;http://localhost:4000/post/2018/01/24/Give-Every-Dollar-A-Job.html&quot;&gt;article last week&lt;/a&gt;, you know that you need to give your dollars jobs, but how do you decide what jobs are necessary in your life?&lt;/p&gt;
+        <description>&lt;p&gt;If you’ve read the &lt;a href=&quot;http://www.bountifulmoneycoach.com/post/2018/01/24/Give-Every-Dollar-A-Job.html&quot;&gt;article last week&lt;/a&gt;, you know that you need to give your dollars jobs, but how do you decide what jobs are necessary in your life?&lt;/p&gt;
 
 &lt;p&gt;You use the second YNAB rule to figure that out. “Embrace Your True Expenses” tells us that we need to fully understand our expenses, and not just the regular bills.&lt;/p&gt;
 
@@ -822,11 +822,11 @@ First, it is important to remember, money in and of itself, is not positive OR n
 &lt;p&gt;You can read the rest of the series here:&lt;/p&gt;
 
 &lt;ol&gt;
-  &lt;li&gt;&lt;a href=&quot;http://localhost:4000/post/2018/01/17/YNAB.html&quot;&gt;What is YNAB&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://localhost:4000/post/2018/01/24/Give-Every-Dollar-A-Job.html&quot;&gt;What is the Purpose of Your Money?&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://localhost:4000/post/2018/01/31/What-Are-True-Expenses.html&quot;&gt;What Are True Expenses?&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://localhost:4000/post/2018/02/07/Make-Your-Budget-Fit-Your-Life.html&quot;&gt;Make Your Budget Fit Your Life (not the other way around)&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://localhost:4000/post/2018/04/26/Aging-Your-Money.html&quot;&gt;Aging Your Money&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.bountifulmoneycoach.com/post/2018/01/17/YNAB.html&quot;&gt;What is YNAB&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.bountifulmoneycoach.com/post/2018/01/24/Give-Every-Dollar-A-Job.html&quot;&gt;What is the Purpose of Your Money?&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.bountifulmoneycoach.com/post/2018/01/31/What-Are-True-Expenses.html&quot;&gt;What Are True Expenses?&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.bountifulmoneycoach.com/post/2018/02/07/Make-Your-Budget-Fit-Your-Life.html&quot;&gt;Make Your Budget Fit Your Life (not the other way around)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.bountifulmoneycoach.com/post/2018/04/26/Aging-Your-Money.html&quot;&gt;Aging Your Money&lt;/a&gt;&lt;/li&gt;
 &lt;/ol&gt;
 
 &lt;h1 id=&quot;what-are-true-expenses&quot;&gt;What are “true” expenses&lt;/h1&gt;
@@ -863,12 +863,12 @@ First, it is important to remember, money in and of itself, is not positive OR n
 &lt;p&gt;Again, one reason to have a budget is to reduce the surprises, and to smooth out your budget. Embracing Your True Expenses is the rule that helps us make that happen!&lt;/p&gt;
 </description>
         <pubDate>Wed, 31 Jan 2018 00:00:00 -0800</pubDate>
-        <link>http://localhost:4000/post/2018/01/31/What-Are-True-Expenses.html</link>
-        <guid isPermaLink="true">http://localhost:4000/post/2018/01/31/What-Are-True-Expenses.html</guid>
+        <link>http://www.bountifulmoneycoach.com/post/2018/01/31/What-Are-True-Expenses.html</link>
+        <guid isPermaLink="true">http://www.bountifulmoneycoach.com/post/2018/01/31/What-Are-True-Expenses.html</guid>
         <media:title xmlns:media="http://search.yahoo.com/mrss/">Diamond.jpg</media:title>
         <media:description xmlns:media="http://search.yahoo.com/mrss/">Diamond.jpg</media:description>
-        <media:content url="http://localhost:4000/assets/images/Diamond.jpg" xmlns:media="http://search.yahoo.com/mrss/" type="image/jpeg" width="600"/>
-       <media:thumbnail url="http://localhost:4000/assets/images/Diamond.jpg" xmlns:media="http://search.yahoo.com/mrss/"/>
+        <media:content url="http://www.bountifulmoneycoach.com/assets/images/Diamond.jpg" xmlns:media="http://search.yahoo.com/mrss/" type="image/jpeg" width="600"/>
+       <media:thumbnail url="http://www.bountifulmoneycoach.com/assets/images/Diamond.jpg" xmlns:media="http://search.yahoo.com/mrss/"/>
       </item>
     
       <item>
@@ -882,11 +882,11 @@ First, it is important to remember, money in and of itself, is not positive OR n
 &lt;p&gt;You can read the rest of the series here:&lt;/p&gt;
 
 &lt;ol&gt;
-  &lt;li&gt;&lt;a href=&quot;http://localhost:4000/post/2018/01/17/YNAB.html&quot;&gt;What is YNAB&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://localhost:4000/post/2018/01/24/Give-Every-Dollar-A-Job.html&quot;&gt;What is the Purpose of Your Money?&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://localhost:4000/post/2018/01/31/What-Are-True-Expenses.html&quot;&gt;What Are True Expenses?&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://localhost:4000/post/2018/02/07/Make-Your-Budget-Fit-Your-Life.html&quot;&gt;Make Your Budget Fit Your Life (not the other way around)&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://localhost:4000/post/2018/04/26/Aging-Your-Money.html&quot;&gt;Aging Your Money&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.bountifulmoneycoach.com/post/2018/01/17/YNAB.html&quot;&gt;What is YNAB&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.bountifulmoneycoach.com/post/2018/01/24/Give-Every-Dollar-A-Job.html&quot;&gt;What is the Purpose of Your Money?&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.bountifulmoneycoach.com/post/2018/01/31/What-Are-True-Expenses.html&quot;&gt;What Are True Expenses?&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.bountifulmoneycoach.com/post/2018/02/07/Make-Your-Budget-Fit-Your-Life.html&quot;&gt;Make Your Budget Fit Your Life (not the other way around)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.bountifulmoneycoach.com/post/2018/04/26/Aging-Your-Money.html&quot;&gt;Aging Your Money&lt;/a&gt;&lt;/li&gt;
 &lt;/ol&gt;
 
 &lt;p&gt;One of the main ways that budgeting helps us manage our money is by illuminating our money situation and our money habits. If we don’t know where we stand right now, and we don’t know our goals, we’ll never be able to plan how to get from the starting point to the end point. So the start of our budgeting practice is “Give Every Dollar a Job”. But what does that really mean?&lt;/p&gt;
@@ -898,31 +898,31 @@ First, it is important to remember, money in and of itself, is not positive OR n
 &lt;p&gt;Third, by giving every dollar a job we can trust our category balances. In other words, if I have all of my bill categories funded, if I go to the clothing store and look at my clothing category, and it says I have $100, that means I can spend up to $100 without having to worry if I’m somehow cutting into my rent money, or utilities, or anything else. All those categories are funded with real money, too, so spending money on clothing will have nothing to do with what you can spend later in those other categories. Again, the same as if I’m projecting my income, if I budget more dollars then I have, I can no longer trust my category balances.&lt;/p&gt;
 
 &lt;h1 id=&quot;why-is-this-rule-so-important&quot;&gt;Why is this rule so important?&lt;/h1&gt;
-&lt;p&gt;Giving Every Dollar A Job is the most fundamental method of &lt;a href=&quot;http://localhost:4000/post/2017/11/22/Envelope-Budgeting.html&quot;&gt;envelope budgeting&lt;/a&gt; – When you get money, you take all of that money and put it in envelopes. When you need that money, you take that envelope with you, and spend it. This is the same thing, but instead we’re using software, because it’s more flexible and fits into modern life.&lt;/p&gt;
+&lt;p&gt;Giving Every Dollar A Job is the most fundamental method of &lt;a href=&quot;http://www.bountifulmoneycoach.com/post/2017/11/22/Envelope-Budgeting.html&quot;&gt;envelope budgeting&lt;/a&gt; – When you get money, you take all of that money and put it in envelopes. When you need that money, you take that envelope with you, and spend it. This is the same thing, but instead we’re using software, because it’s more flexible and fits into modern life.&lt;/p&gt;
 </description>
         <pubDate>Wed, 24 Jan 2018 00:00:00 -0800</pubDate>
-        <link>http://localhost:4000/post/2018/01/24/Give-Every-Dollar-A-Job.html</link>
-        <guid isPermaLink="true">http://localhost:4000/post/2018/01/24/Give-Every-Dollar-A-Job.html</guid>
+        <link>http://www.bountifulmoneycoach.com/post/2018/01/24/Give-Every-Dollar-A-Job.html</link>
+        <guid isPermaLink="true">http://www.bountifulmoneycoach.com/post/2018/01/24/Give-Every-Dollar-A-Job.html</guid>
         <media:title xmlns:media="http://search.yahoo.com/mrss/">Jobs.jpg</media:title>
         <media:description xmlns:media="http://search.yahoo.com/mrss/">Jobs.jpg</media:description>
-        <media:content url="http://localhost:4000/assets/images/Jobs.jpg" xmlns:media="http://search.yahoo.com/mrss/" type="image/jpeg" width="600"/>
-       <media:thumbnail url="http://localhost:4000/assets/images/Jobs.jpg" xmlns:media="http://search.yahoo.com/mrss/"/>
+        <media:content url="http://www.bountifulmoneycoach.com/assets/images/Jobs.jpg" xmlns:media="http://search.yahoo.com/mrss/" type="image/jpeg" width="600"/>
+       <media:thumbnail url="http://www.bountifulmoneycoach.com/assets/images/Jobs.jpg" xmlns:media="http://search.yahoo.com/mrss/"/>
       </item>
     
       <item>
         <title>YNAB - My budgeting software of choice</title>
-        <description>&lt;p&gt;Budgeting is the foundation of building a wonderful and stable financial life. But I don’t like the way budgeting is usually taught, when it is taught at all. Forecasting and rigidity are common problems that you may have encountered in trying to budget. &lt;a href=&quot;http://localhost:4000/post/2017/11/22/Envelope-Budgeting.html&quot;&gt;Envelope Budgeting&lt;/a&gt; is something I have recommended before, and I mentioned &lt;a href=&quot;http://www.ynab.com&quot;&gt;YNAB (You Need A Budget)&lt;/a&gt; as my software of choice to implement envelope budgeting. Let’s dig into YNAB, see what it can give us.&lt;/p&gt;
+        <description>&lt;p&gt;Budgeting is the foundation of building a wonderful and stable financial life. But I don’t like the way budgeting is usually taught, when it is taught at all. Forecasting and rigidity are common problems that you may have encountered in trying to budget. &lt;a href=&quot;http://www.bountifulmoneycoach.com/post/2017/11/22/Envelope-Budgeting.html&quot;&gt;Envelope Budgeting&lt;/a&gt; is something I have recommended before, and I mentioned &lt;a href=&quot;http://www.ynab.com&quot;&gt;YNAB (You Need A Budget)&lt;/a&gt; as my software of choice to implement envelope budgeting. Let’s dig into YNAB, see what it can give us.&lt;/p&gt;
 
 &lt;!--more--&gt;
 
 &lt;p&gt;You can read the rest of the series here:&lt;/p&gt;
 
 &lt;ol&gt;
-  &lt;li&gt;&lt;a href=&quot;http://localhost:4000/post/2018/01/17/YNAB.html&quot;&gt;What is YNAB&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://localhost:4000/post/2018/01/24/Give-Every-Dollar-A-Job.html&quot;&gt;What is the Purpose of Your Money?&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://localhost:4000/post/2018/01/31/What-Are-True-Expenses.html&quot;&gt;What Are True Expenses?&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://localhost:4000/post/2018/02/07/Make-Your-Budget-Fit-Your-Life.html&quot;&gt;Make Your Budget Fit Your Life (not the other way around)&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://localhost:4000/post/2018/04/26/Aging-Your-Money.html&quot;&gt;Aging Your Money&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.bountifulmoneycoach.com/post/2018/01/17/YNAB.html&quot;&gt;What is YNAB&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.bountifulmoneycoach.com/post/2018/01/24/Give-Every-Dollar-A-Job.html&quot;&gt;What is the Purpose of Your Money?&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.bountifulmoneycoach.com/post/2018/01/31/What-Are-True-Expenses.html&quot;&gt;What Are True Expenses?&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.bountifulmoneycoach.com/post/2018/02/07/Make-Your-Budget-Fit-Your-Life.html&quot;&gt;Make Your Budget Fit Your Life (not the other way around)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.bountifulmoneycoach.com/post/2018/04/26/Aging-Your-Money.html&quot;&gt;Aging Your Money&lt;/a&gt;&lt;/li&gt;
 &lt;/ol&gt;
 
 &lt;h1 id=&quot;why-ynab&quot;&gt;Why YNAB?&lt;/h1&gt;
@@ -949,7 +949,7 @@ First, it is important to remember, money in and of itself, is not positive OR n
 &lt;p&gt;Have you ever had a bill come up that comes up every six months, and been surprised by it? Maybe you even had to tighten your belt on other expenses to be able to pay for it? Or had an unexpected car breakdown that completely wrecked your finances for months? With YNAB, you can make room for all your expenses, whether they be frequent and a regular amount, or infrequent and a surprising amount. You can break down those expenses to smaller monthly chunks that will have a much smaller affect on your budget, and you’ll be ready for any kind of expense you may have.&lt;/p&gt;
 
 &lt;h2 id=&quot;roll-with-the-punches&quot;&gt;Roll with the Punches&lt;/h2&gt;
-&lt;p&gt;I tell my clients, this is my favorite rule! This is truly what sets YNAB apart from other programs for me. This rule means that when your life or your priorities change, your budget changes with it, instead of &lt;a href=&quot;http://localhost:4000/post/2017/12/27/Guilt-And-Shame.html&quot;&gt;shaming&lt;/a&gt; you for not “sticking to your budget”. When you have something unexpected happen, and you need to spend more in a category, that’s just fine! Just find the money in other categories and move it to the category that needed it. No guilt, no shame, just your budget moving with you&lt;/p&gt;
+&lt;p&gt;I tell my clients, this is my favorite rule! This is truly what sets YNAB apart from other programs for me. This rule means that when your life or your priorities change, your budget changes with it, instead of &lt;a href=&quot;http://www.bountifulmoneycoach.com/post/2017/12/27/Guilt-And-Shame.html&quot;&gt;shaming&lt;/a&gt; you for not “sticking to your budget”. When you have something unexpected happen, and you need to spend more in a category, that’s just fine! Just find the money in other categories and move it to the category that needed it. No guilt, no shame, just your budget moving with you&lt;/p&gt;
 
 &lt;h2 id=&quot;live-on-last-months-income&quot;&gt;Live on Last Month’s Income&lt;/h2&gt;
 &lt;p&gt;Living on Last Month’s Income means that when you start a new month, you have all the money you need to fully budget that month. It means that you are always working one month ahead.&lt;/p&gt;
@@ -959,15 +959,15 @@ First, it is important to remember, money in and of itself, is not positive OR n
 &lt;p&gt;Another benefit of Living on Last Month’s Income is that you have an automatic one-month emergency fund. If, for example, you lose your job, you have a full month breathing space to strategize, and work to get a new job. And when you look for a job with less stress, you will do a better job interviewing!&lt;/p&gt;
 
 &lt;h1 id=&quot;what-next&quot;&gt;What next?&lt;/h1&gt;
-&lt;p&gt;I encourage you to sign up with &lt;a href=&quot;http://www.ynab.com&quot;&gt;YNAB&lt;/a&gt;. You can try it for 34 days free, and thereafter it is $6.99/mo, billed annually. I also provide local and remote &lt;a href=&quot;http://localhost:4000/services.html&quot;&gt;Money Coaching&lt;/a&gt;, to help you align your money habits with your values and goals. And stay tuned for my articles expanding on YNAB’s Four Rules!&lt;/p&gt;
+&lt;p&gt;I encourage you to sign up with &lt;a href=&quot;http://www.ynab.com&quot;&gt;YNAB&lt;/a&gt;. You can try it for 34 days free, and thereafter it is $6.99/mo, billed annually. I also provide local and remote &lt;a href=&quot;http://www.bountifulmoneycoach.com/services.html&quot;&gt;Money Coaching&lt;/a&gt;, to help you align your money habits with your values and goals. And stay tuned for my articles expanding on YNAB’s Four Rules!&lt;/p&gt;
 </description>
         <pubDate>Wed, 17 Jan 2018 00:00:00 -0800</pubDate>
-        <link>http://localhost:4000/post/2018/01/17/YNAB.html</link>
-        <guid isPermaLink="true">http://localhost:4000/post/2018/01/17/YNAB.html</guid>
+        <link>http://www.bountifulmoneycoach.com/post/2018/01/17/YNAB.html</link>
+        <guid isPermaLink="true">http://www.bountifulmoneycoach.com/post/2018/01/17/YNAB.html</guid>
         <media:title xmlns:media="http://search.yahoo.com/mrss/">Sunrise.jpg</media:title>
         <media:description xmlns:media="http://search.yahoo.com/mrss/">Sunrise.jpg</media:description>
-        <media:content url="http://localhost:4000/assets/images/Sunrise.jpg" xmlns:media="http://search.yahoo.com/mrss/" type="image/jpeg" width="600"/>
-       <media:thumbnail url="http://localhost:4000/assets/images/Sunrise.jpg" xmlns:media="http://search.yahoo.com/mrss/"/>
+        <media:content url="http://www.bountifulmoneycoach.com/assets/images/Sunrise.jpg" xmlns:media="http://search.yahoo.com/mrss/" type="image/jpeg" width="600"/>
+       <media:thumbnail url="http://www.bountifulmoneycoach.com/assets/images/Sunrise.jpg" xmlns:media="http://search.yahoo.com/mrss/"/>
       </item>
     
       <item>
@@ -1021,7 +1021,7 @@ First, it is important to remember, money in and of itself, is not positive OR n
 &lt;p&gt;So here is my list for 2018:&lt;/p&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;Be making enough money with my own business to sustain myself at my &lt;a href=&quot;http://localhost:4000/post/2017/12/13/Bare-Bones-Number.html&quot;&gt;Bare Bones Number&lt;/a&gt;. Right now that is about $2800/mo&lt;/li&gt;
+  &lt;li&gt;Be making enough money with my own business to sustain myself at my &lt;a href=&quot;http://www.bountifulmoneycoach.com/post/2017/12/13/Bare-Bones-Number.html&quot;&gt;Bare Bones Number&lt;/a&gt;. Right now that is about $2800/mo&lt;/li&gt;
   &lt;li&gt;And if I haven’t achieved that, have a part-time in a related field to continue growing and expanding professionally.&lt;/li&gt;
   &lt;li&gt;Stay debt-free!&lt;/li&gt;
   &lt;li&gt;Contribute to my retirement funds&lt;/li&gt;
@@ -1032,12 +1032,12 @@ First, it is important to remember, money in and of itself, is not positive OR n
 &lt;p&gt;What does your 2017 review look like? And what goals have you set for 2018?&lt;/p&gt;
 </description>
         <pubDate>Wed, 10 Jan 2018 00:00:00 -0800</pubDate>
-        <link>http://localhost:4000/post/2018/01/10/Yearly-review.html</link>
-        <guid isPermaLink="true">http://localhost:4000/post/2018/01/10/Yearly-review.html</guid>
+        <link>http://www.bountifulmoneycoach.com/post/2018/01/10/Yearly-review.html</link>
+        <guid isPermaLink="true">http://www.bountifulmoneycoach.com/post/2018/01/10/Yearly-review.html</guid>
         <media:title xmlns:media="http://search.yahoo.com/mrss/">Chart.jpg</media:title>
         <media:description xmlns:media="http://search.yahoo.com/mrss/">Chart.jpg</media:description>
-        <media:content url="http://localhost:4000/assets/images/Chart.jpg" xmlns:media="http://search.yahoo.com/mrss/" type="image/jpeg" width="600"/>
-       <media:thumbnail url="http://localhost:4000/assets/images/Chart.jpg" xmlns:media="http://search.yahoo.com/mrss/"/>
+        <media:content url="http://www.bountifulmoneycoach.com/assets/images/Chart.jpg" xmlns:media="http://search.yahoo.com/mrss/" type="image/jpeg" width="600"/>
+       <media:thumbnail url="http://www.bountifulmoneycoach.com/assets/images/Chart.jpg" xmlns:media="http://search.yahoo.com/mrss/"/>
       </item>
     
       <item>
@@ -1049,12 +1049,12 @@ First, it is important to remember, money in and of itself, is not positive OR n
 &lt;p&gt;Whatever your goals, I can help you get started! The foundation to achieving your money goals is creating a budget that works with your life, your values, and your goals. Please contact me if you would like guided and personalized coaching to help you achieve your goals in 2018!&lt;/p&gt;
 </description>
         <pubDate>Wed, 03 Jan 2018 00:00:00 -0800</pubDate>
-        <link>http://localhost:4000/post/2018/01/03/Happy-New-Year.html</link>
-        <guid isPermaLink="true">http://localhost:4000/post/2018/01/03/Happy-New-Year.html</guid>
+        <link>http://www.bountifulmoneycoach.com/post/2018/01/03/Happy-New-Year.html</link>
+        <guid isPermaLink="true">http://www.bountifulmoneycoach.com/post/2018/01/03/Happy-New-Year.html</guid>
         <media:title xmlns:media="http://search.yahoo.com/mrss/">Sparkler.jpg</media:title>
         <media:description xmlns:media="http://search.yahoo.com/mrss/">Sparkler.jpg</media:description>
-        <media:content url="http://localhost:4000/assets/images/Sparkler.jpg" xmlns:media="http://search.yahoo.com/mrss/" type="image/jpeg" width="600"/>
-       <media:thumbnail url="http://localhost:4000/assets/images/Sparkler.jpg" xmlns:media="http://search.yahoo.com/mrss/"/>
+        <media:content url="http://www.bountifulmoneycoach.com/assets/images/Sparkler.jpg" xmlns:media="http://search.yahoo.com/mrss/" type="image/jpeg" width="600"/>
+       <media:thumbnail url="http://www.bountifulmoneycoach.com/assets/images/Sparkler.jpg" xmlns:media="http://search.yahoo.com/mrss/"/>
       </item>
     
       <item>
@@ -1084,17 +1084,17 @@ First, it is important to remember, money in and of itself, is not positive OR n
 &lt;p&gt;Your negative feelings about money can be a natural consequence of your cultural, familial, and personal experiences with money. You are not alone in feeling guilt and shame about our money situation, most of us have had negative experiences in the past with money. The great thing is, they are important red flags that can help you recognize what you want to change in your life. And once you start making changes in your life that align your finances with your values, you will find yourself healing your relationship with money.&lt;/p&gt;
 </description>
         <pubDate>Wed, 27 Dec 2017 00:00:00 -0800</pubDate>
-        <link>http://localhost:4000/post/2017/12/27/Guilt-And-Shame.html</link>
-        <guid isPermaLink="true">http://localhost:4000/post/2017/12/27/Guilt-And-Shame.html</guid>
+        <link>http://www.bountifulmoneycoach.com/post/2017/12/27/Guilt-And-Shame.html</link>
+        <guid isPermaLink="true">http://www.bountifulmoneycoach.com/post/2017/12/27/Guilt-And-Shame.html</guid>
         <media:title xmlns:media="http://search.yahoo.com/mrss/">GuiltyDog.jpg</media:title>
         <media:description xmlns:media="http://search.yahoo.com/mrss/">GuiltyDog.jpg</media:description>
-        <media:content url="http://localhost:4000/assets/images/GuiltyDog.jpg" xmlns:media="http://search.yahoo.com/mrss/" type="image/jpeg" width="600"/>
-       <media:thumbnail url="http://localhost:4000/assets/images/GuiltyDog.jpg" xmlns:media="http://search.yahoo.com/mrss/"/>
+        <media:content url="http://www.bountifulmoneycoach.com/assets/images/GuiltyDog.jpg" xmlns:media="http://search.yahoo.com/mrss/" type="image/jpeg" width="600"/>
+       <media:thumbnail url="http://www.bountifulmoneycoach.com/assets/images/GuiltyDog.jpg" xmlns:media="http://search.yahoo.com/mrss/"/>
       </item>
     
       <item>
         <title>What To Do When Your Expenses are more than your Income!</title>
-        <description>&lt;p&gt;So you’ve &lt;a href=&quot;http://localhost:4000/post/2017/12/13/Bare-Bones-Number.html&quot;&gt;Calculated your Bare Bones Number&lt;/a&gt; and you know that your expenses are larger than your income. What do you do now? The first thing is, pause and honor yourself taking an open-eyed look at your situation. You can’t fix an issue if you don’t even know it exists, so congratulate yourself for understanding where you stand right now.&lt;/p&gt;
+        <description>&lt;p&gt;So you’ve &lt;a href=&quot;http://www.bountifulmoneycoach.com/post/2017/12/13/Bare-Bones-Number.html&quot;&gt;Calculated your Bare Bones Number&lt;/a&gt; and you know that your expenses are larger than your income. What do you do now? The first thing is, pause and honor yourself taking an open-eyed look at your situation. You can’t fix an issue if you don’t even know it exists, so congratulate yourself for understanding where you stand right now.&lt;/p&gt;
 
 &lt;!--more--&gt;
 
@@ -1151,12 +1151,12 @@ Decreasing expenses can be much faster than increasing your income. Increasing i
 &lt;p&gt;Even if you don’t have a discrepancy between your income and your Squeak-By Expenses, you may have one between your income and your average spending. You may want to go through this process in that situation too, because the same risks exist, like getting yourself into more debt, creating instability in your life, and so on. The only difference is, while you are figuring it out, you should be able to reduce your expenses to the Bare Bones level while you work through how you want to solve it.&lt;/p&gt;
 </description>
         <pubDate>Wed, 20 Dec 2017 00:00:00 -0800</pubDate>
-        <link>http://localhost:4000/post/2017/12/20/More-Expenses-Then-Income.html</link>
-        <guid isPermaLink="true">http://localhost:4000/post/2017/12/20/More-Expenses-Then-Income.html</guid>
+        <link>http://www.bountifulmoneycoach.com/post/2017/12/20/More-Expenses-Then-Income.html</link>
+        <guid isPermaLink="true">http://www.bountifulmoneycoach.com/post/2017/12/20/More-Expenses-Then-Income.html</guid>
         <media:title xmlns:media="http://search.yahoo.com/mrss/">Budget.jpg</media:title>
         <media:description xmlns:media="http://search.yahoo.com/mrss/">Budget.jpg</media:description>
-        <media:content url="http://localhost:4000/assets/images/Budget.jpg" xmlns:media="http://search.yahoo.com/mrss/" type="image/jpeg" width="600"/>
-       <media:thumbnail url="http://localhost:4000/assets/images/Budget.jpg" xmlns:media="http://search.yahoo.com/mrss/"/>
+        <media:content url="http://www.bountifulmoneycoach.com/assets/images/Budget.jpg" xmlns:media="http://search.yahoo.com/mrss/" type="image/jpeg" width="600"/>
+       <media:thumbnail url="http://www.bountifulmoneycoach.com/assets/images/Budget.jpg" xmlns:media="http://search.yahoo.com/mrss/"/>
       </item>
     
       <item>
@@ -1198,12 +1198,12 @@ Decreasing expenses can be much faster than increasing your income. Increasing i
 &lt;p&gt;Sometimes you may find in calculating your Bare Bones Number that your expenses are larger than your income. My next article will be about what to do if you find yourself in that situation.&lt;/p&gt;
 </description>
         <pubDate>Wed, 13 Dec 2017 00:00:00 -0800</pubDate>
-        <link>http://localhost:4000/post/2017/12/13/Bare-Bones-Number.html</link>
-        <guid isPermaLink="true">http://localhost:4000/post/2017/12/13/Bare-Bones-Number.html</guid>
+        <link>http://www.bountifulmoneycoach.com/post/2017/12/13/Bare-Bones-Number.html</link>
+        <guid isPermaLink="true">http://www.bountifulmoneycoach.com/post/2017/12/13/Bare-Bones-Number.html</guid>
         <media:title xmlns:media="http://search.yahoo.com/mrss/">BareBones.jpg</media:title>
         <media:description xmlns:media="http://search.yahoo.com/mrss/">BareBones.jpg</media:description>
-        <media:content url="http://localhost:4000/assets/images/BareBones.jpg" xmlns:media="http://search.yahoo.com/mrss/" type="image/jpeg" width="600"/>
-       <media:thumbnail url="http://localhost:4000/assets/images/BareBones.jpg" xmlns:media="http://search.yahoo.com/mrss/"/>
+        <media:content url="http://www.bountifulmoneycoach.com/assets/images/BareBones.jpg" xmlns:media="http://search.yahoo.com/mrss/" type="image/jpeg" width="600"/>
+       <media:thumbnail url="http://www.bountifulmoneycoach.com/assets/images/BareBones.jpg" xmlns:media="http://search.yahoo.com/mrss/"/>
       </item>
     
       <item>
@@ -1243,12 +1243,12 @@ Decreasing expenses can be much faster than increasing your income. Increasing i
 &lt;p&gt;Once you’ve paid off your Float, you can consider starting to use your credit card again. Because you already have a proven track record of paying your credit card off every month, you’ll probably continue to do well with it. But now when you use it, every dollar you spend on your credit card, you know you have a dollar in your bank account that backs that debt. It’s an amazing feeling to know that you can pay your credit card at any time, and still have enough money in your account to pay for all your expenses!&lt;/p&gt;
 </description>
         <pubDate>Wed, 06 Dec 2017 00:00:00 -0800</pubDate>
-        <link>http://localhost:4000/post/2017/12/06/Credit-Card-Float.html</link>
-        <guid isPermaLink="true">http://localhost:4000/post/2017/12/06/Credit-Card-Float.html</guid>
+        <link>http://www.bountifulmoneycoach.com/post/2017/12/06/Credit-Card-Float.html</link>
+        <guid isPermaLink="true">http://www.bountifulmoneycoach.com/post/2017/12/06/Credit-Card-Float.html</guid>
         <media:title xmlns:media="http://search.yahoo.com/mrss/">CreditCardJeans.jpg</media:title>
         <media:description xmlns:media="http://search.yahoo.com/mrss/">CreditCardJeans.jpg</media:description>
-        <media:content url="http://localhost:4000/assets/images/CreditCardJeans.jpg" xmlns:media="http://search.yahoo.com/mrss/" type="image/jpeg" width="600"/>
-       <media:thumbnail url="http://localhost:4000/assets/images/CreditCardJeans.jpg" xmlns:media="http://search.yahoo.com/mrss/"/>
+        <media:content url="http://www.bountifulmoneycoach.com/assets/images/CreditCardJeans.jpg" xmlns:media="http://search.yahoo.com/mrss/" type="image/jpeg" width="600"/>
+       <media:thumbnail url="http://www.bountifulmoneycoach.com/assets/images/CreditCardJeans.jpg" xmlns:media="http://search.yahoo.com/mrss/"/>
       </item>
     
       <item>
@@ -1325,15 +1325,15 @@ Remember, giving to yourself is giving too! Taking care of yourself helps those 
 
 &lt;h1 id=&quot;whats-next&quot;&gt;What’s next?&lt;/h1&gt;
 
-&lt;p&gt;The most important thing you can do is plan for her giving in your budget. Budgeting (especially &lt;a href=&quot;http://localhost:4000/post/2017/11/22/Envelope-Budgeting.html&quot;&gt;Envelope Budgeting&lt;/a&gt;) will allow you to find a balance that will allow for sustained giving over the rest of your life. It can help you understand whether your are giving within your means and in balance with your life, and can help you understand whether your are giving according to your values. It can also help you see how your increasing financial stability can help you be a more generous and giving person, without neglecting your needs.&lt;/p&gt;
+&lt;p&gt;The most important thing you can do is plan for her giving in your budget. Budgeting (especially &lt;a href=&quot;http://www.bountifulmoneycoach.com/post/2017/11/22/Envelope-Budgeting.html&quot;&gt;Envelope Budgeting&lt;/a&gt;) will allow you to find a balance that will allow for sustained giving over the rest of your life. It can help you understand whether your are giving within your means and in balance with your life, and can help you understand whether your are giving according to your values. It can also help you see how your increasing financial stability can help you be a more generous and giving person, without neglecting your needs.&lt;/p&gt;
 </description>
         <pubDate>Wed, 29 Nov 2017 00:00:00 -0800</pubDate>
-        <link>http://localhost:4000/post/2017/11/29/How-To-Balance-Giving-With-Budgeting.html</link>
-        <guid isPermaLink="true">http://localhost:4000/post/2017/11/29/How-To-Balance-Giving-With-Budgeting.html</guid>
+        <link>http://www.bountifulmoneycoach.com/post/2017/11/29/How-To-Balance-Giving-With-Budgeting.html</link>
+        <guid isPermaLink="true">http://www.bountifulmoneycoach.com/post/2017/11/29/How-To-Balance-Giving-With-Budgeting.html</guid>
         <media:title xmlns:media="http://search.yahoo.com/mrss/">Gifts.jpg</media:title>
         <media:description xmlns:media="http://search.yahoo.com/mrss/">Gifts.jpg</media:description>
-        <media:content url="http://localhost:4000/assets/images/Gifts.jpg" xmlns:media="http://search.yahoo.com/mrss/" type="image/jpeg" width="600"/>
-       <media:thumbnail url="http://localhost:4000/assets/images/Gifts.jpg" xmlns:media="http://search.yahoo.com/mrss/"/>
+        <media:content url="http://www.bountifulmoneycoach.com/assets/images/Gifts.jpg" xmlns:media="http://search.yahoo.com/mrss/" type="image/jpeg" width="600"/>
+       <media:thumbnail url="http://www.bountifulmoneycoach.com/assets/images/Gifts.jpg" xmlns:media="http://search.yahoo.com/mrss/"/>
       </item>
     
       <item>
@@ -1381,12 +1381,12 @@ Remember, giving to yourself is giving too! Taking care of yourself helps those 
 &lt;p&gt;I’ve skipped over a few other issues I have with traditional budgeting. For example, we tend to be &lt;strong&gt;far&lt;/strong&gt; too optimistic about our expenses. But for now, this gets you started on a whole new way of thinking about your budget. Remember, you don’t need to feel bad if your life isn’t fitting your budget. Your budget is supposed to be flexible enough to change with your life, instead of making you feel bad for your priorities changing over time.&lt;/p&gt;
 </description>
         <pubDate>Wed, 22 Nov 2017 00:00:00 -0800</pubDate>
-        <link>http://localhost:4000/post/2017/11/22/Envelope-Budgeting.html</link>
-        <guid isPermaLink="true">http://localhost:4000/post/2017/11/22/Envelope-Budgeting.html</guid>
+        <link>http://www.bountifulmoneycoach.com/post/2017/11/22/Envelope-Budgeting.html</link>
+        <guid isPermaLink="true">http://www.bountifulmoneycoach.com/post/2017/11/22/Envelope-Budgeting.html</guid>
         <media:title xmlns:media="http://search.yahoo.com/mrss/">Envelope.jpg</media:title>
         <media:description xmlns:media="http://search.yahoo.com/mrss/">Envelope.jpg</media:description>
-        <media:content url="http://localhost:4000/assets/images/Envelope.jpg" xmlns:media="http://search.yahoo.com/mrss/" type="image/jpeg" width="600"/>
-       <media:thumbnail url="http://localhost:4000/assets/images/Envelope.jpg" xmlns:media="http://search.yahoo.com/mrss/"/>
+        <media:content url="http://www.bountifulmoneycoach.com/assets/images/Envelope.jpg" xmlns:media="http://search.yahoo.com/mrss/" type="image/jpeg" width="600"/>
+       <media:thumbnail url="http://www.bountifulmoneycoach.com/assets/images/Envelope.jpg" xmlns:media="http://search.yahoo.com/mrss/"/>
       </item>
     
       <item>
@@ -1434,12 +1434,12 @@ Remember, giving to yourself is giving too! Taking care of yourself helps those 
 &lt;p&gt;Note: you can find out more about the history of this technique on &lt;a href=&quot;https://en.wikipedia.org/wiki/5_Whys&quot;&gt;Wikipedia&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Wed, 15 Nov 2017 00:00:00 -0800</pubDate>
-        <link>http://localhost:4000/post/2017/11/15/The-Five-Whys.html</link>
-        <guid isPermaLink="true">http://localhost:4000/post/2017/11/15/The-Five-Whys.html</guid>
+        <link>http://www.bountifulmoneycoach.com/post/2017/11/15/The-Five-Whys.html</link>
+        <guid isPermaLink="true">http://www.bountifulmoneycoach.com/post/2017/11/15/The-Five-Whys.html</guid>
         <media:title xmlns:media="http://search.yahoo.com/mrss/">Why.jpg</media:title>
         <media:description xmlns:media="http://search.yahoo.com/mrss/">Why.jpg</media:description>
-        <media:content url="http://localhost:4000/assets/images/Why.jpg" xmlns:media="http://search.yahoo.com/mrss/" type="image/jpeg" width="600"/>
-       <media:thumbnail url="http://localhost:4000/assets/images/Why.jpg" xmlns:media="http://search.yahoo.com/mrss/"/>
+        <media:content url="http://www.bountifulmoneycoach.com/assets/images/Why.jpg" xmlns:media="http://search.yahoo.com/mrss/" type="image/jpeg" width="600"/>
+       <media:thumbnail url="http://www.bountifulmoneycoach.com/assets/images/Why.jpg" xmlns:media="http://search.yahoo.com/mrss/"/>
       </item>
     
       <item>
@@ -1457,12 +1457,12 @@ Remember, giving to yourself is giving too! Taking care of yourself helps those 
 &lt;p&gt;— Cecilia Case, Money Coach&lt;/p&gt;
 </description>
         <pubDate>Wed, 08 Nov 2017 00:00:00 -0800</pubDate>
-        <link>http://localhost:4000/post/2017/11/08/Welcome-To-Financial-Freedom.html</link>
-        <guid isPermaLink="true">http://localhost:4000/post/2017/11/08/Welcome-To-Financial-Freedom.html</guid>
+        <link>http://www.bountifulmoneycoach.com/post/2017/11/08/Welcome-To-Financial-Freedom.html</link>
+        <guid isPermaLink="true">http://www.bountifulmoneycoach.com/post/2017/11/08/Welcome-To-Financial-Freedom.html</guid>
         <media:title xmlns:media="http://search.yahoo.com/mrss/">CoinSprout.png</media:title>
         <media:description xmlns:media="http://search.yahoo.com/mrss/">CoinSprout.png</media:description>
-        <media:content url="http://localhost:4000/assets/images/CoinSprout.png" xmlns:media="http://search.yahoo.com/mrss/" type="image/jpeg" width="600"/>
-       <media:thumbnail url="http://localhost:4000/assets/images/CoinSprout.png" xmlns:media="http://search.yahoo.com/mrss/"/>
+        <media:content url="http://www.bountifulmoneycoach.com/assets/images/CoinSprout.png" xmlns:media="http://search.yahoo.com/mrss/" type="image/jpeg" width="600"/>
+       <media:thumbnail url="http://www.bountifulmoneycoach.com/assets/images/CoinSprout.png" xmlns:media="http://search.yahoo.com/mrss/"/>
       </item>
     
   </channel>
